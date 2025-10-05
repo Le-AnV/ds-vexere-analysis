@@ -1,0 +1,21 @@
+bus_name,bus_rating,seat_type,from_hour,from_place,duration,to_hour,to_place,date_arrival,price_original,price_discount,discount_percent,notification
+Đà Lạt ơi,4.8 (3405),Limousine 24 Phòng ĐÔI,23:45,• Trạm Quận 1,5h45m,05:30,• Trạm Nha Trang,(03/10),450.000,Từ 350.000,-22%,Lộ trình: Hàng Xanh - Quận 1 - Cao tốc đến Cam Ranh
+Khanh Phong,4.7 (16769),Limousine 32 giường nằm (WC),13:05,• Văn Phòng Phạm Ngũ Lão - Quận 1.,6h10m,19:15,• Văn Phòng Nha Trang (KS Mường Thanh),,320.000,300.000,-6%,Quý khách lưu ý
+Huỳnh Gia,4.7 (8497),Giường nằm 38 chỗ (WC),22:30,• Văn Phòng Phạm Ngũ Lão,6h30m,05:00,• Văn Phòng Nha Trang,(03/10),280.000,250.000,-11%,Lộ trình: Cao tốc (Long Thành - Dầu Giây - Phan Thiết)
+An Anh Limousine,4.8 (8268),Limousine 34 Phòng Đơn,23:30,• Văn Phòng Quận 5,6h30m,06:00,• Văn phòng Nha Trang,(03/10),299.000,250.000,-16%,Tiện ích miễn phí
+Bình Minh Tải,4.7 (3615),Limousine 22 Phòng Đơn,22:30,• Văn Phòng Quận 1,7h5m,05:35,• Văn phòng Nha Trang,(03/10),Từ 350.000,Từ 350.000,,Hướng đi: Cao tốc (Long Thành - Dầu Giây - Phan Thiết)
+Nhật Dương - Bình Minh Bus,4.9 (5802),Limousine phòng 21 đôi (WC),05:00,• Văn phòng Nguyễn Cư Trinh Quận 1,7h50m,12:50,• Vp Thích Quảng Đức Nha Trang,,349.000,Từ 270.000,-23%,NX xuất HĐ VAT - Hướng đi: Cao tốc
+Nam Hải Limousine,4.7 (3440),Limousine 34 giường,22:20,• Văn Phòng Phạm Ngũ Lão,8h,06:20,• Văn Phòng Nha Trang,(03/10),300.000,270.000,-10%,Lưu ý Đón/Trả tại TP.HCM
+Bus365,4.7 (164),Limousine 24 phòng đôi,22:00,• Bến Xe Miền Đông Mới,6h,04:00,• Văn Phòng Nha Trang,(03/10),400.000,Từ 289.000,-28%,Vé Metro miễn phí
+Trà Lan Viên,4.4 (4188),Limousine 21 Phòng Đơn (WC),13:00,• Vp. Quận 1,7h20m,20:20,• VP Hà Quang 2,,470.000,350.000,-26%,Quý khách lưu ý giường cuối
+Trọng Thủy Limousine,4.7 (1342),Limousine 24 phòng Đôi,21:00,• Ngã 4 An Sương,7h,04:00,• Văn phòng Nha Trang,(03/10),470.000,Từ 390.000,-17%,Kích thước giường cuối
+Đà Lạt ơi,4.8 (3405),Limousine 24 Phòng ĐÔI,23:30,• Trạm Hàng Xanh,6h,05:30,• Trạm Nha Trang,(03/10),450.000,Từ 350.000,-22%,Lộ trình: Hàng Xanh - Quận 1 - Cao tốc đến Cam Ranh
+Khanh Phong,4.7 (16769),Limousine 20 giường phòng (WC),05:00,• Văn Phòng Phạm Ngũ Lão - Quận 1.,6h10m,11:10,• Văn Phòng Nha Trang (KS Mường Thanh),,480.000,Từ 400.000,-17%,Quý khách lưu ý
+An Anh Limousine,4.8 (8268),Limousine 24 Phòng Đôi,05:00,• Văn Phòng Quận 5,6h30m,11:30,• Văn phòng Nha Trang,,350.000,Từ 199.000,-43%,Tiện ích miễn phí
+Nhật Dương - Bình Minh Bus,4.9 (5802),Limousine phòng 22 đôi (WC),22:35,• Văn phòng Nguyễn Cư Trinh Quận 1,7h50m,06:25,• Vp Thích Quảng Đức Nha Trang,(03/10),349.000,Từ 269.000,-23%,NX xuất HĐ VAT - Hướng đi: Cao tốc
+Bình Minh Tải,4.7 (3615),Limousine 32 Phòng (WC),22:50,• Văn Phòng Quận 1,7h5m,05:55,• Văn phòng Nha Trang,(03/10),320.000,250.000,-22%,Hướng đi: Cao tốc (Long Thành - Dầu Giây - Phan Thiết)
+Huỳnh Gia,4.7 (8497),Limousine 21 giường phòng (WC),15:00,• Văn Phòng Phạm Ngũ Lão,7h,22:00,• Văn Phòng Nha Trang,,480.000,Từ 440.000,-8%,Lộ trình: Cao tốc (Long Thành - Dầu Giây - Phan Thiết)
+Nam Hải Limousine,4.7 (3440),Limousine 24 phòng,10:15,• Văn Phòng Phạm Ngũ Lão,8h,18:15,• Văn Phòng Nha Trang,,400.000,Từ 350.000,-12%,Lưu ý Đón/Trả tại TP.HCM
+Bus365,4.7 (164),Limousine 24 phòng đôi,12:30,• Bến Xe Miền Đông Mới,6h,18:30,• Văn Phòng Nha Trang,,400.000,Từ 289.000,-28%,Vé Metro miễn phí
+Trà Lan Viên,4.4 (4188),Limousine 30 Phòng Đơn (WC),22:15,• Vp. Quận 1,7h20m,05:35,• VP Hà Quang 2,(03/10),280.000,260.000,-7%,Quý khách lưu ý giường cuối
+Liên Hưng,4 (12885),Limousine 21 phòng đơn (WC),20:30,• Bến Xe An Sương (Quầy vé 17),10h,06:30,• Văn Phòng Diên Toàn,(03/10),490.000,Từ 350.000,-29%,
