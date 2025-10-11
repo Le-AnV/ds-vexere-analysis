@@ -1,0 +1,9 @@
+{
+  "DB_CONNECTION": {
+    "USER": "postgres",
+    "HOST": "localhost",
+    "DATABASE": "vexere_db",
+    "PASSWORD": "2785",
+    "PORT": 5432
+  }
+}
