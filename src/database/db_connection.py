@@ -38,5 +38,23 @@ def close_db(conn):
         print("Database connection closed.")
 
 
-conn = connect_db()
-close_db(conn)
+def execute(conn, query, values=None):
+    try:
+        with conn.cursor() as cur:
+            cur.execute(query, values or ())
+            conn.commit()
+        return True
+    except Exception as e:
+        conn.rollback()
+        print(f"Database execution error: {e}")
+        return False
+
+
+def fetch(conn, query, values=None):
+    try:
+        with conn.cursor() as cur:
+            cur.execute(query, values or ())
+            return cur.fetchall()
+    except Exception as e:
+        print(f"Database fetch error: {e}")
+        return []

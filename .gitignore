@@ -1,2 +1,3 @@
-./process_data/test.ipynb
+./src/process_data/test.ipynb
 .venv/
+.vscode/
