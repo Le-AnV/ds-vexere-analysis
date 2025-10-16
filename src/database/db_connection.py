@@ -16,45 +16,56 @@ user = DATABASE["USER"]
 password = DATABASE["PASSWORD"]
 
 
-def connect_db():
-    conn = None
-    try:
-        conn = psycopg2.connect(
-            host=host,
+class DatabaseManager:
+    def __init__(
+        self,
+        database,
+        user,
+        password,
+        host="localhost",
+        port=5432,
+    ):
+        # Connect
+        self.conn = psycopg2.connect(
             database=database,
-            port=port,
             user=user,
             password=password,
+            host=host,
+            port=port,
         )
-        print("Database connection successful.")
-    except psycopg2.Error as e:
-        print(f"Error connecting to the database: {e}")
-    return conn
 
+        # Cursor for query
+        self.cur = self.conn.cursor()
 
-def close_db(conn):
-    if conn:
-        conn.close()
-        print("Database connection closed.")
+    def execute(self, query, values=None):
+        # Thực thi câu lệnh SQL (INSERT, UPDATE, DELETE)
+        try:
+            self.cur.execute(query, values or ())
+            self.conn.commit()
+            return True
+        except Exception as e:
+            print(f"Database execution error: {e}")
+            return False
 
+    def fetch(self, query, values=None):
+        # Thực thi câu lệnh SQL (SELECT) và trả về kết quả
+        try:
+            self.cur.execute(query, values or ())
+            return self.cur.fetchall()  # Lấy tất cả dữ liệu từ truy vấn
+        except Exception as e:
+            print(f"Database fetch error: {e}")
+            return []
 
-def execute(conn, query, values=None):
-    try:
-        with conn.cursor() as cur:
-            cur.execute(query, values or ())
-            conn.commit()
-        return True
-    except Exception as e:
-        conn.rollback()
-        print(f"Database execution error: {e}")
-        return False
+    def close(self):
+        # Đóng kết nối cơ sở dữ liệu
+        self.cur.close()
+        self.conn.close()
+        return "Close done"
 
-
-def fetch(conn, query, values=None):
-    try:
-        with conn.cursor() as cur:
-            cur.execute(query, values or ())
-            return cur.fetchall()
-    except Exception as e:
-        print(f"Database fetch error: {e}")
-        return []
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        """Đóng kết nối khi thoát khỏi khối 'with'."""
+        if exc_type:  # Nếu có lỗi xảy ra
+            if self.conn:
+                self.conn.rollback()  # Hoàn tác các thay đổi chưa được commit
+            print(f"⚠️ Lỗi xảy ra trong khối 'with', thực hiện rollback.")
+        self.close()

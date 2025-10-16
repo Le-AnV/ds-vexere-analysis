@@ -1,0 +1,21 @@
+bus_name,bus_rating,seat_type,departure_time,pick_up_point,arrival_date,arrival_time,drop_of_point,duration,original_price,sale_price,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Hoàng Thuỷ,4.7 (3363),Limousine 34 Giường VIP,18:45,• Bến xe Miền Đông - Quầy vé 37,(18/10),05:45,• Bến Xe Đức Long Gia Lai,11h,350.000,300.000,-14%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.8,4.7,4.6,4.6,4.6,4.6,4.9
+Việt Tân Phát,4.6 (92),34 Phòng,17:45,• Bến xe Miền Đông,(18/10),04:55,• Bến xe Đắk Đoa,11h10m,370.000,300.000,-19%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.7,4.7,4.5,4.6,4.5,4.6
+Sinh Diên Hồng,4.6 (227),Limousine 34 chỗ,17:30,• Bến xe An Sương,(18/10),04:15,• Bến Xe Đức Long Gia Lai,10h45m,370.000,296.000,-20%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.6,4.8,4.7,4.6,4.5,4.8
+Kính Diên Hồng,4.6 (1127),Limousine giường nằm 34 chỗ,18:40,• Bến Xe Miền Đông - Quầy vé 19,(18/10),05:40,• Bến Xe Đức Long Gia Lai,11h,350.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+An Phát,4.5 (375),Limosuine 24 Phòng,17:30,• BX Miền Đông - Cổng 4,(18/10),07:15,• Bến Xe K-Bang,13h45m,550.000,400.000,-27%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.3,4.5,4.8
+Vương Tấn Dũng,4.8 (372),Limousine 24 Phòng,17:45,• VP QL13,(18/10),06:00,• Bến xe An Khê,12h15m,500.000,450.000,-10%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.8,4.7,4.8,4.8,4.8,4.8,4.8
+Đức Đạt,4.7 (974),Limousine giường nằm 34 chỗ,18:25,• Bến xe Miền Đông - Quầy vé 17,(18/10),04:50,• Bến Xe Đức Long Gia Lai,10h25m,350.000,300.000,-14%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.5,4.5,4.5,4.4,4.4,4.8
+Thuận Tiến,4.7 (4930),Limousine 34 giường,18:30,• Bến Xe Miền Đông - Quầy vé 24,(18/10),06:55,• Bến Xe Đức Long Gia Lai,12h25m,350.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.8
+Tấn Hưng (Gia Lai),4.4 (101),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(18/10),07:55,• Bến xe khách Kbang,14h25m,650.000,400.000,-38%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.5,4.2,4.4,4.5,4.4,4.4,3.6
+Bảy Lang,4.7 (271),Limousine 34 giường,18:30,"• Bến xe miền đông cũ (Dãy số 6, Ô C14)",(18/10),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.8,4.6,4.6,4.7,4.5,4.5,4.4
+Hoàng Thuỷ,4.7 (3363),Limousine giường phòng 24 chỗ,19:00,• Bến xe Miền Đông - Quầy vé 37,(18/10),06:00,• Bến Xe Đức Long Gia Lai,11h,550.000,350.000,-36%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.8,4.7,4.6,4.6,4.6,4.6,4.9
+An Phát,4.5 (375),Limousine 34 phòng VIP,16:30,• BX Miền Đông - Cổng 4,(18/10),06:15,• Bến Xe K-Bang,13h45m,400.000,300.000,-25%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.3,4.5,4.8
+Đức Đạt,4.7 (974),Limousine giường nằm 24 chỗ,18:05,• Bến xe Miền Đông - Quầy vé 17,(18/10),04:30,• Bến Xe Đức Long Gia Lai,10h25m,500.000,450.000,-10%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.5,4.5,4.5,4.4,4.4,4.8
+Kính Diên Hồng,4.6 (1127),Limousine 24 Phòng,19:30,• Bến Xe Miền Đông - Quầy vé 19,(18/10),06:30,• Bến Xe Đức Long Gia Lai,11h,450.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Thuận Tiến,4.7 (4930),Limousine 22 giường,19:30,• Bến Xe Miền Đông - Quầy vé 24,(18/10),07:55,• Bến Xe Đức Long Gia Lai,12h25m,400.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.8
+Sinh Diên Hồng,4.6 (227),Limousine 34 chỗ,17:45,• Bến Xe Miền Đông cũ,(18/10),05:45,• Bến xe Đắk Đoa.,12h,380.000,304.000,-20%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.6,4.6,4.8,4.7,4.6,4.5,4.8
+Tấn Hưng (Gia Lai),4.4 (101),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(18/10),06:55,• VP An Khê,13h25m,650.000,400.000,-38%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.5,4.2,4.4,4.5,4.4,4.4,3.6
+Việt Tân Phát,4.6 (92),34 Phòng,17:30,• Bến xe Miền Đông,(18/10),06:25,• Bến xe thị xã An Khê,12h55m,370.000,320.000,-14%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.7,4.7,4.5,4.6,4.5,4.6
+Vương Tấn Dũng,4.8 (372),Limousine 24 Phòng,17:45,• VP QL13,(18/10),04:30,• Văn phòng Pleiku,10h45m,500.000,450.000,-10%,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.8,4.7,4.8,4.8,4.8,4.8,4.8
+Thuận Ý,4.5 (415),Limousine 24 Phòng,18:30,• Bến Xe Miền Đông - Quầy vé 10,(18/10),06:00,• Bến Xe Đức Long Gia Lai,11h30m,500.000,,,"T6, 17/10/2025",Sài Gòn,Gia Lai,4.7,4.3,4.3,4.3,4.3,4.1,5.0
