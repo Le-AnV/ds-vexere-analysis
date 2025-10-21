@@ -1,3 +1,2 @@
-./src/processing/test.ipynb
-./.venv/
-./.vscode/
+.venv/
+.vscode/
