@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+FUTA HÀ SƠN,4.8 (349),Limousine 24 chỗ,18:10,"• Văn phòng Kim Anh Nội Bài, Hà Nội",,20:20,• Bến xe Ninh Bình,2h10m,360.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Khánh An Limousine,4.8 (121),Limousine 11 chỗ,07:30,• Công viên Cầu Giấy,,09:10,• Văn Phòng Ninh Bình,1h40m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.7,4.8,4.8,4.8,4.9,4.9,5.0
+Ninh Bình Discovery Bus,4.5 (31),Limousine 11 chỗ,08:30,• Rạp Xiếc Trung Ương,,10:00,• Tam Cốc Queen's Travel,1h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.7,4.4,4.5,4.7,4.5,4.7,4.7
+Hoa Lư Limousine,4.3 (129),Limousine 11 chỗ VIP,05:30,• Tôn Thất Thuyết - Cầu Giấy,,06:50,•   Văn phòng Hoa Lư Limousine,1h20m,155.000,100.000đ,-35%,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.2,4.2,4.2,4.3,4.6,4.3,4.5
+X.E Việt Nam,4.8 (1617),Limousine 11 chỗ,12:00,• Hà Nội,,13:48,• Ninh Bình,1h48m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Tràng An Limousine,4.3 (1083),Limousine 12 chỗ,07:50,• Văn phòng 23 Tú Mỡ,,09:10,• Văn phòng Ninh Bình,1h20m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.3,4.4,4.4,4.2,4.4,4.3,4.7
+Ninh Bình Car,4.6 (290),Limousine 12 chỗ,10:00,• Văn phòng Hà Nội,,11:20,• Văn phòng Ninh Bình,1h20m,170.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.6,4.5,4.6,4.6,4.6,4.5,4.8
+Tam Coc Queen Travel,4.8 (12),Xe Limousine 11 chỗ,09:30,• Rạp xiếc Trung Ương,,11:30,• Tam Coc Queen Travel,2h,250.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Thành Trung Limousine,4.1 (116),Limousine 11 chỗ,10:00,• Văn phòng Hà Nội,,11:15,• Văn phòng Ninh Bình,1h15m,180.000,Từ 160.000đ,-11%,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.4,4.0,4.0,4.3,4.4,3.9,4.4
+Ninh Bình Excursion Transport,4.3 (169),Limousine 11 chỗ VIP,17:30,• Văn phòng Hà Nội (số 10 Hàng Phèn),,19:55,• Văn phòng Ninh Bình,2h25m,170.000,160.000đ,-6%,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.4,4.2,4.2,4.4,4.3,4.4,4.6
+Ninh Bình Discovery Bus,4.5 (31),Limousine 11 chỗ,07:30,• Rạp Xiếc Trung Ương,,09:00,• Tam Cốc Queen's Travel,1h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.7,4.4,4.5,4.7,4.5,4.7,4.7
+X.E Việt Nam,4.8 (1617),Limousine 11 chỗ,12:00,• Hà Nội,,13:48,• Ninh Bình,1h48m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Tràng An Limousine,4.3 (1083),Limousine 12 chỗ,14:50,• Văn phòng 23 Tú Mỡ,,16:10,• Văn phòng Ninh Bình,1h20m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.3,4.4,4.4,4.2,4.4,4.3,4.7
+Hoa Lư Limousine,4.3 (129),Limousine 11 chỗ VIP,09:30,• Tôn Thất Thuyết - Cầu Giấy,,10:50,•   Văn phòng Hoa Lư Limousine,1h20m,155.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Ninh Bình Car,4.6 (290),Limousine 12 chỗ,12:00,• Văn phòng Hà Nội,,13:20,• Văn phòng Ninh Bình,1h20m,170.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.6,4.5,4.6,4.6,4.6,4.5,4.8
+Tam Coc Queen Travel,4.8 (12),Xe Limousine 11 chỗ,11:30,• Rạp xiếc Trung Ương,,13:30,• Tam Coc Queen Travel,2h,250.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,5.0,4.8,4.8,5.0,5.0,5.0,5.0
+Thành Trung Limousine,4.1 (116),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,06:15,• Văn phòng Ninh Bình,1h15m,180.000,Từ 160.000đ,-11%,"T6, 31/10/2025",Hà Nội,Ninh Bình,,,,,,,
+Bình Minh Limousine,3.9 (154),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,18:30,• Văn Phòng Ninh Bình,1h30m,140.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.0,3.9,3.9,3.9,3.9,3.8,4.5
+Bình Minh Limousine,3.9 (154),Limousine 11 chỗ,10:00,• Văn Phòng Hà Nội,,11:30,• Văn Phòng Ninh Bình,1h30m,140.000,,,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.0,3.9,3.9,3.9,3.9,3.8,4.5
+Ninh Bình Excursion Transport,4.3 (169),Limousine 11 chỗ VIP,14:30,• Văn phòng Hà Nội (số 10 Hàng Phèn),,16:55,• Văn phòng Ninh Bình,2h25m,170.000,160.000đ,-6%,"T6, 31/10/2025",Hà Nội,Ninh Bình,4.4,4.2,4.2,4.4,4.3,4.4,4.6

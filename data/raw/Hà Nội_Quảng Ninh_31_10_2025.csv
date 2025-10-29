@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Trung Thành Limousine,4.9 (596),Limousine 9 chỗ,14:00,• Văn phòng Hà Nội,,16:30,• Ngã 3 Cứu Hỏa,2h30m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.8,4.7,4.7,4.7,4.7,4.7,4.9
+Hạ Long Travel Limousine,4.8 (819),Limousine 10 chỗ,05:04,• Văn Phòng Long Biên,,07:34,• Văn phòng Hạ Long,2h30m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.8,5.0
+Phúc Xuyên,4.5 (823),Limousine 10 chỗ,12:00,• Văn Phòng Long Biên,,14:30,• Văn phòng Hạ Long,2h30m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.6,4.5,4.7,4.6,4.5,4.5,4.4
+Hạ Long Star Limousine,5 (96),Limousine 9 chỗ,08:00,• VP Hà Nội,,10:30,• VP Hạ Long,2h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,5.0,5.0,4.9,5.0,5.0,5.0,5.0
+Cửa Ông Limousine,4.1 (516),VIP Limousine 9 chỗ,03:00,• Văn phòng số 1 Nguyễn Hoàng,,06:15,• Hạ Long,3h15m,240.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.4,4.1,4.3,4.3,4.2,4.1,4.3
+Phú Bình (Quảng Ninh),4.9 (47),Ghế ngồi 7 chỗ,05:00,• Nhà Hát Lớn Hà Nội,,07:40,• Chợ Trung Tâm Uông Bí,2h40m,180.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,,,,,,,
+Ka Long (Hoàng Kiên),5 (68),Cabin 34 phòng,22:00,• Bến xe Mỹ Đình,(01/11),05:40,• Bến xe Móng Cái,7h40m,250.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,4.5,4.9,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,05:00,• BigC Thăng Long (cổng Tú Mỡ),,08:00,• cảng Ao Tiên,3h,300.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Cửa Ông Bus,5 (7),Limousine 9 chỗ,12:00,• Văn phòng số 1 Nguyễn Hoàng,,15:30,• VP Quảng Ninh,3h30m,240.000,Từ 220.000đ,-8%,"T6, 31/10/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Hạ Long Xanh,4.4 (70),Sơ đồ 16 chỗ,11:00,• VP Hà Nội,,14:00,• Văn phòng Hạ Long,3h,180.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,,,,,,,
+Trung Thành Limousine,4.9 (596),Limousine 9 chỗ,08:00,• Văn phòng Hà Nội,,11:40,• Văn phòng Vân Đồn,3h40m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.8,4.7,4.7,4.7,4.7,4.7,4.9
+Hạ Long Travel Limousine,4.8 (819),Limousine 10 chỗ,10:00,• Văn Phòng Long Biên,,12:30,• Văn phòng Hạ Long,2h30m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.8,5.0
+Phúc Xuyên,4.5 (823),Limousine 11 chỗ,17:01,• Văn Phòng Long Biên,,19:31,• Văn phòng Hạ Long,2h30m,260.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,,,,,,,
+Hạ Long Star Limousine,5 (96),Limousine 9 chỗ,10:00,• VP Hà Nội,,12:30,• VP Hạ Long,2h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,,,,,,,
+Phú Bình (Quảng Ninh),4.9 (47),Ghế ngồi 7 chỗ,15:00,• Nhà Hát Lớn Hà Nội,,17:40,• Chợ Trung Tâm Uông Bí,2h40m,180.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.6,4.1,4.6,4.8
+Cửa Ông Limousine,4.1 (516),VIP Limousine 9 chỗ,13:00,• Văn phòng số 1 Nguyễn Hoàng,,16:45,• Cẩm Phả,3h45m,240.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.4,4.1,4.3,4.3,4.2,4.1,4.3
+Cửa Ông Bus,5 (7),Limousine 9 chỗ,18:00,• Văn phòng số 1 Nguyễn Hoàng,,21:30,• VP Quảng Ninh,3h30m,240.000,Từ 220.000đ,-8%,"T6, 31/10/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Cường Phát Limousine,4.6 (22),Limousine 11 chỗ,08:30,• VP Hà Nội,,11:30,• Cảng tàu khách quốc tế Hạ Long,3h,240.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.8,4.7,4.7,4.6,4.9,4.7,4.7
+Hải Phòng Travel (Đất Cảng),4.4 (1242),Limousine 11 chỗ,19:00,• Hà Nội,,21:30,• Quảng Ninh,2h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.5,4.3,4.3,4.4,4.4,4.3,4.3
+Hải Phòng Travel (Đất Cảng),4.4 (1242),Limousine 11 chỗ,09:00,• Hà Nội,,11:30,• Quảng Ninh,2h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Quảng Ninh,4.5,4.3,4.3,4.4,4.4,4.3,4.3

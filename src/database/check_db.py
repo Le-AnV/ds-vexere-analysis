@@ -1,32 +1,63 @@
 from db_connection import DatabaseManager
-import json
-import os
+import pandas as pd
+import json, os
 
+# ===== 1️⃣ Load cấu hình kết nối DB =====
+with open(
+    os.path.join(os.path.dirname(__file__), "config.json"), encoding="utf-8"
+) as f:
+    db_conf = json.load(f)["DB_CONNECTION"]
 
-# ===== Lấy dữ liệu connect DB từ json ======
-current_dir = os.path.dirname(os.path.abspath(__file__))
-json_path = os.path.join(current_dir, "config.json")
-
-with open(json_path, "r", encoding="utf-8") as f:
-    config = json.load(f)
-
-DATABASE = config["DB_CONNECTION"]
-host = DATABASE["HOST"]
-port = DATABASE["PORT"]
-database = DATABASE["DATABASE"]
-user = DATABASE["USER"]
-password = DATABASE["PASSWORD"]
-
-# ====== Khỏi tạo Database ======
 db_manager = DatabaseManager(
-    host=host, port=port, user=user, database=database, password=password
+    **{
+        "host": db_conf["HOST"],
+        "port": db_conf["PORT"],
+        "database": db_conf["DATABASE"],
+        "user": db_conf["USER"],
+        "password": db_conf["PASSWORD"],
+    }
 )
 
-query = """SELECT city_id FROM cities WHERE city_name = %s OR city_abbr = %s"""
+# ===== 2️⃣ Đọc toàn bộ dữ liệu =====
+df = pd.read_csv("data/clean/vexere_db.csv", keep_default_na=False, na_values=[])
 
 
-id_departure = db_manager.get_or_insert_route(
-    db_manager.execute_and_get_id(query, ("Sài Gòn", None)),
-    db_manager.execute_and_get_id(query, ("Phú Yên", None)),
-)
-print(id_departure)
+# ===== 3️⃣ Hàm xử lý từng dòng dữ liệu =====
+def process_row(row):
+    company_data = {
+        k.replace("company_", "bus_"): getattr(row, k)
+        for k in df.columns
+        if k.startswith("company_") or k.startswith("rating_")
+    }
+    trip_data = {
+        k: getattr(row, k)
+        for k in [
+            "number_of_seat" "departure_date",
+            "departure_time",
+            "duration_minutes",
+            "pickup_point",
+            "dropoff_point",
+            "price_original",
+            "price_discounted",
+        ]
+    }
+    return company_data, trip_data
+
+
+# ===== 4️⃣ Ingest dữ liệu =====
+for i, row in enumerate(df.itertuples(index=False), start=1):
+    try:
+        company_data, trip_data = process_row(row)
+        trip_id = db_manager.insert_complete_trip(
+            start_city=row.start_point,
+            destination_city=row.destination,
+            company_data=company_data,
+            trip_data=trip_data,
+        )
+        print(
+            f"✅ ({i}) Đã insert trip ID {trip_id}: {row.start_point} → {row.destination}"
+        )
+        if i % 50 == 0:
+            print(f"--- Đã xử lý {i} chuyến xe ---")
+    except Exception as e:
+        print(f"❌ Lỗi ở dòng {i}: {e}")

@@ -1,436 +1,436 @@
-,bus_name,bus_rating,seat_type,departure_time,pick_up_point,arrival_date,arrival_time,drop_of_point,duartion,original_price,sale_price,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ,
-0,36 Limousine,4.8 (502),Limousine 11 chỗ,09:00,• Văn phòng Đồng Tàu,,11:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-1,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-2,Thành Trung Limousine,4 (113),Limousine 9 chỗ,07:00,• Văn phòng Hà Nội,,09:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-3,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,11:25,• VP Linh Đàm,,13:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-4,Thơm Phụng,4.6 (18),Giường nằm 46 chỗ,15:30,• Bến xe Nước Ngầm,,17:45,• Big C Thanh Hóa,2h15m,150.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-5,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-6,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,15:00,• Văn phòng Hoàng Mai,,17:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-7,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,10:00,• Văn Phòng Hà Nội,,13:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-8,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:30,"• Bến xe Giáp Bát, Hà Nội",,20:00,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-9,Thăng Long,4.6 (438),Giường nằm 40 chỗ,22:10,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(16/10),02:55,• Big C Thanh Hóa,4h45m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,
-10,36 Limousine,4.8 (502),Limousine 11 chỗ,20:00,• Văn phòng Đồng Tàu,,22:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-11,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,10:25,• VP Linh Đàm,,12:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-12,Thành Trung Limousine,4 (113),Limousine 11 chỗ,20:00,• Văn phòng Hà Nội,,22:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-13,Thơm Phụng,4.6 (18),Limousine 24 phòng,16:30,• Bến xe Nước Ngầm,,18:45,• Big C Thanh Hóa,2h15m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-14,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Giáp Bát,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-15,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-16,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,14:00,• Văn phòng Hoàng Mai,,16:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-17,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,19:00,• Văn Phòng Hà Nội,,22:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-18,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,23:50,"• Bến xe Nước Ngầm, Hà Nội",(16/10),01:50,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-19,Thăng Long,4.6 (438),Giường nằm 40 chỗ,23:15,• Bến xe Nước Ngầm,(16/10),02:15,• Big C Thanh Hóa,3h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,
-20,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,21:30,• Bến xe Sơn Tây,(16/10),02:30,• Big C Thanh Hóa,5h,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-21,HM Happycar,4.6 (264),Limousine 24 phòng KL VIP,20:00,• 1 Tân An Bình (Hà Nội),,23:00,• Thanh Hóa,3h,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6,
-22,Phú Quý,4.3 (468),Limousine giường phòng 22 phòng (WC) (new),22:40,• Bến xe Nước Ngầm,(16/10),01:40,• BigC Thanh Hóa,3h,400.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-23,Bảo Ngọc Limousine,4.2 (18),Limousine giường nằm 32 chỗ,17:00,• Bến xe Nước Ngầm,,19:25,• BigC Thanh Hóa,2h25m,220.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0,
-24,36 Limousine,4.8 (502),Limousine 11 chỗ,15:00,• Văn phòng Đồng Tàu,,17:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-25,36 Limousine,4.8 (502),Limousine 11 chỗ,05:30,• Văn phòng Đồng Tàu,,08:00,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-26,36 Limousine,4.8 (502),Limousine 11 chỗ,18:00,• Văn phòng Đồng Tàu,,20:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-27,Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:00,• Văn phòng Hà Nội,,17:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-28,Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:00,• Văn phòng Hà Nội,,21:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-29,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:00,• Bến xe Nước Ngầm,,22:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-30,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-31,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,08:05,• Bến xe Nước Ngầm,,10:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-32,Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:00,• Văn phòng Hà Nội,,16:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-33,Thơm Phụng,4.6 (18),Limousine 24 phòng,10:00,• Bến xe Nước Ngầm,,12:15,• Big C Thanh Hóa,2h15m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-34,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-35,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,17:25,• VP Linh Đàm,,19:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-36,Thơm Phụng,4.6 (18),Limousine 24 phòng,13:30,• Bến xe Nước Ngầm,,15:45,• Big C Thanh Hóa,2h15m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-37,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,20:25,• VP Linh Đàm,,22:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-38,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,12:25,• VP Linh Đàm,,14:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-39,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-40,36 Limousine,4.8 (502),Limousine 11 chỗ,10:00,• Văn phòng Đồng Tàu,,12:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-41,36 Limousine,4.8 (502),Limousine 11 chỗ,14:00,• Văn phòng Đồng Tàu,,16:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-42,36 Limousine,4.8 (502),Limousine 11 chỗ,08:01,• Văn phòng Đồng Tàu,,10:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-43,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-44,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,18:00,• Bến xe Nước Ngầm,,20:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-45,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,06:00,• Bến xe Nước Ngầm,,08:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-46,Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:00,• Văn phòng Hà Nội,,20:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-47,Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:00,• Văn phòng Hà Nội,,13:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-48,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,21:25,• VP Linh Đàm,,23:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-49,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,06:25,• VP Linh Đàm,,08:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-50,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,08:25,• VP Linh Đàm,,10:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-51,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-52,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,18:00,• Văn phòng Hoàng Mai,,20:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-53,Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:00,• Văn phòng Hà Nội,,19:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-54,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-55,Thơm Phụng,4.6 (18),Limousine 34 phòng,12:00,• Bến xe Nước Ngầm,,14:15,• Big C Thanh Hóa,2h15m,150.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-56,Thơm Phụng,4.6 (18),Limousine 24 phòng,18:30,• Bến xe Nước Ngầm,,20:45,• Big C Thanh Hóa,2h15m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-57,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,18:00,• Văn phòng Hoàng Mai,,20:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-58,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,06:00,• Văn phòng Hoàng Mai,,08:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-59,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-60,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,07:00,• Văn Phòng Hà Nội,,10:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-61,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,12:00,• Văn Phòng Hà Nội,,15:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-62,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,15:00,• Văn Phòng Hà Nội,,18:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-63,Thơm Phụng,4.6 (18),Limousine 24 phòng,21:30,• Bến xe Nước Ngầm,,23:45,• Big C Thanh Hóa,2h15m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,
-64,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,05:30,"• Bến xe Nước Ngầm, Hà Nội",,07:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-65,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:30,"• Bến xe Nước Ngầm, Hà Nội",,19:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-66,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,14:30,"• Bến xe Nước Ngầm, Hà Nội",,16:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-67,Thăng Long,4.6 (438),Giường nằm 40 chỗ,23:55,• Bến xe Nước Ngầm,(16/10),02:55,• Big C Thanh Hóa,3h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,
-68,Thăng Long,4.6 (438),Giường nằm 40 chỗ,21:30,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(16/10),02:15,• Big C Thanh Hóa,4h45m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,
-69,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:35,• Thị Trấn Trạm Trôi,(16/10),01:30,• Big C Thanh Hóa,4h55m,370.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-70,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:25,• Thị trấn Phùng,(16/10),01:30,• Big C Thanh Hóa,5h5m,370.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-71,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:00,• Thăng Long Number One,(16/10),02:30,• Big C Thanh Hóa,3h30m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-72,HM Happycar,4.6 (264),Limousine 24 phòng,08:00,• 1 Tân An Bình (Hà Nội),,11:00,• Thanh Hóa,3h,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6,
-73,Phú Quý,4.3 (468),Giường nằm 36 chỗ (WC),15:45,• Bến xe Nước Ngầm,,18:45,• BigC Thanh Hóa,3h,260.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-74,Phú Quý,4.3 (468),Limousine giường phòng 32 chỗ (WC),22:30,• Bến xe Nước Ngầm,(16/10),01:30,• BigC Thanh Hóa,3h,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-75,Phú Quý,4.3 (468),Giường nằm 40 chỗ (WC),17:05,• Bến xe Nước Ngầm,,20:05,• BigC Thanh Hóa,3h,260.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-76,Bảo Ngọc Limousine,4.2 (18),Limousine giường nằm 32 chỗ,18:20,• Bến xe Nước Ngầm,,20:45,• BigC Thanh Hóa,2h25m,220.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0,
-77,36 Limousine,4.8 (502),Limousine 11 chỗ,19:00,• Văn phòng Đồng Tàu,,21:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-78,36 Limousine,4.8 (502),Limousine 11 chỗ,09:01,• Văn phòng Đồng Tàu,,11:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-79,36 Limousine,4.8 (502),Limousine 11 chỗ,13:01,• Văn phòng Đồng Tàu,,15:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-80,36 Limousine,4.8 (502),Limousine 11 chỗ,15:01,• Văn phòng Đồng Tàu,,17:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-81,36 Limousine,4.8 (502),Limousine 11 chỗ,08:00,• Văn phòng Đồng Tàu,,10:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-82,36 Limousine,4.8 (502),Limousine 11 chỗ,13:00,• Văn phòng Đồng Tàu,,15:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-83,36 Limousine,4.8 (502),Limousine 11 chỗ,20:01,• Văn phòng Đồng Tàu,,22:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-84,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-85,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:05,• Bến xe Nước Ngầm,,19:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-86,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:00,• Bến xe Nước Ngầm,,17:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-87,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,16:00,• Bến xe Nước Ngầm,,18:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-88,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,19:25,• VP Linh Đàm,,21:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-89,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-90,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Nước Ngầm,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-91,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,13:25,• VP Linh Đàm,,15:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-92,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,10:00,• Bến xe Nước Ngầm,,12:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-93,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,12:05,• Bến xe Nước Ngầm,,14:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-94,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Giáp Bát,,16:30,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-95,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,07:05,• Bến xe Nước Ngầm,,09:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-96,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,04:35,• Bến xe Nước Ngầm,,07:05,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-97,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,16:05,• Bến xe Nước Ngầm,,18:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-98,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:05,• Bến xe Nước Ngầm,,15:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-99,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Nước Ngầm,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-100,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,13:00,• Văn phòng Hoàng Mai,,15:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-101,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-102,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:05,• Bến xe Nước Ngầm,,22:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-103,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Nước Ngầm,,16:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-104,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-105,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-106,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-107,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-108,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Giáp Bát,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-109,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,21:00,• Văn Phòng Hà Nội,,23:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-110,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:30,• Bến xe Nước Ngầm,,15:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-111,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-112,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,11:00,• Bến xe Nước Ngầm,,13:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-113,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-114,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-115,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,17:00,• Văn phòng Hoàng Mai,,19:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-116,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,15:25,• VP Linh Đàm,,17:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-117,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:00,• Bến xe Nước Ngầm,,19:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-118,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:05,• Bến xe Nước Ngầm,,16:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-119,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,21:00,• Bến xe Nước Ngầm,,23:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-120,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-121,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-122,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-123,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-124,36 Limousine,4.8 (502),Limousine 11 chỗ,05:31,• Văn phòng Đồng Tàu,,08:01,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-125,Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:00,• Văn phòng Hà Nội,,14:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-126,36 Limousine,4.8 (502),Limousine 11 chỗ,16:00,• Văn phòng Đồng Tàu,,18:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-127,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,06:00,• Văn Phòng Hà Nội,,08:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-128,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,06:00,• Văn Phòng Hà Nội,,08:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-129,Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:00,• Văn phòng Hà Nội,,11:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-130,36 Limousine,4.8 (502),Limousine 11 chỗ,21:00,• Văn phòng Đồng Tàu,,23:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-131,Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:00,• Văn phòng Hà Nội,,15:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-132,Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:00,• Văn phòng Hà Nội,,12:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-133,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-134,Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:00,• Văn phòng Hà Nội,,18:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-135,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-136,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-137,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,09:00,• Văn phòng Hoàng Mai,,11:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-138,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,10:00,• Văn phòng Hoàng Mai,,12:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-139,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,11:00,• Văn phòng Hoàng Mai,,13:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-140,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,22:00,• Bến xe Nước Ngầm,(16/10),00:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-141,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,11:00,• Văn Phòng Hà Nội,,14:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-142,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,08:00,• Văn phòng Hoàng Mai,,10:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-143,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,08:00,• Văn phòng Hoàng Mai,,10:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-144,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,15:00,• Văn phòng Hoàng Mai,,17:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-145,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,14:25,• VP Linh Đàm,,16:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-146,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,14:00,• Văn Phòng Hà Nội,,17:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-147,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-148,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-149,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-150,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,11:00,• Văn phòng Hoàng Mai,,13:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-151,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,16:00,• Văn phòng Hoàng Mai,,18:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-152,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,13:00,• Văn phòng Hoàng Mai,,15:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-153,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,17:00,• Văn Phòng Hà Nội,,20:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-154,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,16:25,• VP Linh Đàm,,18:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-155,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-156,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,10:00,• Văn phòng Hoàng Mai,,12:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-157,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,18:25,• VP Linh Đàm,,20:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-158,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-159,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-160,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,12:00,• Văn phòng Hoàng Mai,,14:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-161,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,22:00,• Văn Phòng Hà Nội,(16/10),00:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-162,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-163,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:00,• Bến xe Nước Ngầm,(16/10),01:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-164,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),02:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-165,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,17:00,• Văn phòng Hoàng Mai,,19:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-166,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-167,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-168,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-169,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,06:00,• Văn phòng Hoàng Mai,,08:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-170,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:00,• Bến xe Nước Ngầm,(16/10),00:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-171,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:30,• Bến xe Nước Ngầm,,23:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-172,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,09:00,• Văn phòng Hoàng Mai,,11:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-173,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-174,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:30,• Bến xe Nước Ngầm,(16/10),01:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-175,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:30,• Bến xe Nước Ngầm,(16/10),00:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-176,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,20:00,• Văn phòng Hoàng Mai,,22:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-177,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-178,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Giáp Bát,,17:20,• Bến xe Hoằng Hóa,3h20m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-179,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-180,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:30,• Bến xe Nước Ngầm,,14:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-181,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-182,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:30,• Bến xe Nước Ngầm,,16:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-183,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:30,• Bến xe Nước Ngầm,,17:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-184,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,08:00,• Văn Phòng Hà Nội,,11:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-185,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:30,• Bến xe Nước Ngầm,,20:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-186,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-187,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-188,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,16:00,• Văn Phòng Hà Nội,,19:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-189,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-190,Thành Trung Travel,4 (113),Limousine 24 cabin,08:00,• VP Mỹ Đình,,11:15,• VP Thanh Hóa,3h15m,250.000,225.000,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-191,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-192,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,18:00,• Văn Phòng Hà Nội,,21:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-193,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-194,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-195,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,20:00,• Văn Phòng Hà Nội,,23:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-196,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe Hoằng Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-197,36 Limousine,4.8 (502),Limousine 11 chỗ,21:01,• Văn phòng Đồng Tàu,,23:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-198,36 Limousine,4.8 (502),Limousine 11 chỗ,17:01,• Văn phòng Đồng Tàu,,19:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-199,36 Limousine,4.8 (502),Limousine 11 chỗ,07:00,• Văn phòng Đồng Tàu,,09:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-200,36 Limousine,4.8 (502),Limousine 11 chỗ,12:01,• Văn phòng Đồng Tàu,,14:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-201,36 Limousine,4.8 (502),Limousine 11 chỗ,18:01,• Văn phòng Đồng Tàu,,20:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-202,36 Limousine,4.8 (502),Limousine 11 chỗ,12:00,• Văn phòng Đồng Tàu,,14:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-203,36 Limousine,4.8 (502),Limousine 11 chỗ,17:00,• Văn phòng Đồng Tàu,,19:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-204,36 Limousine,4.8 (502),Limousine 11 chỗ,10:01,• Văn phòng Đồng Tàu,,12:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-205,36 Limousine,4.8 (502),Limousine 11 chỗ,11:01,• Văn phòng Đồng Tàu,,13:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-206,36 Limousine,4.8 (502),Limousine 11 chỗ,16:01,• Văn phòng Đồng Tàu,,18:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-207,36 Limousine,4.8 (502),Limousine 11 chỗ,19:01,• Văn phòng Đồng Tàu,,21:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-208,36 Limousine,4.8 (502),Limousine 11 chỗ,11:00,• Văn phòng Đồng Tàu,,13:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,
-209,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:30,• Bến xe Nước Ngầm,,17:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-210,Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:00,• Văn phòng Hà Nội,(16/10),00:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-211,Thành Trung Limousine,4 (113),Limousine 11 chỗ,23:00,• Văn phòng Hà Nội,(16/10),01:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-212,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:30,• Bến xe Nước Ngầm,,16:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-213,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-214,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-215,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,14:00,• Văn phòng Hoàng Mai,,16:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-216,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,09:00,• Văn Phòng Hà Nội,,12:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-217,An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,13:00,• Văn Phòng Hà Nội,,16:00,• VP Thanh Hóa,3h,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,
-218,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,16:00,• Văn phòng Hoàng Mai,,18:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-219,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,20:00,• Văn phòng Hoàng Mai,,22:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-220,Bình Hoài Limousine,4 (297),Limousine 10 chỗ,12:00,• Văn phòng Hoàng Mai,,14:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,
-221,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-222,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-223,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:01,• Bến xe Giáp Bát,,17:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-224,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:01,• Bến xe Giáp Bát,,18:21,• Bến xe Hoằng Hóa,3h20m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-225,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:01,• Bến xe Giáp Bát,,23:21,• Bến xe Hoằng Hóa,3h20m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-226,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-227,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:01,• Bến xe Giáp Bát,,12:21,• Bến xe Hoằng Hóa,3h20m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-228,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:01,• Bến xe Giáp Bát,,11:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-229,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:01,• Bến xe Giáp Bát,,22:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-230,Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,18:01,• Bến xe Nước Ngầm,,20:31,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-231,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-232,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,10:00,• Văn Phòng Hà Nội,,12:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-233,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-234,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-235,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,20:00,• Văn Phòng Hà Nội,,22:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-236,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,09:00,• Văn Phòng Hà Nội,,11:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-237,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,08:00,• Văn Phòng Hà Nội,,10:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-238,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,09:00,• Văn Phòng Hà Nội,,11:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-239,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-240,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-241,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-242,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-243,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,14:00,• Văn Phòng Hà Nội,,16:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-244,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,12:00,• Văn Phòng Hà Nội,,14:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-245,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-246,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,08:00,• Văn Phòng Hà Nội,,10:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-247,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,12:00,• Văn Phòng Hà Nội,,14:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-248,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,10:00,• Văn Phòng Hà Nội,,12:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-249,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-250,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-251,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,20:00,• Văn Phòng Hà Nội,,22:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-252,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-253,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-254,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-255,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-256,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:00,• Văn phòng Bỉm Sơn,2h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-257,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-258,Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,14:00,• Văn Phòng Hà Nội,,16:30,• Văn phòng Hậu Lộc,2h30m,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,
-259,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-260,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:30,• Bến xe Nước Ngầm,,18:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-261,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:30,• Bến xe Nước Ngầm,,19:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-262,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:30,• Bến xe Nước Ngầm,,18:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-263,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:30,• Bến xe Nước Ngầm,,22:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-264,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:30,• Bến xe Nước Ngầm,,21:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-265,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:30,• Bến xe Nước Ngầm,,20:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-266,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:30,• Bến xe Nước Ngầm,,21:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-267,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:30,• Bến xe Nước Ngầm,,15:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-268,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:30,• Bến xe Nước Ngầm,(16/10),00:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-269,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:30,• Bến xe Nước Ngầm,,23:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-270,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:00,• Bến xe Nước Ngầm,(16/10),00:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-271,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:30,• Bến xe Nước Ngầm,,22:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-272,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:30,• Bến xe Nước Ngầm,,19:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-273,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-274,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-275,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,08:30,"• Bến xe Nước Ngầm, Hà Nội",,10:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-276,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,12:40,"• Bến xe Nước Ngầm, Hà Nội",,14:40,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-277,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,19:30,"• Bến xe Nước Ngầm, Hà Nội",,21:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-278,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:20,"• Bến xe Giáp Bát, Hà Nội",,19:50,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-279,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,10:30,"• Bến xe Nước Ngầm, Hà Nội",,12:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-280,FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,23:40,"• Bến xe Nước Ngầm, Hà Nội",(16/10),01:40,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,390.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-281,FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,22:20,"• Bến xe Nước Ngầm, Hà Nội",(16/10),00:20,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-282,FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,19:30,"• Bến xe Giáp Bát, Hà Nội",,22:00,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,500.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-283,FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,14:20,"• Bến xe Nước Ngầm, Hà Nội",,16:20,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,390.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,
-284,Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:00,• Văn phòng Hà Nội,,13:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-285,Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:00,• Văn phòng Hà Nội,,14:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-286,Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:00,• Văn phòng Hà Nội,,12:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-287,Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:00,• Văn phòng Hà Nội,,19:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-288,Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:00,• Văn phòng Hà Nội,,11:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-289,Thành Trung Limousine,4 (113),Limousine 9 chỗ,07:00,• Văn phòng Hà Nội,,09:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-290,Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:00,• Văn phòng Hà Nội,,16:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-291,Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:00,• Văn phòng Hà Nội,,17:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-292,Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:00,• Văn phòng Hà Nội,,15:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-293,Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:00,• Văn phòng Hà Nội,,20:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-294,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Big C Thanh Hóa,3h,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-295,Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:00,• Văn phòng Hà Nội,,21:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-296,Thành Trung Limousine,4 (113),Limousine 11 chỗ,20:00,• Văn phòng Hà Nội,,22:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-297,Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:00,• Văn phòng Hà Nội,(16/10),00:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-298,Thành Trung Limousine,4 (113),Limousine 11 chỗ,23:00,• Văn phòng Hà Nội,(16/10),01:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-299,Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:00,• Văn phòng Hà Nội,,18:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-300,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:45,• Nhổn,(16/10),01:30,• Big C Thanh Hóa,4h45m,370.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-301,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:15,• Ngã 4 Chợ Gạch,(16/10),01:30,• Big C Thanh Hóa,5h15m,370.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-302,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,21:00,• Thăng Long Number One,(16/10),01:30,• Big C Thanh Hóa,4h30m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-303,Phú Quý,4.3 (468),Limousine giường phòng 22 phòng (WC) (new),14:10,• Bến xe Nước Ngầm,,17:10,• BigC Thanh Hóa,3h,400.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-304,Phú Quý,4.3 (468),Limousine giường phòng 32 chỗ (WC),09:50,• Bến xe Nước Ngầm,,12:50,• BigC Thanh Hóa,3h,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,
-305,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-306,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:30,• Bến xe Nước Ngầm,,10:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-307,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-308,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,09:30,• VP 64 Võ Chí Công,,12:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-309,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,17:30,• VP 64 Võ Chí Công,,20:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-310,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,11:30,• VP 64 Võ Chí Công,,14:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-311,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-312,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-313,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-314,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,07:30,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-315,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-316,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:00,• Bến xe Nước Ngầm,,07:30,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-317,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:00,• Bến xe Nước Ngầm,,07:00,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-318,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-319,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:30,• Bến xe Nước Ngầm,,13:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-320,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-321,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-322,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,07:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-323,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:30,• Bến xe Nước Ngầm,,11:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-324,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-325,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-326,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-327,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-328,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-329,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:30,• Bến xe Nước Ngầm,,14:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-330,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-331,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:30,• Bến xe Nước Ngầm,,09:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-332,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,15:30,• VP 64 Võ Chí Công,,18:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-333,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-334,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-335,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,05:30,• VP 64 Võ Chí Công,,08:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-336,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,13:30,• VP 64 Võ Chí Công,,16:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-337,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-338,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,19:30,• VP 64 Võ Chí Công,,22:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-339,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-340,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe Thọ Xuân,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-341,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-342,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-343,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,08:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-344,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:30,• Bến xe Nước Ngầm,,08:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-345,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:30,• Bến xe Nước Ngầm,,10:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-346,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:30,• Bến xe Nước Ngầm,,12:00,• Văn Phòng Nghi Sơn,3h30m,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-347,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:30,• Bến xe Nước Ngầm,,12:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-348,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe phía bắc Thanh Hóa,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-349,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:30,• Bến xe Nước Ngầm,,13:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-350,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:30,• Bến xe Nước Ngầm,,09:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-351,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:30,• Bến xe Nước Ngầm,,11:30,• Văn Phòng Quảng Xương,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,
-352,Nam Quỳnh Anh,4.2 (2035),Limousine 24 phòng VIP,16:50,• Bến xe Nước Ngầm,,20:05,• Big C Thanh Hóa,3h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-353,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:55,• Bến xe Nước Ngầm,(16/10),03:10,• Big C Thanh Hóa,3h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-354,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,15:20,• Bến xe Nước Ngầm,,18:35,• Big C Thanh Hóa,3h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-355,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:30,• Bến xe Nước Ngầm,(16/10),02:45,• Big C Thanh Hóa,3h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-356,Nam Quỳnh Anh,4.2 (2035),Limousine 20 phòng VIP,12:05,• Bến xe Nước Ngầm,,15:20,• Big C Thanh Hóa,3h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-357,Duy Khánh Limousine,3.8 (656),Cabin đôi 24 phòng,16:45,• VP 16 Hàng Chĩnh,,22:00,• Văn Phòng Thanh Hóa,5h15m,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,4.0,4.1,4.0,3.9,3.8,4.1,
-358,Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe khách Sầm Sơn,3h,230.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-359,Vĩnh Quang,4.8 (25),Limousine 10 chỗ,07:30,• VP 64 Võ Chí Công,,10:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,
-360,Pu Luong Excursions,4.9 (16),Limousine 9 chỗ,06:40,• Phố Cổ Hà Nội,,11:40,• Gateway Inn Puluong,5h,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.7,5.0,5.0,5.0,4.9,5.0,5.0,
-361,Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,00:30,• Bến xe Nước Ngầm,,02:30,• Big C Thanh Hóa,2h,350.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-362,Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:15,• Sân bay Nội Bài - Sảnh nội địa,,13:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-363,Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:15,• Sân bay Nội Bài - Sảnh nội địa,,14:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-364,Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:15,• Sân bay Nội Bài - Sảnh nội địa,,15:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-365,Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:15,• Sân bay Nội Bài - Sảnh nội địa,,13:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-366,Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:15,• Sân bay Nội Bài - Sảnh nội địa,,21:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-367,Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:15,• Sân bay Nội Bài - Sảnh nội địa,,11:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-368,Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:15,• Sân bay Nội Bài - Sảnh nội địa,,11:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-369,Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:15,• Sân bay Nội Bài - Sảnh nội địa,,20:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-370,Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:15,• Sân bay Nội Bài - Sảnh nội địa,,15:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-371,Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:15,• Sân bay Nội Bài - Sảnh nội địa,,20:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-372,Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:15,• Sân bay Nội Bài - Sảnh nội địa,,17:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-373,Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:15,• Sân bay Nội Bài - Sảnh nội địa,,18:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-374,Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:15,• Sân bay Nội Bài - Sảnh nội địa,,19:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-375,Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:15,• Sân bay Nội Bài - Sảnh nội địa,,19:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-376,Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:15,• Sân bay Nội Bài - Sảnh nội địa,,14:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-377,Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:15,• Sân bay Nội Bài - Sảnh nội địa,,16:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-378,Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:15,• Sân bay Nội Bài - Sảnh nội địa,,18:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-379,Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:15,• Sân bay Nội Bài - Sảnh nội địa,,21:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-380,Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:15,• Sân bay Nội Bài - Sảnh nội địa,,17:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-381,Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:15,• Sân bay Nội Bài - Sảnh nội địa,,16:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-382,Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:15,• Sân bay Nội Bài - Sảnh nội địa,,22:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-383,Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:15,• Sân bay Nội Bài - Sảnh nội địa,,22:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-384,Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:15,• Sân bay Nội Bài - Sảnh nội địa,,12:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-385,Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:15,• Sân bay Nội Bài - Sảnh nội địa,,12:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-386,Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),01:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-387,Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),01:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-388,Thành Trung Limousine,4 (113),Limousine 11 chỗ,21:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),00:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-389,Thành Trung Limousine,4 (113),Limousine 9 chỗ,06:15,• Sân bay Nội Bài - Sảnh nội địa,,09:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-390,Thành Trung Limousine,4 (113),Limousine 11 chỗ,21:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),00:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-391,Thành Trung Limousine,4 (113),Limousine 9 chỗ,06:15,• Sân bay Nội Bài - Sảnh nội địa,,09:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-392,Nam Quỳnh Anh,4.2 (2035),Limousine giường phòng 32 chỗ,19:15,• Bến xe Nước Ngầm,,21:15,• Big C Thanh Hóa,2h,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-393,Nam Quỳnh Anh,4.2 (2035),Limousine giường phòng 32 chỗ,18:00,• Thăng Long Number One,,21:15,• Big C Thanh Hóa,3h15m,300.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,
-394,Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,07:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-395,Thành Trung Limousine,4 (113),Limousine 11 chỗ,06:00,• Văn phòng Hà Nội,,08:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-396,Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:00,• Văn phòng Hà Nội,,10:00,• Văn Phòng Thanh Hóa,2h,230.000,210.000,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-397,Thành Trung Travel,4 (113),Limousine 24 cabin,19:30,• VP Mỹ Đình,,22:45,• VP Thanh Hóa,3h15m,250.000,225.000,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-398,Thành Trung Travel,4 (113),Limousine 24 cabin,20:30,• VP Mỹ Đình,,23:45,• VP Thanh Hóa,3h15m,250.000,225.000,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-399,Thành Trung Travel,4 (113),Limousine 24 cabin,16:00,• VP Mỹ Đình,,19:15,• VP Thanh Hóa,3h15m,250.000,225.000,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-400,Tiến Tiến,4 (11),Giường nằm 44 chỗ,07:20,• Bến xe Giáp Bát - quầy vé 22,,09:50,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-401,Tiến Tiến,4 (11),Giường nằm 44 chỗ,11:20,• Bến xe Giáp Bát - quầy vé 22,,13:50,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-402,Tiến Tiến,4 (11),Giường nằm 44 chỗ,13:50,• Bến xe Giáp Bát - quầy vé 22,,16:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-403,Tiến Tiến,4 (11),Giường nằm 44 chỗ,08:50,• Bến xe Giáp Bát - quầy vé 22,,11:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-404,Tiến Tiến,4 (11),Giường nằm 44 chỗ,15:50,• Bến xe Giáp Bát - quầy vé 22,,18:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-405,Tiến Tiến,4 (11),Giường nằm 44 chỗ,17:50,• Bến xe Giáp Bát - quầy vé 22,,20:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-406,Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:10,• Bến xe Giáp Bát - quầy vé 22,,21:40,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-407,Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:00,• Bến xe Giáp Bát - quầy vé 22,,21:30,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-408,Văn Minh,4.9 (149),Giường nằm 38 chỗ,09:30,• VP Bến xe Nước Ngầm,,12:25,• VP Thanh Hóa,2h55m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.8,4.8,5.0,4.9,4.8,4.8,
-409,Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,(16/10),00:30,• VP Thống Nhất,4h,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-410,Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,,23:40,• VP Quán Lào,3h10m,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-411,Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,(16/10),00:00,• VP Kiểu,3h30m,180.000,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-412,Đông Lý,3.7 (19),Giường nằm 40 chỗ,14:00,• Bến xe Gia Lâm,,18:30,• Bến xe Như Thanh,4h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-413,Đông Lý,3.7 (19),Giường nằm 40 chỗ,14:00,• Bến xe Mỹ Đình,,18:10,• Bến xe Yên Mỹ,4h10m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,3.4,3.9,,
-414,Đông Lý,3.7 (19),Giường nằm 40 chỗ,16:00,• Bến xe Giáp Bát,,19:30,• Bến xe Yên Mỹ,3h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-415,Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,07:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-416,Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:00,• Văn phòng Hà Nội,,10:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-417,Thành Trung Limousine,4 (113),Limousine 11 chỗ,06:00,• Văn phòng Hà Nội,,08:30,• Văn phòng Nghi Sơn,2h30m,280.000,260.000,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-418,Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:15,• Sân bay Nội Bài - Sảnh nội địa,,08:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-419,Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:15,• Sân bay Nội Bài - Sảnh nội địa,,08:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-420,Thành Trung Limousine,4 (113),Limousine 11 chỗ,07:15,• Sân bay Nội Bài - Sảnh nội địa,,10:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-421,Thành Trung Limousine,4 (113),Limousine 11 chỗ,04:15,• Sân bay Nội Bài - Sảnh nội địa,,07:00,• Văn Phòng Thanh Hóa,2h45m,480.000,460.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-422,Thành Trung Limousine,4 (113),Limousine 11 chỗ,04:15,• Sân bay Nội Bài - Sảnh nội địa,,07:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-423,Thành Trung Limousine,4 (113),Limousine 11 chỗ,07:15,• Sân bay Nội Bài - Sảnh nội địa,,10:30,• Văn phòng Nghi Sơn,3h15m,530.000,510.000,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,
-424,Tiến Tiến,4 (11),Giường nằm 44 chỗ,11:20,• Bến xe Giáp Bát - quầy vé 22,,13:10,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-425,Tiến Tiến,4 (11),Giường nằm 44 chỗ,13:50,• Bến xe Giáp Bát - quầy vé 22,,15:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-426,Tiến Tiến,4 (11),Giường nằm 44 chỗ,08:50,• Bến xe Giáp Bát - quầy vé 22,,10:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-427,Tiến Tiến,4 (11),Giường nằm 44 chỗ,07:20,• Bến xe Giáp Bát - quầy vé 22,,09:10,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-428,Tiến Tiến,4 (11),Giường nằm 44 chỗ,15:50,• Bến xe Giáp Bát - quầy vé 22,,17:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-429,Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:10,• Bến xe Giáp Bát - quầy vé 22,,21:00,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-430,Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:00,• Bến xe Giáp Bát - quầy vé 22,,20:50,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-431,Tiến Tiến,4 (11),Giường nằm 44 chỗ,17:50,• Bến xe Giáp Bát - quầy vé 22,,19:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,,
-432,Văn Minh,4.9 (149),Giường nằm 38 chỗ,10:55,• VP Yên Nghĩa,,14:10,• Ngọc Lặc,3h15m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.8,4.8,5.0,4.9,4.8,4.8,
-433,Bình Thảo,0 (0),Limousine 22 phòng,22:15,• Bến xe Nước Ngầm,(16/10),01:40,• Go Thanh Hóa,3h25m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
-434,Cương Lĩnh,0 (0),Giường nằm 40 chỗ,16:40,• Bến xe Giáp Bát,,20:40,• KDL Hải Tiến,4h,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,,
+bus_name,bus_rating,seat_type,departure_time,pick_up_point,arrival_date,arrival_time,drop_of_point,duration,original_price,sale_price,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+36 Limousine,4.8 (502),Limousine 11 chỗ,09:00,• Văn phòng Đồng Tàu,,11:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Thành Trung Limousine,4 (113),Limousine 9 chỗ,07:00,• Văn phòng Hà Nội,,09:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,11:25,• VP Linh Đàm,,13:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Thơm Phụng,4.6 (18),Giường nằm 46 chỗ,15:30,• Bến xe Nước Ngầm,,17:45,• Big C Thanh Hóa,2h15m,150.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,15:00,• Văn phòng Hoàng Mai,,17:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,10:00,• Văn Phòng Hà Nội,,13:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:30,"• Bến xe Giáp Bát, Hà Nội",,20:00,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+Thăng Long,4.6 (438),Giường nằm 40 chỗ,22:10,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(16/10),02:55,• Big C Thanh Hóa,4h45m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8
+36 Limousine,4.8 (502),Limousine 11 chỗ,20:00,• Văn phòng Đồng Tàu,,22:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,10:25,• VP Linh Đàm,,12:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,20:00,• Văn phòng Hà Nội,,22:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thơm Phụng,4.6 (18),Limousine 24 phòng,16:30,• Bến xe Nước Ngầm,,18:45,• Big C Thanh Hóa,2h15m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Giáp Bát,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,14:00,• Văn phòng Hoàng Mai,,16:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,19:00,• Văn Phòng Hà Nội,,22:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,23:50,"• Bến xe Nước Ngầm, Hà Nội",(16/10),01:50,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+Thăng Long,4.6 (438),Giường nằm 40 chỗ,23:15,• Bến xe Nước Ngầm,(16/10),02:15,• Big C Thanh Hóa,3h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,21:30,• Bến xe Sơn Tây,(16/10),02:30,• Big C Thanh Hóa,5h,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+HM Happycar,4.6 (264),Limousine 24 phòng KL VIP,20:00,• 1 Tân An Bình (Hà Nội),,23:00,• Thanh Hóa,3h,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Phú Quý,4.3 (468),Limousine giường phòng 22 phòng (WC) (new),22:40,• Bến xe Nước Ngầm,(16/10),01:40,• BigC Thanh Hóa,3h,400.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Bảo Ngọc Limousine,4.2 (18),Limousine giường nằm 32 chỗ,17:00,• Bến xe Nước Ngầm,,19:25,• BigC Thanh Hóa,2h25m,220.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0
+36 Limousine,4.8 (502),Limousine 11 chỗ,15:00,• Văn phòng Đồng Tàu,,17:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,05:30,• Văn phòng Đồng Tàu,,08:00,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,18:00,• Văn phòng Đồng Tàu,,20:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:00,• Văn phòng Hà Nội,,17:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:00,• Văn phòng Hà Nội,,21:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:00,• Bến xe Nước Ngầm,,22:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,08:05,• Bến xe Nước Ngầm,,10:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:00,• Văn phòng Hà Nội,,16:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thơm Phụng,4.6 (18),Limousine 24 phòng,10:00,• Bến xe Nước Ngầm,,12:15,• Big C Thanh Hóa,2h15m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,17:25,• VP Linh Đàm,,19:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Thơm Phụng,4.6 (18),Limousine 24 phòng,13:30,• Bến xe Nước Ngầm,,15:45,• Big C Thanh Hóa,2h15m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,20:25,• VP Linh Đàm,,22:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,12:25,• VP Linh Đàm,,14:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+36 Limousine,4.8 (502),Limousine 11 chỗ,10:00,• Văn phòng Đồng Tàu,,12:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,14:00,• Văn phòng Đồng Tàu,,16:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,08:01,• Văn phòng Đồng Tàu,,10:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,18:00,• Bến xe Nước Ngầm,,20:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,06:00,• Bến xe Nước Ngầm,,08:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:00,• Văn phòng Hà Nội,,20:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:00,• Văn phòng Hà Nội,,13:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,21:25,• VP Linh Đàm,,23:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,06:25,• VP Linh Đàm,,08:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,08:25,• VP Linh Đàm,,10:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,18:00,• Văn phòng Hoàng Mai,,20:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:00,• Văn phòng Hà Nội,,19:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Thơm Phụng,4.6 (18),Limousine 34 phòng,12:00,• Bến xe Nước Ngầm,,14:15,• Big C Thanh Hóa,2h15m,150.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Thơm Phụng,4.6 (18),Limousine 24 phòng,18:30,• Bến xe Nước Ngầm,,20:45,• Big C Thanh Hóa,2h15m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,18:00,• Văn phòng Hoàng Mai,,20:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,06:00,• Văn phòng Hoàng Mai,,08:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,07:00,• Văn Phòng Hà Nội,,10:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,12:00,• Văn Phòng Hà Nội,,15:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,15:00,• Văn Phòng Hà Nội,,18:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Thơm Phụng,4.6 (18),Limousine 24 phòng,21:30,• Bến xe Nước Ngầm,,23:45,• Big C Thanh Hóa,2h15m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,05:30,"• Bến xe Nước Ngầm, Hà Nội",,07:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:30,"• Bến xe Nước Ngầm, Hà Nội",,19:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,14:30,"• Bến xe Nước Ngầm, Hà Nội",,16:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+Thăng Long,4.6 (438),Giường nằm 40 chỗ,23:55,• Bến xe Nước Ngầm,(16/10),02:55,• Big C Thanh Hóa,3h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8
+Thăng Long,4.6 (438),Giường nằm 40 chỗ,21:30,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(16/10),02:15,• Big C Thanh Hóa,4h45m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:35,• Thị Trấn Trạm Trôi,(16/10),01:30,• Big C Thanh Hóa,4h55m,370.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:25,• Thị trấn Phùng,(16/10),01:30,• Big C Thanh Hóa,5h5m,370.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:00,• Thăng Long Number One,(16/10),02:30,• Big C Thanh Hóa,3h30m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+HM Happycar,4.6 (264),Limousine 24 phòng,08:00,• 1 Tân An Bình (Hà Nội),,11:00,• Thanh Hóa,3h,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Phú Quý,4.3 (468),Giường nằm 36 chỗ (WC),15:45,• Bến xe Nước Ngầm,,18:45,• BigC Thanh Hóa,3h,260.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Phú Quý,4.3 (468),Limousine giường phòng 32 chỗ (WC),22:30,• Bến xe Nước Ngầm,(16/10),01:30,• BigC Thanh Hóa,3h,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Phú Quý,4.3 (468),Giường nằm 40 chỗ (WC),17:05,• Bến xe Nước Ngầm,,20:05,• BigC Thanh Hóa,3h,260.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Bảo Ngọc Limousine,4.2 (18),Limousine giường nằm 32 chỗ,18:20,• Bến xe Nước Ngầm,,20:45,• BigC Thanh Hóa,2h25m,220.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0
+36 Limousine,4.8 (502),Limousine 11 chỗ,19:00,• Văn phòng Đồng Tàu,,21:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,09:01,• Văn phòng Đồng Tàu,,11:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,13:01,• Văn phòng Đồng Tàu,,15:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,15:01,• Văn phòng Đồng Tàu,,17:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,08:00,• Văn phòng Đồng Tàu,,10:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,13:00,• Văn phòng Đồng Tàu,,15:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,20:01,• Văn phòng Đồng Tàu,,22:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:05,• Bến xe Nước Ngầm,,19:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:00,• Bến xe Nước Ngầm,,17:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,16:00,• Bến xe Nước Ngầm,,18:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,19:25,• VP Linh Đàm,,21:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Nước Ngầm,,15:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,13:25,• VP Linh Đàm,,15:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,10:00,• Bến xe Nước Ngầm,,12:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,12:05,• Bến xe Nước Ngầm,,14:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Giáp Bát,,16:30,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,07:05,• Bến xe Nước Ngầm,,09:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,04:35,• Bến xe Nước Ngầm,,07:05,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,16:05,• Bến xe Nước Ngầm,,18:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:05,• Bến xe Nước Ngầm,,15:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Nước Ngầm,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,13:00,• Văn phòng Hoàng Mai,,15:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:05,• Bến xe Nước Ngầm,,22:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Nước Ngầm,,16:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Giáp Bát,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,21:00,• Văn Phòng Hà Nội,,23:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:30,• Bến xe Nước Ngầm,,15:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,11:00,• Bến xe Nước Ngầm,,13:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,17:00,• Văn phòng Hoàng Mai,,19:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,15:25,• VP Linh Đàm,,17:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,17:00,• Bến xe Nước Ngầm,,19:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:05,• Bến xe Nước Ngầm,,16:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,21:00,• Bến xe Nước Ngầm,,23:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+36 Limousine,4.8 (502),Limousine 11 chỗ,05:31,• Văn phòng Đồng Tàu,,08:01,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:00,• Văn phòng Hà Nội,,14:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+36 Limousine,4.8 (502),Limousine 11 chỗ,16:00,• Văn phòng Đồng Tàu,,18:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,06:00,• Văn Phòng Hà Nội,,08:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,06:00,• Văn Phòng Hà Nội,,08:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:00,• Văn phòng Hà Nội,,11:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+36 Limousine,4.8 (502),Limousine 11 chỗ,21:00,• Văn phòng Đồng Tàu,,23:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:00,• Văn phòng Hà Nội,,15:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:00,• Văn phòng Hà Nội,,12:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:00,• Văn phòng Hà Nội,,18:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,09:00,• Văn phòng Hoàng Mai,,11:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,10:00,• Văn phòng Hoàng Mai,,12:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,11:00,• Văn phòng Hoàng Mai,,13:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,22:00,• Bến xe Nước Ngầm,(16/10),00:30,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,11:00,• Văn Phòng Hà Nội,,14:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,08:00,• Văn phòng Hoàng Mai,,10:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,08:00,• Văn phòng Hoàng Mai,,10:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,15:00,• Văn phòng Hoàng Mai,,17:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,14:25,• VP Linh Đàm,,16:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,14:00,• Văn Phòng Hà Nội,,17:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,11:00,• Văn phòng Hoàng Mai,,13:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,16:00,• Văn phòng Hoàng Mai,,18:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,13:00,• Văn phòng Hoàng Mai,,15:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,17:00,• Văn Phòng Hà Nội,,20:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,16:25,• VP Linh Đàm,,18:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,10:00,• Văn phòng Hoàng Mai,,12:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,18:25,• VP Linh Đàm,,20:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,12:00,• Văn phòng Hoàng Mai,,14:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,22:00,• Văn Phòng Hà Nội,(16/10),00:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:00,• Bến xe Nước Ngầm,(16/10),01:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),02:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,17:00,• Văn phòng Hoàng Mai,,19:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:00,• Bến xe Nước Ngầm,,23:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,06:00,• Văn phòng Hoàng Mai,,08:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:00,• Bến xe Nước Ngầm,(16/10),00:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:30,• Bến xe Nước Ngầm,,23:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,09:00,• Văn phòng Hoàng Mai,,11:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:30,• Bến xe Nước Ngầm,(16/10),01:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:30,• Bến xe Nước Ngầm,(16/10),00:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,20:00,• Văn phòng Hoàng Mai,,22:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:00,• Bến xe Nước Ngầm,,20:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,14:00,• Bến xe Giáp Bát,,17:20,• Bến xe Hoằng Hóa,3h20m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:30,• Bến xe Nước Ngầm,,14:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:30,• Bến xe Nước Ngầm,,16:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:30,• Bến xe Nước Ngầm,,17:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,08:00,• Văn Phòng Hà Nội,,11:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:30,• Bến xe Nước Ngầm,,20:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:00,• Bến xe Nước Ngầm,,17:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,16:00,• Văn Phòng Hà Nội,,19:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Thành Trung Travel,4 (113),Limousine 24 cabin,08:00,• VP Mỹ Đình,,11:15,• VP Thanh Hóa,3h15m,250.0,225.0,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,18:00,• Văn Phòng Hà Nội,,21:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,20:00,• Văn Phòng Hà Nội,,23:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,13:00,• Bến xe Nước Ngầm,,16:00,• Bến xe Hoằng Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+36 Limousine,4.8 (502),Limousine 11 chỗ,21:01,• Văn phòng Đồng Tàu,,23:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,17:01,• Văn phòng Đồng Tàu,,19:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,07:00,• Văn phòng Đồng Tàu,,09:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,12:01,• Văn phòng Đồng Tàu,,14:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,18:01,• Văn phòng Đồng Tàu,,20:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,12:00,• Văn phòng Đồng Tàu,,14:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,17:00,• Văn phòng Đồng Tàu,,19:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,10:01,• Văn phòng Đồng Tàu,,12:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,11:01,• Văn phòng Đồng Tàu,,13:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,16:01,• Văn phòng Đồng Tàu,,18:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,19:01,• Văn phòng Đồng Tàu,,21:31,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+36 Limousine,4.8 (502),Limousine 11 chỗ,11:00,• Văn phòng Đồng Tàu,,13:30,• Văn phòng Thanh Hóa,2h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:30,• Bến xe Nước Ngầm,,17:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:00,• Văn phòng Hà Nội,(16/10),00:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,23:00,• Văn phòng Hà Nội,(16/10),01:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,13:30,• Bến xe Nước Ngầm,,16:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:00,• Bến xe Nước Ngầm,,21:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,14:00,• Văn phòng Hoàng Mai,,16:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,09:00,• Văn Phòng Hà Nội,,12:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,13:00,• Văn Phòng Hà Nội,,16:00,• VP Thanh Hóa,3h,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,16:00,• Văn phòng Hoàng Mai,,18:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,20:00,• Văn phòng Hoàng Mai,,22:20,• Văn phòng Triệu Sơn,2h20m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Bình Hoài Limousine,4 (297),Limousine 10 chỗ,12:00,• Văn phòng Hoàng Mai,,14:50,• Tượng đài Lê Lợi,2h50m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:00,• Bến xe Nước Ngầm,,15:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:01,• Bến xe Giáp Bát,,17:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,15:01,• Bến xe Giáp Bát,,18:21,• Bến xe Hoằng Hóa,3h20m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:01,• Bến xe Giáp Bát,,23:21,• Bến xe Hoằng Hóa,3h20m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:01,• Bến xe Giáp Bát,,12:21,• Bến xe Hoằng Hóa,3h20m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,09:01,• Bến xe Giáp Bát,,11:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,20:01,• Bến xe Giáp Bát,,22:31,• Bến xe Phía Bắc Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 24 phòng,18:01,• Bến xe Nước Ngầm,,20:31,• Bến xe phía Tây Thanh Hóa,2h30m,250.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,10:00,• Văn Phòng Hà Nội,,12:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,20:00,• Văn Phòng Hà Nội,,22:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,09:00,• Văn Phòng Hà Nội,,11:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,08:00,• Văn Phòng Hà Nội,,10:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,09:00,• Văn Phòng Hà Nội,,11:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,07:00,• Văn Phòng Hà Nội,,09:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,14:00,• Văn Phòng Hà Nội,,16:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,12:00,• Văn Phòng Hà Nội,,14:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,08:00,• Văn Phòng Hà Nội,,10:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,12:00,• Văn Phòng Hà Nội,,14:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,10:00,• Văn Phòng Hà Nội,,12:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,19:00,• Văn Phòng Hà Nội,,21:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,20:00,• Văn Phòng Hà Nội,,22:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,17:00,• Văn Phòng Hà Nội,,19:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,13:00,• Văn Phòng Hà Nội,,15:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,16:00,• Văn Phòng Hà Nội,,18:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,18:00,• Văn Phòng Hà Nội,,20:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:00,• Văn phòng Bỉm Sơn,2h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,11:00,• Văn Phòng Hà Nội,,13:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Đức Phát (Thanh Hóa),4.7 (87),Limousine 11 chỗ,14:00,• Văn Phòng Hà Nội,,16:30,• Văn phòng Hậu Lộc,2h30m,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:00,• Bến xe Nước Ngầm,,18:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,14:30,• Bến xe Nước Ngầm,,18:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:30,• Bến xe Nước Ngầm,,19:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:30,• Bến xe Nước Ngầm,,18:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:30,• Bến xe Nước Ngầm,,22:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:30,• Bến xe Nước Ngầm,,21:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:30,• Bến xe Nước Ngầm,,20:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,17:30,• Bến xe Nước Ngầm,,21:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,12:30,• Bến xe Nước Ngầm,,15:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:30,• Bến xe Nước Ngầm,(16/10),00:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,20:30,• Bến xe Nước Ngầm,,23:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,21:00,• Bến xe Nước Ngầm,(16/10),00:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,18:30,• Bến xe Nước Ngầm,,22:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,15:30,• Bến xe Nước Ngầm,,19:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,16:00,• Bến xe Nước Ngầm,,19:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,19:00,• Bến xe Nước Ngầm,,22:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,08:30,"• Bến xe Nước Ngầm, Hà Nội",,10:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,12:40,"• Bến xe Nước Ngầm, Hà Nội",,14:40,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,19:30,"• Bến xe Nước Ngầm, Hà Nội",,21:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,17:20,"• Bến xe Giáp Bát, Hà Nội",,19:50,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,10:30,"• Bến xe Nước Ngầm, Hà Nội",,12:30,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,23:40,"• Bến xe Nước Ngầm, Hà Nội",(16/10),01:40,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,390.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 34 chỗ,22:20,"• Bến xe Nước Ngầm, Hà Nội",(16/10),00:20,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,200.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,19:30,"• Bến xe Giáp Bát, Hà Nội",,22:00,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,500.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+FUTA HÀ SƠN,4.8 (318),Limousine 24 chỗ,14:20,"• Bến xe Nước Ngầm, Hà Nội",,16:20,"• Nút giao Gia Miêu, Hà Trung, Thanh Hóa",2h,390.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:00,• Văn phòng Hà Nội,,13:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:00,• Văn phòng Hà Nội,,14:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:00,• Văn phòng Hà Nội,,12:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:00,• Văn phòng Hà Nội,,19:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:00,• Văn phòng Hà Nội,,11:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 9 chỗ,07:00,• Văn phòng Hà Nội,,09:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:00,• Văn phòng Hà Nội,,16:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:00,• Văn phòng Hà Nội,,17:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:00,• Văn phòng Hà Nội,,15:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:00,• Văn phòng Hà Nội,,20:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,22:30,• Bến xe Nước Ngầm,(16/10),01:30,• Big C Thanh Hóa,3h,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:00,• Văn phòng Hà Nội,,21:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,20:00,• Văn phòng Hà Nội,,22:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:00,• Văn phòng Hà Nội,(16/10),00:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,23:00,• Văn phòng Hà Nội,(16/10),01:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:00,• Văn phòng Hà Nội,,18:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:45,• Nhổn,(16/10),01:30,• Big C Thanh Hóa,4h45m,370.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,20:15,• Ngã 4 Chợ Gạch,(16/10),01:30,• Big C Thanh Hóa,5h15m,370.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,21:00,• Thăng Long Number One,(16/10),01:30,• Big C Thanh Hóa,4h30m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Phú Quý,4.3 (468),Limousine giường phòng 22 phòng (WC) (new),14:10,• Bến xe Nước Ngầm,,17:10,• BigC Thanh Hóa,3h,400.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Phú Quý,4.3 (468),Limousine giường phòng 32 chỗ (WC),09:50,• Bến xe Nước Ngầm,,12:50,• BigC Thanh Hóa,3h,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:30,• Bến xe Nước Ngầm,,10:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,09:30,• VP 64 Võ Chí Công,,12:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,17:30,• VP 64 Võ Chí Công,,20:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,11:30,• VP 64 Võ Chí Công,,14:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,07:30,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:00,• Bến xe Nước Ngầm,,07:30,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:00,• Bến xe Nước Ngầm,,07:00,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:30,• Bến xe Nước Ngầm,,13:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:00,• Bến xe Nước Ngầm,,08:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,07:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:30,• Bến xe Nước Ngầm,,11:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:30,• Bến xe Nước Ngầm,,14:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:30,• Bến xe Nước Ngầm,,09:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,15:30,• VP 64 Võ Chí Công,,18:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:00,• Bến xe Nước Ngầm,,11:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,05:30,• VP 64 Võ Chí Công,,08:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,13:30,• VP 64 Võ Chí Công,,16:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,19:30,• VP 64 Võ Chí Công,,22:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:00,• Bến xe Nước Ngầm,,10:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe Thọ Xuân,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:00,• Bến xe Nước Ngầm,,09:00,• Bến xe khách Triệu Sơn,3h,230.0,200.0,-13%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,04:30,• Bến xe Nước Ngầm,,08:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,05:30,• Bến xe Nước Ngầm,,08:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,07:30,• Bến xe Nước Ngầm,,10:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:30,• Bến xe Nước Ngầm,,12:00,• Văn Phòng Nghi Sơn,3h30m,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:30,• Bến xe Nước Ngầm,,12:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:00,• Bến xe Nước Ngầm,,13:00,• Bến xe phía bắc Thanh Hóa,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,10:30,• Bến xe Nước Ngầm,,13:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,06:30,• Bến xe Nước Ngầm,,09:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,08:30,• Bến xe Nước Ngầm,,11:30,• Văn Phòng Quảng Xương,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Nam Quỳnh Anh,4.2 (2035),Limousine 24 phòng VIP,16:50,• Bến xe Nước Ngầm,,20:05,• Big C Thanh Hóa,3h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:55,• Bến xe Nước Ngầm,(16/10),03:10,• Big C Thanh Hóa,3h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,15:20,• Bến xe Nước Ngầm,,18:35,• Big C Thanh Hóa,3h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,23:30,• Bến xe Nước Ngầm,(16/10),02:45,• Big C Thanh Hóa,3h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine 20 phòng VIP,12:05,• Bến xe Nước Ngầm,,15:20,• Big C Thanh Hóa,3h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Duy Khánh Limousine,3.8 (656),Cabin đôi 24 phòng,16:45,• VP 16 Hàng Chĩnh,,22:00,• Văn Phòng Thanh Hóa,5h15m,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,4.0,4.1,4.0,3.9,3.8,4.1
+Vân Anh Limousine,4.8 (32),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe khách Sầm Sơn,3h,230.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Vĩnh Quang,4.8 (25),Limousine 10 chỗ,07:30,• VP 64 Võ Chí Công,,10:55,• VP Thanh Hóa - 143 Lê Hồng Phong,3h25m,170.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Pu Luong Excursions,4.9 (16),Limousine 9 chỗ,06:40,• Phố Cổ Hà Nội,,11:40,• Gateway Inn Puluong,5h,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.7,5.0,5.0,5.0,4.9,5.0,5.0
+Nam Quỳnh Anh,4.2 (2035),Limousine 22 phòng VIP,00:30,• Bến xe Nước Ngầm,,02:30,• Big C Thanh Hóa,2h,350.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:15,• Sân bay Nội Bài - Sảnh nội địa,,13:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:15,• Sân bay Nội Bài - Sảnh nội địa,,14:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:15,• Sân bay Nội Bài - Sảnh nội địa,,15:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,10:15,• Sân bay Nội Bài - Sảnh nội địa,,13:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:15,• Sân bay Nội Bài - Sảnh nội địa,,21:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:15,• Sân bay Nội Bài - Sảnh nội địa,,11:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:15,• Sân bay Nội Bài - Sảnh nội địa,,11:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:15,• Sân bay Nội Bài - Sảnh nội địa,,20:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,12:15,• Sân bay Nội Bài - Sảnh nội địa,,15:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,17:15,• Sân bay Nội Bài - Sảnh nội địa,,20:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:15,• Sân bay Nội Bài - Sảnh nội địa,,17:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:15,• Sân bay Nội Bài - Sảnh nội địa,,18:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:15,• Sân bay Nội Bài - Sảnh nội địa,,19:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,16:15,• Sân bay Nội Bài - Sảnh nội địa,,19:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,11:15,• Sân bay Nội Bài - Sảnh nội địa,,14:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:15,• Sân bay Nội Bài - Sảnh nội địa,,16:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,15:15,• Sân bay Nội Bài - Sảnh nội địa,,18:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,18:15,• Sân bay Nội Bài - Sảnh nội địa,,21:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,14:15,• Sân bay Nội Bài - Sảnh nội địa,,17:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,13:15,• Sân bay Nội Bài - Sảnh nội địa,,16:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:15,• Sân bay Nội Bài - Sảnh nội địa,,22:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,19:15,• Sân bay Nội Bài - Sảnh nội địa,,22:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:15,• Sân bay Nội Bài - Sảnh nội địa,,12:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,09:15,• Sân bay Nội Bài - Sảnh nội địa,,12:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),01:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,22:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),01:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,21:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),00:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 9 chỗ,06:15,• Sân bay Nội Bài - Sảnh nội địa,,09:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,21:15,• Sân bay Nội Bài - Sảnh nội địa,(16/10),00:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 9 chỗ,06:15,• Sân bay Nội Bài - Sảnh nội địa,,09:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Nam Quỳnh Anh,4.2 (2035),Limousine giường phòng 32 chỗ,19:15,• Bến xe Nước Ngầm,,21:15,• Big C Thanh Hóa,2h,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Nam Quỳnh Anh,4.2 (2035),Limousine giường phòng 32 chỗ,18:00,• Thăng Long Number One,,21:15,• Big C Thanh Hóa,3h15m,300.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,07:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,06:00,• Văn phòng Hà Nội,,08:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:00,• Văn phòng Hà Nội,,10:00,• Văn Phòng Thanh Hóa,2h,230.0,210.0,-9%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Travel,4 (113),Limousine 24 cabin,19:30,• VP Mỹ Đình,,22:45,• VP Thanh Hóa,3h15m,250.0,225.0,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Travel,4 (113),Limousine 24 cabin,20:30,• VP Mỹ Đình,,23:45,• VP Thanh Hóa,3h15m,250.0,225.0,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Travel,4 (113),Limousine 24 cabin,16:00,• VP Mỹ Đình,,19:15,• VP Thanh Hóa,3h15m,250.0,225.0,-10%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,07:20,• Bến xe Giáp Bát - quầy vé 22,,09:50,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,11:20,• Bến xe Giáp Bát - quầy vé 22,,13:50,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,13:50,• Bến xe Giáp Bát - quầy vé 22,,16:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,08:50,• Bến xe Giáp Bát - quầy vé 22,,11:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,15:50,• Bến xe Giáp Bát - quầy vé 22,,18:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,17:50,• Bến xe Giáp Bát - quầy vé 22,,20:20,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:10,• Bến xe Giáp Bát - quầy vé 22,,21:40,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:00,• Bến xe Giáp Bát - quầy vé 22,,21:30,• Cây xăng Tiến Tiến,2h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Văn Minh,4.9 (149),Giường nằm 38 chỗ,09:30,• VP Bến xe Nước Ngầm,,12:25,• VP Thanh Hóa,2h55m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.8,4.8,5.0,4.9,4.8,4.8
+Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,(16/10),00:30,• VP Thống Nhất,4h,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,,23:40,• VP Quán Lào,3h10m,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Hoàng Đông Limousine,0 (0),Limousine 11 chỗ,20:30,• VP Mỹ Đình,(16/10),00:00,• VP Kiểu,3h30m,180.0,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đông Lý,3.7 (19),Giường nằm 40 chỗ,14:00,• Bến xe Gia Lâm,,18:30,• Bến xe Như Thanh,4h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đông Lý,3.7 (19),Giường nằm 40 chỗ,14:00,• Bến xe Mỹ Đình,,18:10,• Bến xe Yên Mỹ,4h10m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,3.4,3.9,
+Đông Lý,3.7 (19),Giường nằm 40 chỗ,16:00,• Bến xe Giáp Bát,,19:30,• Bến xe Yên Mỹ,3h30m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,07:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,08:00,• Văn phòng Hà Nội,,10:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,06:00,• Văn phòng Hà Nội,,08:30,• Văn phòng Nghi Sơn,2h30m,280.0,260.0,-7%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:15,• Sân bay Nội Bài - Sảnh nội địa,,08:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,05:15,• Sân bay Nội Bài - Sảnh nội địa,,08:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,07:15,• Sân bay Nội Bài - Sảnh nội địa,,10:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,04:15,• Sân bay Nội Bài - Sảnh nội địa,,07:00,• Văn Phòng Thanh Hóa,2h45m,480.0,460.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,04:15,• Sân bay Nội Bài - Sảnh nội địa,,07:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Thành Trung Limousine,4 (113),Limousine 11 chỗ,07:15,• Sân bay Nội Bài - Sảnh nội địa,,10:30,• Văn phòng Nghi Sơn,3h15m,530.0,510.0,-4%,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,11:20,• Bến xe Giáp Bát - quầy vé 22,,13:10,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,13:50,• Bến xe Giáp Bát - quầy vé 22,,15:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,08:50,• Bến xe Giáp Bát - quầy vé 22,,10:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,07:20,• Bến xe Giáp Bát - quầy vé 22,,09:10,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,15:50,• Bến xe Giáp Bát - quầy vé 22,,17:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:10,• Bến xe Giáp Bát - quầy vé 22,,21:00,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,19:00,• Bến xe Giáp Bát - quầy vé 22,,20:50,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Tiến Tiến,4 (11),Giường nằm 44 chỗ,17:50,• Bến xe Giáp Bát - quầy vé 22,,19:40,• Ngã tư Bỉm Sơn,1h50m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.0,3.8,3.8,4.0,3.5,3.7,
+Văn Minh,4.9 (149),Giường nằm 38 chỗ,10:55,• VP Yên Nghĩa,,14:10,• Ngọc Lặc,3h15m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,4.9,4.8,4.8,5.0,4.9,4.8,4.8
+Bình Thảo,0 (0),Limousine 22 phòng,22:15,• Bến xe Nước Ngầm,(16/10),01:40,• Go Thanh Hóa,3h25m,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Cương Lĩnh,0 (0),Giường nằm 40 chỗ,16:40,• Bến xe Giáp Bát,,20:40,• KDL Hải Tiến,4h,,,,"T4, 15/10/2025",Hà Nội,Thanh Hóa,,,,,,,

@@ -1,32 +1,21 @@
 import psycopg2
+import pandas as pd
 
-# import json
-# import os
-
-# current_dir = os.path.dirname(os.path.abspath(__file__))
-# json_path = os.path.join(current_dir, "config.json")
-
-# with open(json_path, "r", encoding="utf-8") as f:
-#     config = json.load(f)
-
-# DATABASE = config["DB_CONNECTION"]
-# host = DATABASE["HOST"]
-# port = DATABASE["PORT"]
-# database = DATABASE["DATABASE"]
-# user = DATABASE["USER"]
-# password = DATABASE["PASSWORD"]
+from typing import Optional, Dict, Tuple, Any
 
 
 class DatabaseManager:
+    """Quản lý kết nối và thao tác với PostgreSQL database."""
+
     def __init__(
         self,
-        database,
-        user,
-        password,
-        host="localhost",
-        port=5432,
+        database: str,
+        user: str,
+        password: str,
+        host: str = "localhost",
+        port: int = 5432,
     ):
-        # Connect
+        """Khởi tạo kết nối database."""
         self.conn = psycopg2.connect(
             database=database,
             user=user,
@@ -34,260 +23,362 @@ class DatabaseManager:
             host=host,
             port=port,
         )
-
-        # Cursor for query
         self.cur = self.conn.cursor()
 
-    def execute(self, query, values=None):
-        # Thực thi câu lệnh SQL (INSERT, UPDATE, DELETE)
+    # ==================== CÁC HÀM CƠ BẢN ====================
+
+    def execute(self, query: str, params: tuple = None) -> bool:
+        """Thực thi câu lệnh SQL (INSERT, UPDATE, DELETE)."""
         try:
-            self.cur.execute(query, values or ())
+            self.cur.execute(query, params or ())
             self.conn.commit()
             return True
         except Exception as e:
-            print(f"Database execution error: {e}")
+            self.conn.rollback()
+            print(f"❌ Lỗi thực thi: {e}")
             return False
 
-    def fetch(self, query, values=None):
-        # Thực thi câu lệnh SQL (SELECT) và trả về kết quả
+    def fetch_all(self, query: str, params: tuple = None) -> list:
+        """Lấy tất cả kết quả từ câu truy vấn SELECT."""
         try:
-            self.cur.execute(query, values or ())
-            return self.cur.fetchall()  # Lấy tất cả dữ liệu từ truy vấn
+            self.cur.execute(query, params or ())
+            return self.cur.fetchall()
         except Exception as e:
-            print(f"Database fetch error: {e}")
+            print(f"❌ Lỗi fetch: {e}")
             return []
 
-    def fetch_one(self, query, values=None):
-        # Thực thi câu lệnh SQL (SELECT) và trả về kết quả
+    def fetch_one(self, query: str, params: tuple = None) -> Optional[tuple]:
+        """Lấy 1 kết quả từ câu truy vấn SELECT."""
         try:
-            self.cur.execute(query, values or ())
-            return self.cur.fetchone()  # Lấy tất cả dữ liệu từ truy vấn
+            self.cur.execute(query, params or ())
+            return self.cur.fetchone()
         except Exception as e:
-            print(f"Database fetch error: {e}")
-            return []
+            print(f"❌ Lỗi fetch_one: {e}")
+            return None
 
-    def get_or_insert_city(self, city_name, city_abbr=None):
-        """
-        Tìm city_id dựa trên city_name. Nếu không tồn tại, chèn mới và trả về ID.
-
-        city_name (str): Tên thành phố (ví dụ: 'Sài Gòn').
-        city_abbr (str | None): Tên viết tắt (ví dụ: 'SG').
-
-        Trả về: city_id (INTEGER).
-        """
-
-        # 1. TÌM KIẾM
-        select_query = """
-            SELECT city_id FROM cities
-            WHERE city_name = %s
-            LIMIT 1;
-        """
-        existing = self.fetch_one(select_query, (city_name,))
-
-        if existing:
-            # Nếu đã tồn tại, trả về ID
-            return existing[0]
-
-        # 2. CHÈN MỚI
-        insert_query = """
-            INSERT INTO cities (city_name, city_abbr)
-            VALUES (%s, %s)
-            RETURNING city_id;
-        """
-        # Giả định self.execute_and_get_id chạy lệnh INSERT và dùng RETURNING để lấy ID
-        new_city_id = self.execute_and_get_id(insert_query, (city_name, city_abbr))
-
-        print(f"Đã chèn thành phố mới: {city_name} (ID: {new_city_id})")
-        return new_city_id
-
-    def execute_and_get_id(self, query: str, params: tuple = None) -> int:
-        """
-        Thực thi lệnh INSERT có chứa mệnh đề RETURNING [id_column_name].
-        Trả về ID (INTEGER) của bản ghi vừa được chèn.
-        """
-        if self.conn is None:
-            raise Exception("Chưa có kết nối Database.")
-
-        new_id = None
-
+    def execute_returning_id(self, query, params):
         try:
-            with self.conn.cursor() as cursor:
-                # 1. Thực thi truy vấn
-                cursor.execute(query, params)
-
-                # 2. Lấy ID từ mệnh đề RETURNING
-                # fetchone() sẽ trả về hàng đầu tiên của kết quả (ví dụ: (101,))
-                result = cursor.fetchone()
-
-                if result:
-                    new_id = result[0]
-
-                # 3. Commit thay đổi vào database
+            with self.conn.cursor() as cur:
+                cur.execute(query, params)
+                new_id = cur.fetchone()[0]
                 self.conn.commit()
-
-        except psycopg2.Error as e:
-            # Rollback nếu có lỗi
+                return new_id
+        except Exception as e:
+            print(f"❌ Lỗi execute_returning_id: {e}")
             self.conn.rollback()
-            print(f"Lỗi SQL khi thực thi và lấy ID: {e}")
             raise
 
-        if new_id is None:
-            raise Exception(f"Không lấy được ID sau khi thực thi truy vấn: {query}")
+    # ==================== BƯỚC 1: QUẢN LÝ CITIES ====================
 
-        return new_id
-
-    def get_or_insert_route(self, start_city_id, destination_city_id):
+    def get_or_insert_city(self, city_name: str, city_abbr: str = None) -> int:
         """
-        Tìm route_id dựa trên cặp start_city_id và destination_city_id.
-        Nếu không tồn tại, chèn mới và trả về ID.
-        """
+        Tìm city_id theo tên. Nếu chưa có thì insert mới.
 
-        # 1. TÌM KIẾM
-        select_query = """
+        Returns:
+            city_id (int)
+        """
+        # Tìm kiếm
+        query_select = "SELECT city_id FROM cities WHERE city_name = %s LIMIT 1"
+        result = self.fetch_one(query_select, (city_name,))
+
+        if result:
+            return result[0]
+
+        # Insert mới
+        query_insert = """
+            INSERT INTO cities (city_name, city_abbr)
+            VALUES (%s, %s)
+            RETURNING city_id
+        """
+        city_id = self.execute_returning_id(query_insert, (city_name, city_abbr))
+        print(f"✅ Thêm mới city: {city_name} (ID: {city_id})")
+        return city_id
+
+    # ==================== BƯỚC 2: QUẢN LÝ ROUTES ====================
+
+    def get_or_insert_route(self, start_city_id: int, destination_city_id: int) -> int:
+        """
+        Tìm route_id theo start và destination city. Nếu chưa có thì insert mới.
+
+        Returns:
+            route_id (int)
+        """
+        # Tìm kiếm
+        query_select = """
             SELECT route_id FROM routes
             WHERE start_city_id = %s AND destination_city_id = %s
-            LIMIT 1;
+            LIMIT 1
         """
-        existing = self.fetch_one(select_query, (start_city_id, destination_city_id))
+        result = self.fetch_one(query_select, (start_city_id, destination_city_id))
 
-        if existing:
-            # Nếu đã tồn tại, trả về ID
-            return existing[0]
+        if result:
+            return result[0]
 
-        # 2. CHÈN MỚI
-        insert_query = """
+        # Insert mới
+        query_insert = """
             INSERT INTO routes (start_city_id, destination_city_id)
             VALUES (%s, %s)
-            RETURNING route_id;
+            RETURNING route_id
         """
-        new_route_id = self.execute_and_get_id(
-            insert_query, (start_city_id, destination_city_id)
+        route_id = self.execute_returning_id(
+            query_insert, (start_city_id, destination_city_id)
         )
-
         print(
-            f"Đã chèn tuyến đường mới: {start_city_id} -> {destination_city_id} (ID: {new_route_id})"
+            f"✅ Thêm mới route: {start_city_id} → {destination_city_id} (ID: {route_id})"
         )
-        return new_route_id
+        return route_id
 
-    def get_or_update_company(self, company_data: dict):
+    # ==================== BƯỚC 3: QUẢN LÝ BUS COMPANIES ====================
+
+    def get_or_upsert_company(self, company_data: Dict[str, Any]) -> int:
         """
-        Tìm công ty xe buýt theo tên. Nếu tồn tại, cập nhật rating. Nếu không, chèn mới.
-        Luôn trả về bus_company_id.
+        Tìm bus_company theo tên:
+        - Nếu tồn tại: UPDATE rating
+        - Nếu chưa có: INSERT mới
 
-        company_data (dict): Dictionary chứa dữ liệu công ty, bao gồm:
-            'bus_name', 'overall_rating', 'reviewer_count',
-            'rating_service', 'rating_comfort', 'rating_punctuality',
-            'rating_staff_attitude', 'rating_safety', 'rating_info_accuracy'
+        Args:
+            company_data: Dict chứa các key:
+                - bus_name (str)
+                - reviewer_count (int)
+                - overall_rating (float)
+                - rating_safety (float)
+                - rating_info_accuracy (float)
+                - rating_info_completeness (float)
+                - rating_staff_attitude (float)
+                - rating_comfort (float)
+                - rating_service_quality (float)
+                - rating_punctuality (float)
+
+        Returns:
+            bus_company_id (int)
         """
-
         bus_name = company_data["bus_name"]
 
-        # 1. TÌM KIẾM CÔNG TY BẰNG TÊN
-        select_query = """
-            SELECT bus_company_id FROM bus_companies
-            WHERE bus_company_name = %s
-            LIMIT 1;
+        # Tìm kiếm
+        query_select = """
+            SELECT company_id FROM bus_companies
+            WHERE company_name = %s
+            LIMIT 1
         """
-        existing_company = self.fetch_one(select_query, (bus_name,))
+        result = self.fetch_one(query_select, (bus_name,))
 
-        params_rating = (
-            company_data["overall_rating"],
+        rating_params = (
             company_data["reviewer_count"],
-            company_data["rating_service"],
-            company_data["rating_comfort"],
-            company_data["rating_punctuality"],
-            company_data["rating_staff_attitude"],
+            company_data["rating_overall"],
             company_data["rating_safety"],
             company_data["rating_info_accuracy"],
+            company_data["rating_info_completeness"],
+            company_data["rating_staff_attitude"],
+            company_data["rating_comfort"],
+            company_data["rating_service_quality"],
+            company_data["rating_punctuality"],
         )
 
-        if existing_company:
-            # --- CẬP NHẬT (Update) ---
-            company_id = existing_company[0]
-
-            update_query = """
+        if result:
+            # UPDATE rating
+            company_id = result[0]
+            query_update = """
                 UPDATE bus_companies SET
-                    rating_overall = %s,
                     reviewer_count = %s,
-                    rating_service_quantity = %s,
-                    rating_comfort = %s,
-                    rating_punctuality = %s,
-                    rating_staff_attitude = %s,
+                    rating_overall = %s,
                     rating_safety = %s,
-                    rating_info_accuracy = %s
-                WHERE bus_company_id = %s;
+                    rating_info_accuracy = %s,
+                    rating_info_completeness = %s,
+                    rating_staff_attitude = %s,
+                    rating_comfort = %s,
+                    rating_service_quality = %s,
+                    rating_punctuality = %s
+                WHERE company_id = %s
             """
-            params_update = params_rating + (company_id,)
-            self.execute(update_query, params_update)
-
-            print(f"🔄 Cập nhật Rating mới cho {bus_name} (ID: {company_id})")
+            self.execute(query_update, rating_params + (company_id,))
+            print(f"🔄 Cập nhật rating cho: {bus_name} (ID: {company_id})")
             return company_id
 
         else:
-            # --- CHÈN MỚI (Insert) ---
-            insert_query = """
+            # INSERT mới
+            query_insert = """
                 INSERT INTO bus_companies (
-                    bus_company_name, rating_overall, reviewer_count,
-                    rating_service_quantity, rating_comfort, rating_punctuality, 
-                    rating_staff_attitude, rating_safety, rating_info_accuracy
-                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
-                RETURNING bus_company_id;
+                    company_name,
+                    reviewer_count,
+                    rating_overall,
+                    rating_safety,
+                    rating_info_accuracy,
+                    rating_info_completeness,
+                    rating_staff_attitude,
+                    rating_comfort,
+                    rating_service_quality,
+                    rating_punctuality
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                RETURNING company_id
             """
-            params_insert = (bus_name,) + params_rating
+            company_id = self.execute_returning_id(
+                query_insert, (bus_name,) + rating_params
+            )
+            print(f"✅ Thêm mới company: {bus_name} (ID: {company_id})")
+            return company_id
 
-            # Giả định self.execute_and_get_id trả về ID từ mệnh đề RETURNING
-            new_company_id = self.execute_and_get_id(insert_query, params_insert)
+    # ==================== BƯỚC 4: INSERT TRIP ====================
 
-            print(f"Chèn mới công ty {bus_name} (ID: {new_company_id})")
-            return new_company_id
+    def insert_trip(self, trip_data: Dict[str, Any]) -> int:
+        """
+        Insert một chuyến xe mới vào bảng trips.
 
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        """Đóng kết nối khi thoát khỏi khối 'with'."""
-        if exc_type:  # Nếu có lỗi xảy ra
-            if self.conn:
-                self.conn.rollback()  # Hoàn tác các thay đổi chưa được commit
-            print(f"⚠️ Lỗi xảy ra trong khối 'with', thực hiện rollback.")
-        self.close()
+        Args:
+            trip_data: Dict chứa thông tin chuyến xe:
+                - bus_company_id (int)
+                - route_id (int)
+                - departure_time (str hoặc datetime)
+                - arrival_time (str hoặc datetime)
+                - price (float)
+                - seat_type (str, optional)
+                - available_seats (int, optional)
+                ... (các trường khác tùy schema)
+
+        Returns:
+            trip_id (int)
+        """
+        query = """
+        INSERT INTO trips (
+            company_id,
+            route_id,
+            departure_date,
+            departure_time,
+            duration_minutes,
+            pickup_point,
+            dropoff_point,
+            price_original,
+            price_discounted
+        ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+        RETURNING trip_id
+    """
+        params = (
+            trip_data["company_id"],
+            trip_data["route_id"],
+            trip_data["departure_date"],
+            trip_data["departure_time"],
+            trip_data["duration_minutes"],
+            trip_data.get("pickup_point"),
+            trip_data.get("dropoff_point"),
+            trip_data["price_original"],
+            trip_data["price_discounted"],
+        )
+
+        trip_id = self.execute_returning_id(query, params)
+        print(f"✅ Thêm mới trip (ID: {trip_id})")
+        return trip_id
+
+    # ==================== WORKFLOW HOÀN CHỈNH ====================
+
+    def insert_complete_trip(
+        self,
+        start_city: str,
+        destination_city: str,
+        company_data: Dict[str, Any],
+        trip_data: Dict[str, Any],
+        start_city_abbr: str = None,
+        dest_city_abbr: str = None,
+    ) -> int:
+        """
+        Workflow hoàn chỉnh để insert 1 chuyến xe:
+
+        1. Get/Insert start_city → start_city_id
+        2. Get/Insert destination_city → destination_city_id
+        3. Get/Insert route → route_id
+        4. Get/Upsert bus_company → bus_company_id
+        5. Insert trip
+
+        Returns:
+            trip_id (int)
+        """
+        print(f"\n{'='*60}")
+        print(f"🚌 Bắt đầu insert chuyến: {start_city} → {destination_city}")
+        print(f"{'='*60}")
+
+        # Bước 1 & 2: Cities
+        start_city_id = self.get_or_insert_city(start_city, start_city_abbr)
+        dest_city_id = self.get_or_insert_city(destination_city, dest_city_abbr)
+
+        # Bước 3: Route
+        route_id = self.get_or_insert_route(start_city_id, dest_city_id)
+
+        # Bước 4: Bus Company
+        company_id = self.get_or_upsert_company(company_data)
+
+        # Bước 5: Trip
+        trip_data["company_id"] = company_id
+        trip_data["route_id"] = route_id
+        trip_id = self.insert_trip(trip_data)
+
+        print(f"{'='*60}")
+        print(f"✅ HOÀN THÀNH! Trip ID: {trip_id}")
+        print(f"{'='*60}\n")
+
+        return trip_id
+
+    # ==================== ĐÓNG KẾT NỐI ====================
 
     def close(self):
-        self.conn.close()
+        """Đóng cursor và connection."""
+        if self.cur:
+            self.cur.close()
+        if self.conn:
+            self.conn.close()
+        print("🔒 Đã đóng kết nối database")
 
-    query = """SELECT reviewer_count, rating_overall FROM bus_companies WHERE bus_company_name=%s"""
+    def __enter__(self):
+        """Hỗ trợ context manager (with statement)."""
+        return self
 
-    def update_rating_for_bus(self):
-        pass
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        """Tự động đóng kết nối khi thoát khỏi with block."""
+        if exc_type:
+            self.conn.rollback()
+            print(f"⚠️ Có lỗi xảy ra, đã rollback")
+        self.close()
 
-    def insert_new_bus(self):
-        """Đây là hàm con của `check_rating` dùng để insert dữ liệu nhà xe chưa có"""
-        pass
+    import pandas as pd
 
-    def check_rating(self, query, site_review_count, site_rating_overall, values=None):
-        """
-        Kiểm tra dữ liệu phần đánh giá từ nhà xe từ container.
 
-        Parameters:
-        ----------
-        query : str
-            Câu truy vấn SQL để lấy dữ liệu đánh giá từ database.
-        site_review_count : int
-        site_rating_overall : float
-        values : tuple | None
+def insert_trips_from_dataframe(self, df: pd.DataFrame):
+    """
+    Insert toàn bộ chuyến xe từ DataFrame vào database.
 
-        Returns :
-        -------
+    Yêu cầu: DataFrame phải có các cột:
+        start_city, destination_city, bus_name,
+        overall_rating, reviewer_count, rating_service,
+        rating_comfort, rating_punctuality, rating_staff_attitude,
+        rating_safety, rating_info_accuracy,
+        departure_time, arrival_time, price
+    """
 
-        """
-        data = self.fetch_one(query=query, values=values)
+    for idx, row in df.iterrows():
+        try:
+            company_data = {
+                "bus_name": row["bus_name"],
+                "overall_rating": row["overall_rating"],
+                "reviewer_count": row["reviewer_count"],
+                "rating_service": row["rating_service"],
+                "rating_comfort": row["rating_comfort"],
+                "rating_punctuality": row["rating_punctuality"],
+                "rating_staff_attitude": row["rating_staff_attitude"],
+                "rating_safety": row["rating_safety"],
+                "rating_info_accuracy": row["rating_info_accuracy"],
+            }
 
-        reviewer_count, rating_overall = data[0]
-        if not data:
-            return "new"  # call insert func
+            trip_data = {
+                "departure_time": row["departure_time"],
+                "arrival_time": row["arrival_time"],
+                "price": row["price"],
+            }
 
-        elif (reviewer_count != site_review_count) & (
-            rating_overall != site_rating_overall
-        ):
-            return "update"  # call update func
+            # Gọi workflow hoàn chỉnh
+            self.insert_complete_trip(
+                start_city=row["start_city"],
+                destination_city=row["destination_city"],
+                company_data=company_data,
+                trip_data=trip_data,
+            )
 
-        return "pass"  # dữ liệu trùng (mới) không cần làm gì, pass qua container mới
-
-    # Cần thêm diver để click -> lấy data -> insert/update
+        except Exception as e:
+            print(f"⚠️ Lỗi ở dòng {idx}: {e}")
+            self.conn.rollback()

@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+36 Limousine,4.8 (504),Limousine 11 chỗ,12:00,• Văn phòng Đồng Tàu,,14:30,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Tiến Minh Luxury Bus,4.3 (12),Limousine 9 chỗ,07:00,• Nhà Hát Lớn Hà Nội,,11:30,• Nhà hàng Đặc Sản Pù Luông,4h30m,346.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.3,4.4,4.4,4.2,4.4,4.4,
+Vân Anh Limousine,4.8 (33),Limousine Giường phòng 24 chỗ,11:00,• Bến xe Nước Ngầm,,14:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000đ,-13%,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.9,4.9,4.9,5.0,4.9,4.9,5.0
+Đức Phát (Thanh Hóa),4.7 (95),Limousine 24 phòng,18:05,• Bến xe Nước Ngầm,,20:35,• Bến xe phía Tây Thanh Hóa,2h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.7,4.6,4.6,4.5,4.7,4.6,4.7
+Vĩnh Quang,4.8 (26),Limousine 10 chỗ,10:25,• VP Linh Đàm,,12:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Thành Trung Limousine,4.1 (116),Limousine 11 chỗ,09:00,• Văn phòng Hà Nội,,11:00,• Văn Phòng Thanh Hóa,2h,230.000,Từ 210.000đ,-9%,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.4,4.0,4.0,4.3,4.4,3.9,4.4
+Thơm Phụng,4.6 (18),Limousine 24 phòng,13:30,• Bến xe Nước Ngầm,,15:45,• Big C Thanh Hóa,2h15m,200.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Bình Hoài Limousine,4 (305),Limousine 10 chỗ,06:00,• Văn phòng Hoàng Mai,,08:20,• Văn phòng Triệu Sơn,2h20m,230.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.2,4.1,4.2,4.3,4.1,4.1,4.7
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,19:00,• Văn Phòng Hà Nội,,22:00,• VP Thanh Hóa,3h,250.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+FUTA HÀ SƠN,4.8 (349),Limousine 34 chỗ,17:30,"• Bến xe Giáp Bát, Hà Nội",,20:00,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+36 Limousine,4.8 (504),Limousine 11 chỗ,17:01,• Văn phòng Đồng Tàu,,19:31,• Văn phòng Thanh Hóa,2h30m,230.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.8
+Vân Anh Limousine,4.8 (33),Limousine Giường phòng 24 chỗ,09:00,• Bến xe Nước Ngầm,,12:00,• Bến xe khách Triệu Sơn,3h,230.000,200.000đ,-13%,"T6, 31/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Đức Phát (Thanh Hóa),4.7 (95),Limousine 11 chỗ,15:00,• Văn Phòng Hà Nội,,17:30,• Bến xe phía Tây Thanh Hóa,2h30m,210.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.7,4.6,4.6,4.5,4.7,4.6,4.7
+Vĩnh Quang,4.8 (26),Limousine 10 chỗ,09:25,• VP Linh Đàm,,11:55,• VP Thanh Hóa - 143 Lê Hồng Phong,2h30m,170.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8
+Thành Trung Limousine,4.1 (116),Limousine 11 chỗ,05:00,• Văn phòng Hà Nội,,07:00,• Văn Phòng Thanh Hóa,2h,230.000,Từ 210.000đ,-9%,"T6, 31/10/2025",Hà Nội,Thanh Hóa,,,,,,,
+Thơm Phụng,4.6 (18),Limousine 24 phòng,21:30,• Bến xe Nước Ngầm,,23:45,• Big C Thanh Hóa,2h15m,250.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Bình Hoài Limousine,4 (305),Limousine 10 chỗ,14:00,• Văn phòng Hoàng Mai,,16:50,• Tượng đài Lê Lợi,2h50m,230.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.2,4.1,4.2,4.3,4.1,4.1,4.7
+An Phát (Thanh Hóa),4 (23),Ghế ngồi 7 chỗ,10:00,• Văn Phòng Hà Nội,,13:00,• VP Thanh Hóa,3h,250.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0
+FUTA HÀ SƠN,4.8 (349),Limousine 34 chỗ,17:20,"• Bến xe Giáp Bát, Hà Nội",,19:50,"• Nút giao Hà Lĩnh, Hà Trung, Thanh Hóa",2h30m,300.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.8,4.8
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,23:55,• Bến xe Nước Ngầm,(01/11),02:55,• Big C Thanh Hóa,3h,200.000,,,"T6, 31/10/2025",Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.6

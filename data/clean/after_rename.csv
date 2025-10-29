@@ -1,0 +1,937 @@
+,bus_company_name,departure_time,pick_up_point,arrival_time,drop_of_point,start_point,destination,rating_safety,rating_info_accuracy,Thông tin đầy đủ,rating_staff_attitude,rating_comfort,rating_service_quantity,rating_punctuality,rating_overall,review_count,number_of_seat,price_original,price_discounted,discounted_percentage,day,departure_date,duration_minutes,route
+0,36 Limousine,09:00:00,Văn phòng,11:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+1,Vân Anh Limousine,13:00:00,Bến xe,16:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+2,Thành Trung Limousine,07:00:00,Văn phòng,09:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,9,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+3,Vĩnh Quang,11:25:00,Văn phòng,13:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+4,Thơm Phụng,15:30:00,Bến xe,17:45:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,46,150000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+5,Đức Phát,13:00:00,Văn phòng,15:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+6,Bình Hoài Limousine,15:00:00,Văn phòng,17:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+7,An Phát,10:00:00,Văn phòng,13:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+8,FUTA HÀ SƠN,17:30:00,Bến xe,20:00:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,300000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+9,Thăng Long,22:10:00,Other,02:55:00,Other,Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,4.6,438,40,200000,0,0.0,Wednesday,15-10-2025,285,Hà Nội - Thanh Hoá
+10,36 Limousine,20:00:00,Văn phòng,22:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+11,Vĩnh Quang,10:25:00,Văn phòng,12:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+12,Thành Trung Limousine,20:00:00,Văn phòng,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+13,Thơm Phụng,16:30:00,Bến xe,18:45:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,24,200000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+14,Đức Phát,13:00:00,Bến xe,15:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+15,Vân Anh Limousine,20:00:00,Bến xe,23:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+16,Bình Hoài Limousine,14:00:00,Văn phòng,16:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+17,An Phát,19:00:00,Văn phòng,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+18,FUTA HÀ SƠN,23:50:00,Bến xe,01:50:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+19,Thăng Long,23:15:00,Bến xe,02:15:00,Other,Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,4.6,438,40,200000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+20,Nam Quỳnh Anh,21:30:00,Bến xe,02:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,300,Hà Nội - Thanh Hoá
+21,HM Happycar,20:00:00,Other,23:00:00,Other,Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6,4.6,264,24,300000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+22,Phú Quý,22:40:00,Bến xe,01:40:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,22,400000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+23,Bảo Ngọc Limousine,17:00:00,Bến xe,19:25:00,Other,Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0,4.2,18,32,220000,0,0.0,Wednesday,15-10-2025,145,Hà Nội - Thanh Hoá
+24,36 Limousine,15:00:00,Văn phòng,17:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+25,36 Limousine,05:30:00,Văn phòng,08:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+26,36 Limousine,18:00:00,Văn phòng,20:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+27,Thành Trung Limousine,15:00:00,Văn phòng,17:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+28,Thành Trung Limousine,19:00:00,Văn phòng,21:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+29,Đức Phát,20:00:00,Bến xe,22:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+30,Đức Phát,16:00:00,Văn phòng,18:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+31,Đức Phát,08:05:00,Bến xe,10:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+32,Thành Trung Limousine,14:00:00,Văn phòng,16:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+33,Thơm Phụng,10:00:00,Bến xe,12:15:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,24,200000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+34,Vân Anh Limousine,11:00:00,Bến xe,14:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+35,Vĩnh Quang,17:25:00,Văn phòng,19:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+36,Thơm Phụng,13:30:00,Bến xe,15:45:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,24,200000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+37,Vĩnh Quang,20:25:00,Văn phòng,22:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+38,Vĩnh Quang,12:25:00,Văn phòng,14:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+39,Vân Anh Limousine,17:00:00,Bến xe,20:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+40,36 Limousine,10:00:00,Văn phòng,12:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+41,36 Limousine,14:00:00,Văn phòng,16:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+42,36 Limousine,08:01:00,Văn phòng,10:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+43,Đức Phát,15:00:00,Văn phòng,17:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+44,Đức Phát,18:00:00,Bến xe,20:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+45,Đức Phát,06:00:00,Bến xe,08:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+46,Thành Trung Limousine,18:00:00,Văn phòng,20:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+47,Thành Trung Limousine,11:00:00,Văn phòng,13:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+48,Vĩnh Quang,21:25:00,Văn phòng,23:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+49,Vĩnh Quang,06:25:00,Văn phòng,08:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+50,Vĩnh Quang,08:25:00,Văn phòng,10:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+51,Vân Anh Limousine,16:00:00,Bến xe,19:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+52,Bình Hoài Limousine,18:00:00,Văn phòng,20:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+53,Thành Trung Limousine,17:00:00,Văn phòng,19:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+54,Vân Anh Limousine,13:00:00,Bến xe,16:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+55,Thơm Phụng,12:00:00,Bến xe,14:15:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,34,150000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+56,Thơm Phụng,18:30:00,Bến xe,20:45:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,24,200000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+57,Bình Hoài Limousine,18:00:00,Văn phòng,20:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+58,Bình Hoài Limousine,06:00:00,Văn phòng,08:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+59,An Phát,07:00:00,Văn phòng,10:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+60,An Phát,12:00:00,Văn phòng,15:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+61,An Phát,15:00:00,Văn phòng,18:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+62,Thơm Phụng,21:30:00,Bến xe,23:45:00,Other,Hà Nội,Thanh Hóa,4.9,4.6,4.8,4.8,4.6,4.5,5.0,4.6,18,24,250000,0,0.0,Wednesday,15-10-2025,135,Hà Nội - Thanh Hoá
+63,FUTA HÀ SƠN,05:30:00,Bến xe,07:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+64,FUTA HÀ SƠN,17:30:00,Bến xe,19:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+65,FUTA HÀ SƠN,14:30:00,Bến xe,16:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+66,Thăng Long,23:55:00,Bến xe,02:55:00,Other,Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,4.6,438,40,200000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+67,Thăng Long,21:30:00,Other,02:15:00,Other,Hà Nội,Thanh Hóa,4.8,4.7,4.8,4.7,4.4,4.5,4.8,4.6,438,40,200000,0,0.0,Wednesday,15-10-2025,285,Hà Nội - Thanh Hoá
+68,Nam Quỳnh Anh,20:35:00,Other,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,370000,0,0.0,Wednesday,15-10-2025,295,Hà Nội - Thanh Hoá
+69,Nam Quỳnh Anh,20:25:00,Other,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,370000,0,0.0,Wednesday,15-10-2025,305,Hà Nội - Thanh Hoá
+70,Nam Quỳnh Anh,23:00:00,Other,02:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+71,HM Happycar,08:00:00,Other,11:00:00,Other,Hà Nội,Thanh Hóa,4.6,4.5,4.6,4.5,4.6,4.5,4.6,4.6,264,24,300000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+72,Phú Quý,15:45:00,Bến xe,18:45:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,36,260000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+73,Phú Quý,22:30:00,Bến xe,01:30:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,32,300000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+74,Phú Quý,17:05:00,Bến xe,20:05:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,40,260000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+75,Bảo Ngọc Limousine,18:20:00,Bến xe,20:45:00,Other,Hà Nội,Thanh Hóa,4.8,4.9,4.9,4.9,4.2,4.2,5.0,4.2,18,32,220000,0,0.0,Wednesday,15-10-2025,145,Hà Nội - Thanh Hoá
+76,36 Limousine,19:00:00,Văn phòng,21:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+77,36 Limousine,09:01:00,Văn phòng,11:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+78,36 Limousine,13:01:00,Văn phòng,15:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+79,36 Limousine,15:01:00,Văn phòng,17:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+80,36 Limousine,08:00:00,Văn phòng,10:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+81,36 Limousine,13:00:00,Văn phòng,15:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+82,36 Limousine,20:01:00,Văn phòng,22:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+83,Đức Phát,11:00:00,Văn phòng,13:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+84,Đức Phát,17:05:00,Bến xe,19:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+85,Đức Phát,15:00:00,Bến xe,17:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+86,Đức Phát,16:00:00,Bến xe,18:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+87,Vĩnh Quang,19:25:00,Văn phòng,21:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+88,Đức Phát,17:00:00,Văn phòng,19:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+89,Vĩnh Quang,13:25:00,Văn phòng,15:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+90,Đức Phát,10:00:00,Bến xe,12:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+91,Đức Phát,12:05:00,Bến xe,14:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+92,Đức Phát,14:00:00,Bến xe,16:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+93,Đức Phát,07:05:00,Bến xe,09:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+94,Đức Phát,04:35:00,Bến xe,07:05:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+95,Đức Phát,16:05:00,Bến xe,18:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+96,Đức Phát,13:05:00,Bến xe,15:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+97,Đức Phát,19:00:00,Bến xe,21:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+98,Bình Hoài Limousine,13:00:00,Văn phòng,15:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+99,Đức Phát,17:00:00,Bến xe,20:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+100,Đức Phát,20:05:00,Bến xe,22:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+101,Vân Anh Limousine,20:00:00,Bến xe,23:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+102,Đức Phát,15:00:00,Bến xe,18:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+103,Vân Anh Limousine,14:00:00,Bến xe,17:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+104,Đức Phát,21:00:00,Văn phòng,23:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+105,Vân Anh Limousine,11:30:00,Bến xe,15:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+106,Đức Phát,07:00:00,Bến xe,10:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+107,Đức Phát,11:00:00,Bến xe,13:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+108,Vân Anh Limousine,11:00:00,Bến xe,14:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+109,Vân Anh Limousine,15:00:00,Bến xe,18:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+110,Bình Hoài Limousine,17:00:00,Văn phòng,19:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+111,Vĩnh Quang,15:25:00,Văn phòng,17:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+112,Đức Phát,17:00:00,Bến xe,19:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+113,Đức Phát,14:05:00,Bến xe,16:35:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+114,Đức Phát,21:00:00,Bến xe,23:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+115,Đức Phát,19:00:00,Bến xe,22:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+116,Đức Phát,19:00:00,Văn phòng,21:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+117,Vân Anh Limousine,18:00:00,Bến xe,21:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+118,36 Limousine,05:31:00,Văn phòng,08:01:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+119,Thành Trung Limousine,12:00:00,Văn phòng,14:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+120,36 Limousine,16:00:00,Văn phòng,18:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+121,Đức Phát,06:00:00,Văn phòng,08:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+122,Đức Phát,06:00:00,Văn phòng,08:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+123,Thành Trung Limousine,09:00:00,Văn phòng,11:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+124,36 Limousine,21:00:00,Văn phòng,23:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+125,Thành Trung Limousine,13:00:00,Văn phòng,15:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+126,Thành Trung Limousine,10:00:00,Văn phòng,12:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+127,Thành Trung Limousine,16:00:00,Văn phòng,18:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+128,Bình Hoài Limousine,09:00:00,Văn phòng,11:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+129,Bình Hoài Limousine,10:00:00,Văn phòng,12:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+130,Bình Hoài Limousine,11:00:00,Văn phòng,13:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+131,Đức Phát,22:00:00,Bến xe,00:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+132,An Phát,11:00:00,Văn phòng,14:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+133,Bình Hoài Limousine,08:00:00,Văn phòng,10:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+134,Bình Hoài Limousine,08:00:00,Văn phòng,10:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+135,Bình Hoài Limousine,15:00:00,Văn phòng,17:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+136,Vĩnh Quang,14:25:00,Văn phòng,16:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+137,An Phát,14:00:00,Văn phòng,17:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+138,Vân Anh Limousine,19:00:00,Bến xe,22:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+139,Vân Anh Limousine,12:00:00,Bến xe,15:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+140,Bình Hoài Limousine,11:00:00,Văn phòng,13:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+141,Bình Hoài Limousine,16:00:00,Văn phòng,18:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+142,Bình Hoài Limousine,13:00:00,Văn phòng,15:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+143,An Phát,17:00:00,Văn phòng,20:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+144,Vĩnh Quang,16:25:00,Văn phòng,18:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+145,Đức Phát,07:00:00,Văn phòng,09:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+146,Bình Hoài Limousine,10:00:00,Văn phòng,12:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+147,Vĩnh Quang,18:25:00,Văn phòng,20:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+148,Vân Anh Limousine,18:00:00,Bến xe,21:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+149,Bình Hoài Limousine,12:00:00,Văn phòng,14:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+150,Đức Phát,22:00:00,Văn phòng,00:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+151,Vân Anh Limousine,14:00:00,Bến xe,17:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+152,Vân Anh Limousine,22:00:00,Bến xe,01:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+153,Vân Anh Limousine,22:30:00,Bến xe,02:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+154,Bình Hoài Limousine,17:00:00,Văn phòng,19:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+155,Vân Anh Limousine,17:00:00,Bến xe,20:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+156,Vân Anh Limousine,12:00:00,Bến xe,15:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+157,Bình Hoài Limousine,06:00:00,Văn phòng,08:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+158,Vân Anh Limousine,21:00:00,Bến xe,00:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+159,Vân Anh Limousine,19:30:00,Bến xe,23:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+160,Bình Hoài Limousine,09:00:00,Văn phòng,11:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+161,Vân Anh Limousine,15:00:00,Bến xe,18:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+162,Vân Anh Limousine,21:30:00,Bến xe,01:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+163,Vân Anh Limousine,21:30:00,Bến xe,00:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+164,Bình Hoài Limousine,20:00:00,Văn phòng,22:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+165,Đức Phát,14:00:00,Bến xe,17:20:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,200,Hà Nội - Thanh Hoá
+166,Vân Anh Limousine,19:00:00,Bến xe,22:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+167,Vân Anh Limousine,11:30:00,Bến xe,14:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+168,Vân Anh Limousine,22:30:00,Bến xe,01:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+169,Vân Anh Limousine,12:30:00,Bến xe,16:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+170,Vân Anh Limousine,14:30:00,Bến xe,17:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+171,An Phát,08:00:00,Văn phòng,11:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+172,Vân Anh Limousine,16:30:00,Bến xe,20:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+173,Đức Phát,09:00:00,Bến xe,12:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+174,An Phát,16:00:00,Văn phòng,19:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+175,Thành Trung Travel,08:00:00,Văn phòng,11:15:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,24,250000,225000,10.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+176,An Phát,18:00:00,Văn phòng,21:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+177,Vân Anh Limousine,22:30:00,Bến xe,01:30:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+178,Vân Anh Limousine,16:00:00,Bến xe,19:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+179,An Phát,20:00:00,Văn phòng,23:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+180,Đức Phát,13:00:00,Bến xe,16:00:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+181,36 Limousine,21:01:00,Văn phòng,23:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+182,36 Limousine,17:01:00,Văn phòng,19:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+183,36 Limousine,07:00:00,Văn phòng,09:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+184,36 Limousine,12:01:00,Văn phòng,14:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+185,36 Limousine,18:01:00,Văn phòng,20:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+186,36 Limousine,12:00:00,Văn phòng,14:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+187,36 Limousine,17:00:00,Văn phòng,19:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+188,36 Limousine,10:01:00,Văn phòng,12:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+189,36 Limousine,11:01:00,Văn phòng,13:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+190,36 Limousine,16:01:00,Văn phòng,18:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+191,36 Limousine,19:01:00,Văn phòng,21:31:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+192,36 Limousine,11:00:00,Văn phòng,13:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.8,4.8,4.7,4.7,4.7,4.7,4.8,502,11,230000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+193,Vân Anh Limousine,13:30:00,Bến xe,17:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+194,Thành Trung Limousine,22:00:00,Văn phòng,00:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+195,Thành Trung Limousine,23:00:00,Văn phòng,01:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+196,Vân Anh Limousine,13:30:00,Bến xe,16:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+197,Bình Hoài Limousine,14:00:00,Văn phòng,16:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+198,An Phát,09:00:00,Văn phòng,12:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+199,An Phát,13:00:00,Văn phòng,16:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,3.9,3.9,4.1,3.9,3.8,5.0,4.0,23,7,250000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+200,Bình Hoài Limousine,16:00:00,Văn phòng,18:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+201,Bình Hoài Limousine,20:00:00,Văn phòng,22:20:00,Văn phòng,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,140,Hà Nội - Thanh Hoá
+202,Bình Hoài Limousine,12:00:00,Văn phòng,14:50:00,Other,Hà Nội,Thanh Hóa,4.2,4.0,4.1,4.3,4.1,4.0,4.6,4.0,297,10,230000,0,0.0,Wednesday,15-10-2025,170,Hà Nội - Thanh Hoá
+203,Đức Phát,15:01:00,Bến xe,17:31:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+204,Đức Phát,15:01:00,Bến xe,18:21:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,200,Hà Nội - Thanh Hoá
+205,Đức Phát,20:01:00,Bến xe,23:21:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,200,Hà Nội - Thanh Hoá
+206,Đức Phát,18:00:00,Văn phòng,20:30:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,210000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+207,Đức Phát,09:01:00,Bến xe,12:21:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,200,Hà Nội - Thanh Hoá
+208,Đức Phát,09:01:00,Bến xe,11:31:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+209,Đức Phát,20:01:00,Bến xe,22:31:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+210,Đức Phát,18:01:00,Bến xe,20:31:00,Bến xe,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,24,250000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+211,Đức Phát,13:00:00,Văn phòng,15:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+212,Đức Phát,10:00:00,Văn phòng,12:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+213,Đức Phát,15:00:00,Văn phòng,17:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+214,Đức Phát,18:00:00,Văn phòng,20:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+215,Đức Phát,20:00:00,Văn phòng,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+216,Đức Phát,09:00:00,Văn phòng,11:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+217,Đức Phát,08:00:00,Văn phòng,10:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+218,Đức Phát,09:00:00,Văn phòng,11:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+219,Đức Phát,07:00:00,Văn phòng,09:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+220,Đức Phát,17:00:00,Văn phòng,19:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+221,Đức Phát,07:00:00,Văn phòng,09:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+222,Đức Phát,16:00:00,Văn phòng,18:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+223,Đức Phát,14:00:00,Văn phòng,16:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+224,Đức Phát,12:00:00,Văn phòng,14:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+225,Đức Phát,15:00:00,Văn phòng,17:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+226,Đức Phát,08:00:00,Văn phòng,10:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+227,Đức Phát,12:00:00,Văn phòng,14:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+228,Đức Phát,10:00:00,Văn phòng,12:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+229,Đức Phát,19:00:00,Văn phòng,21:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+230,Đức Phát,19:00:00,Văn phòng,21:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+231,Đức Phát,20:00:00,Văn phòng,22:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+232,Đức Phát,17:00:00,Văn phòng,19:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+233,Đức Phát,13:00:00,Văn phòng,15:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+234,Đức Phát,16:00:00,Văn phòng,18:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+235,Đức Phát,18:00:00,Văn phòng,20:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+236,Đức Phát,11:00:00,Văn phòng,13:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,180000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+237,Đức Phát,11:00:00,Văn phòng,13:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+238,Đức Phát,14:00:00,Văn phòng,16:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.8,4.7,4.7,4.6,4.7,4.6,4.8,4.7,87,11,200000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+239,Vân Anh Limousine,14:30:00,Bến xe,18:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+240,Vân Anh Limousine,16:30:00,Bến xe,19:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+241,Vân Anh Limousine,15:30:00,Bến xe,18:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+242,Vân Anh Limousine,19:30:00,Bến xe,22:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+243,Vân Anh Limousine,18:30:00,Bến xe,21:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+244,Vân Anh Limousine,17:30:00,Bến xe,20:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+245,Vân Anh Limousine,17:30:00,Bến xe,21:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+246,Vân Anh Limousine,12:30:00,Bến xe,15:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+247,Vân Anh Limousine,20:30:00,Bến xe,00:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+248,Vân Anh Limousine,20:30:00,Bến xe,23:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+249,Vân Anh Limousine,21:00:00,Bến xe,00:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+250,Vân Anh Limousine,18:30:00,Bến xe,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+251,Vân Anh Limousine,15:30:00,Bến xe,19:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+252,FUTA HÀ SƠN,08:30:00,Bến xe,10:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+253,FUTA HÀ SƠN,12:40:00,Bến xe,14:40:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+254,FUTA HÀ SƠN,19:30:00,Bến xe,21:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+255,FUTA HÀ SƠN,17:20:00,Bến xe,19:50:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,300000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+256,FUTA HÀ SƠN,10:30:00,Bến xe,12:30:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+257,FUTA HÀ SƠN,23:40:00,Bến xe,01:40:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,24,390000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+258,FUTA HÀ SƠN,22:20:00,Bến xe,00:20:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,34,200000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+259,FUTA HÀ SƠN,19:30:00,Bến xe,22:00:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,24,500000,0,0.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+260,FUTA HÀ SƠN,14:20:00,Bến xe,16:20:00,Other,Hà Nội,Thanh Hóa,4.9,4.7,4.8,4.8,4.8,4.7,4.8,4.8,318,24,390000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+261,Thành Trung Limousine,11:00:00,Văn phòng,13:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+262,Thành Trung Limousine,12:00:00,Văn phòng,14:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+263,Thành Trung Limousine,10:00:00,Văn phòng,12:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+264,Thành Trung Limousine,17:00:00,Văn phòng,19:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+265,Thành Trung Limousine,09:00:00,Văn phòng,11:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+266,Thành Trung Limousine,07:00:00,Văn phòng,09:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,9,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+267,Thành Trung Limousine,14:00:00,Văn phòng,16:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+268,Thành Trung Limousine,15:00:00,Văn phòng,17:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+269,Thành Trung Limousine,13:00:00,Văn phòng,15:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+270,Thành Trung Limousine,18:00:00,Văn phòng,20:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+271,Nam Quỳnh Anh,22:30:00,Bến xe,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+272,Thành Trung Limousine,19:00:00,Văn phòng,21:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+273,Thành Trung Limousine,20:00:00,Văn phòng,22:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+274,Thành Trung Limousine,22:00:00,Văn phòng,00:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+275,Thành Trung Limousine,23:00:00,Văn phòng,01:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+276,Thành Trung Limousine,16:00:00,Văn phòng,18:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+277,Nam Quỳnh Anh,20:45:00,Other,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,370000,0,0.0,Wednesday,15-10-2025,285,Hà Nội - Thanh Hoá
+278,Nam Quỳnh Anh,20:15:00,Other,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,370000,0,0.0,Wednesday,15-10-2025,315,Hà Nội - Thanh Hoá
+279,Nam Quỳnh Anh,21:00:00,Other,01:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,270,Hà Nội - Thanh Hoá
+280,Phú Quý,14:10:00,Bến xe,17:10:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,22,400000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+281,Phú Quý,09:50:00,Bến xe,12:50:00,Other,Hà Nội,Thanh Hóa,4.4,4.3,4.4,4.5,4.1,4.2,4.9,4.3,468,32,300000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+282,Vân Anh Limousine,05:00:00,Bến xe,08:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+283,Vân Anh Limousine,06:30:00,Bến xe,10:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+284,Vân Anh Limousine,07:00:00,Bến xe,10:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+285,Vĩnh Quang,09:30:00,Văn phòng,12:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+286,Vĩnh Quang,17:30:00,Văn phòng,20:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+287,Vĩnh Quang,11:30:00,Văn phòng,14:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+288,Vân Anh Limousine,08:00:00,Bến xe,11:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+289,Vân Anh Limousine,06:00:00,Bến xe,09:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+290,Vân Anh Limousine,09:00:00,Bến xe,12:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+291,Vân Anh Limousine,04:30:00,Bến xe,07:30:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+292,Vân Anh Limousine,05:00:00,Bến xe,08:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+293,Vân Anh Limousine,04:00:00,Bến xe,07:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+294,Vân Anh Limousine,04:00:00,Bến xe,07:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+295,Vân Anh Limousine,08:00:00,Bến xe,11:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+296,Vân Anh Limousine,09:30:00,Bến xe,13:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+297,Vân Anh Limousine,04:30:00,Bến xe,07:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+298,Vân Anh Limousine,07:30:00,Bến xe,11:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+299,Vân Anh Limousine,07:00:00,Bến xe,10:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+300,Vân Anh Limousine,09:00:00,Bến xe,12:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+301,Vân Anh Limousine,10:00:00,Bến xe,13:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+302,Vân Anh Limousine,10:30:00,Bến xe,14:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+303,Vân Anh Limousine,05:30:00,Bến xe,09:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+304,Vĩnh Quang,15:30:00,Văn phòng,18:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+305,Vĩnh Quang,05:30:00,Văn phòng,08:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+306,Vĩnh Quang,13:30:00,Văn phòng,16:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+307,Vân Anh Limousine,10:00:00,Bến xe,13:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+308,Vĩnh Quang,19:30:00,Văn phòng,22:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+309,Vân Anh Limousine,06:00:00,Bến xe,09:00:00,Bến xe,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,200000,13.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+310,Vân Anh Limousine,04:30:00,Bến xe,08:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+311,Vân Anh Limousine,05:30:00,Bến xe,08:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+312,Vân Anh Limousine,07:30:00,Bến xe,10:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+313,Vân Anh Limousine,08:30:00,Bến xe,12:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,210,Hà Nội - Thanh Hoá
+314,Vân Anh Limousine,09:30:00,Bến xe,12:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+315,Vân Anh Limousine,10:30:00,Bến xe,13:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+316,Vân Anh Limousine,06:30:00,Bến xe,09:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+317,Vân Anh Limousine,08:30:00,Bến xe,11:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.9,4.9,4.9,4.9,4.9,4.9,5.0,4.8,32,24,230000,0,0.0,Wednesday,15-10-2025,180,Hà Nội - Thanh Hoá
+318,Nam Quỳnh Anh,16:50:00,Bến xe,20:05:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,24,350000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+319,Nam Quỳnh Anh,23:55:00,Bến xe,03:10:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+320,Nam Quỳnh Anh,15:20:00,Bến xe,18:35:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+321,Nam Quỳnh Anh,23:30:00,Bến xe,02:45:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+322,Nam Quỳnh Anh,12:05:00,Bến xe,15:20:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,20,350000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+323,Duy Khánh Limousine,16:45:00,Văn phòng,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.0,4.0,4.1,4.0,3.9,3.8,4.1,3.8,656,24,350000,0,0.0,Wednesday,15-10-2025,315,Hà Nội - Thanh Hoá
+324,Vĩnh Quang,07:30:00,Văn phòng,10:55:00,Văn phòng,Hà Nội,Thanh Hóa,5.0,4.8,4.9,4.9,4.9,4.9,4.8,4.8,25,10,170000,0,0.0,Wednesday,15-10-2025,205,Hà Nội - Thanh Hoá
+325,Pu Luong Excursions,06:40:00,Other,11:40:00,Other,Hà Nội,Thanh Hóa,4.7,5.0,5.0,5.0,4.9,5.0,5.0,4.9,16,9,350000,0,0.0,Wednesday,15-10-2025,300,Hà Nội - Thanh Hoá
+326,Nam Quỳnh Anh,00:30:00,Bến xe,02:30:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,22,350000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+327,Thành Trung Limousine,10:15:00,Other,13:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+328,Thành Trung Limousine,11:15:00,Other,14:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+329,Thành Trung Limousine,12:15:00,Other,15:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+330,Thành Trung Limousine,10:15:00,Other,13:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+331,Thành Trung Limousine,18:15:00,Other,21:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+332,Thành Trung Limousine,08:15:00,Other,11:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+333,Thành Trung Limousine,08:15:00,Other,11:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+334,Thành Trung Limousine,17:15:00,Other,20:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+335,Thành Trung Limousine,12:15:00,Other,15:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+336,Thành Trung Limousine,17:15:00,Other,20:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+337,Thành Trung Limousine,14:15:00,Other,17:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+338,Thành Trung Limousine,15:15:00,Other,18:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+339,Thành Trung Limousine,16:15:00,Other,19:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+340,Thành Trung Limousine,16:15:00,Other,19:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+341,Thành Trung Limousine,11:15:00,Other,14:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+342,Thành Trung Limousine,13:15:00,Other,16:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+343,Thành Trung Limousine,15:15:00,Other,18:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+344,Thành Trung Limousine,18:15:00,Other,21:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+345,Thành Trung Limousine,14:15:00,Other,17:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+346,Thành Trung Limousine,13:15:00,Other,16:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+347,Thành Trung Limousine,19:15:00,Other,22:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+348,Thành Trung Limousine,19:15:00,Other,22:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+349,Thành Trung Limousine,09:15:00,Other,12:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+350,Thành Trung Limousine,09:15:00,Other,12:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+351,Thành Trung Limousine,22:15:00,Other,01:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+352,Thành Trung Limousine,22:15:00,Other,01:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+353,Thành Trung Limousine,21:15:00,Other,00:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+354,Thành Trung Limousine,06:15:00,Other,09:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,9,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+355,Thành Trung Limousine,21:15:00,Other,00:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+356,Thành Trung Limousine,06:15:00,Other,09:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,9,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+357,Nam Quỳnh Anh,19:15:00,Bến xe,21:15:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,32,300000,0,0.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+358,Nam Quỳnh Anh,18:00:00,Other,21:15:00,Other,Hà Nội,Thanh Hóa,4.5,4.3,4.5,4.2,4.2,4.2,4.7,4.2,2035,32,300000,0,0.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+359,Thành Trung Limousine,05:00:00,Văn phòng,07:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+360,Thành Trung Limousine,06:00:00,Văn phòng,08:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+361,Thành Trung Limousine,08:00:00,Văn phòng,10:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,230000,210000,9.0,Wednesday,15-10-2025,120,Hà Nội - Thanh Hoá
+362,Thành Trung Travel,19:30:00,Văn phòng,22:45:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,24,250000,225000,10.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+363,Thành Trung Travel,20:30:00,Văn phòng,23:45:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,24,250000,225000,10.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+364,Thành Trung Travel,16:00:00,Văn phòng,19:15:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,24,250000,225000,10.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+365,Thành Trung Limousine,05:00:00,Văn phòng,07:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+366,Thành Trung Limousine,08:00:00,Văn phòng,10:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+367,Thành Trung Limousine,06:00:00,Văn phòng,08:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,280000,260000,7.0,Wednesday,15-10-2025,150,Hà Nội - Thanh Hoá
+368,Thành Trung Limousine,05:15:00,Other,08:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+369,Thành Trung Limousine,05:15:00,Other,08:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+370,Thành Trung Limousine,07:15:00,Other,10:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+371,Thành Trung Limousine,04:15:00,Other,07:00:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,480000,460000,4.0,Wednesday,15-10-2025,165,Hà Nội - Thanh Hoá
+372,Thành Trung Limousine,04:15:00,Other,07:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+373,Thành Trung Limousine,07:15:00,Other,10:30:00,Văn phòng,Hà Nội,Thanh Hóa,4.4,3.9,4.0,4.3,4.3,3.9,4.3,4.0,113,11,530000,510000,4.0,Wednesday,15-10-2025,195,Hà Nội - Thanh Hoá
+374,Đà Lạt ơi,23:30:00,Other,06:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+375,Bình Minh Tải,22:30:00,Văn phòng,05:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,22,350000000,300000000,14.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+376,Huỳnh Gia,22:30:00,Văn phòng,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,38,280000000,250000000,11.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+377,An Anh Limousine,23:30:00,Văn phòng,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,34,299000000,199000000,33.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+378,Khanh Phong,05:15:00,Văn phòng,11:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,400000000,17.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+379,Nhật Dương - Bình Minh Bus,23:30:00,Văn phòng,06:06:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,396,Sài Gòn - Nha Trang
+380,Bus365,22:00:00,Bến xe,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.6,4.7,4.8,4.7,4.7,4.4,4.7,165,24,400000000,289000000,28.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+381,Nam Hải Limousine,22:20:00,Văn phòng,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.8,4.7,3463,34,300000000,270000000,10.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+382,Trọng Thủy Limousine,21:00:00,Other,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+383,Trà Lan Viên,22:15:00,Văn phòng,05:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.4,4.3,4.3,4.7,4.4,4199,30,280000000,260000000,7.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+384,Đà Lạt ơi,23:45:00,Other,05:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,345,Sài Gòn - Nha Trang
+385,Huỳnh Gia,11:00:00,Văn phòng,17:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+386,Bình Minh Tải,23:15:00,Văn phòng,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,22,395000000,289000000,27.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+387,An Anh Limousine,05:00:00,Văn phòng,11:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,24,449000000,299000000,33.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+388,Nhật Dương - Bình Minh Bus,22:35:00,Văn phòng,06:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+389,Khanh Phong,23:20:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+390,Nam Hải Limousine,10:15:00,Văn phòng,18:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.8,4.7,3463,22,420000000,370000000,12.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+391,Bus365,13:00:00,Bến xe,19:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.6,4.7,4.8,4.7,4.7,4.4,4.7,165,24,400000000,289000000,28.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+392,Trà Lan Viên,23:00:00,Văn phòng,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.4,4.3,4.3,4.7,4.4,4199,21,450000000,400000000,11.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+393,Phương Nam,22:00:00,Văn phòng,06:52:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,40,240000000,240000000,0.0,Saturday,11-10-2025,532,Sài Gòn - Nha Trang
+394,Hạnh Cafe - Hà Phương Limousine,22:15:00,Văn phòng,06:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.4,4.5,4.4,4.3,4.3,4.7,4.4,7326,34,300000000,280000000,7.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+395,Xe Nhà,22:15:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.4,4.2,4.0,4.0,4.5,4.3,3213,40,280000000,240000000,14.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+396,Liên Hưng,22:15:00,Bến xe,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+397,Cúc Tùng,05:30:00,Văn phòng,15:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+398,Quang Hạnh,19:30:00,Bến xe,04:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,565,Sài Gòn - Nha Trang
+399,Phúc An Express,22:15:00,Văn phòng,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,470000000,470000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+400,Hà Linh,18:00:00,Bến xe,03:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,22,300000000,290000000,3.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+401,Việt Nhật,22:30:00,Văn phòng,06:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.8,4.6,4.7,4.8,4.7,816,34,280000000,280000000,0.0,Saturday,11-10-2025,500,Sài Gòn - Nha Trang
+402,Quang Dũng VIP Limousine,05:30:00,Bến xe,14:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.0,3.8,3.8,3.9,3.8,3.7,4.3,3.7,887,32,550000000,550000000,0.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+403,Long Vân Limousine,13:00:00,Văn phòng,20:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.4,4.5,4.5,4.4,4.4,4.7,4.5,6899,22,350000000,315000000,10.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+404,Tài Phát Limousine,20:00:00,Bến xe,03:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+405,Như Ý 78,18:00:00,Bến xe,02:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,24,290000000,290000000,0.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+406,Rạng Đông Buslines,15:01:00,Bến xe,22:46:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.2,4.3,4.3,4.2,4.2,4.6,4.2,1481,34,500000000,400000000,20.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+407,Tuấn Tú Express,14:30:00,Other,21:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,46,450000000,290000000,36.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+408,Hiếu Vinh,17:01:00,Bến xe,04:01:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,660,Sài Gòn - Nha Trang
+409,Tín Phát Limousine,17:45:00,Văn phòng,01:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,4.8,4.9,54,24,450000000,405000000,10.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+410,Mười Phương Express,15:00:00,Bến xe,21:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,34,300000000,270000000,10.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+411,Hưng Thịnh,18:00:00,Other,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.8,4.9,4.9,4.8,4.8,5.0,4.9,91,24,550000000,450000000,18.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+412,Hoàng Khang,16:00:00,Văn phòng,23:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,3.8,4.1,3.8,3.8,3.8,4.8,3.5,116,34,330000000,295000000,11.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+413,Hưng Thành,16:40:00,Bến xe,00:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.6,4.8,4.9,4.8,4.7,4.3,4.8,63,24,500000000,350000000,30.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+414,Đà Lạt ơi,23:45:00,Other,06:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+415,Đà Lạt ơi,23:49:00,Other,06:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,401,Sài Gòn - Nha Trang
+416,Đà Lạt ơi,23:30:00,Other,05:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+417,Huỳnh Gia,11:45:00,Văn phòng,18:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+418,Huỳnh Gia,20:00:00,Bến xe,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+419,Huỳnh Gia,23:00:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+420,Bình Minh Tải,23:00:00,Văn phòng,06:05:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,22,395000000,289000000,27.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+421,Bình Minh Tải,12:30:00,Văn phòng,19:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,32,320000000,250000000,22.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+422,Bình Minh Tải,13:30:00,Bến xe,19:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,32,320000000,250000000,22.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+423,Khanh Phong,22:10:00,Văn phòng,04:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+424,An Anh Limousine,23:00:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,24,449000000,349000000,22.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+425,Khanh Phong,17:30:00,Văn phòng,23:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+426,Khanh Phong,13:05:00,Văn phòng,19:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+427,Nhật Dương - Bình Minh Bus,23:00:00,Văn phòng,06:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+428,Nhật Dương - Bình Minh Bus,05:00:00,Văn phòng,12:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+429,Nhật Dương - Bình Minh Bus,12:30:00,Văn phòng,20:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+430,An Anh Limousine,08:00:00,Other,14:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,34,299000000,199000000,33.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+431,An Anh Limousine,22:45:00,Văn phòng,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,34,299000000,199000000,33.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+432,Bus365,22:30:00,Bến xe,04:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.6,4.7,4.8,4.7,4.7,4.4,4.7,165,24,400000000,289000000,28.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+433,Bus365,12:30:00,Bến xe,18:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.6,4.7,4.8,4.7,4.7,4.4,4.7,165,24,400000000,289000000,28.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+434,Phương Nam,22:05:00,Văn phòng,06:57:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,32,280000000,280000000,0.0,Saturday,11-10-2025,532,Sài Gòn - Nha Trang
+435,Phương Nam,19:30:00,Văn phòng,04:22:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,40,240000000,240000000,0.0,Saturday,11-10-2025,532,Sài Gòn - Nha Trang
+436,Trà Lan Viên,22:30:00,Văn phòng,05:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.4,4.3,4.3,4.7,4.4,4199,21,450000000,400000000,11.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+437,Xe Nhà,21:00:00,Bến xe,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.4,4.2,4.0,4.0,4.5,4.3,3213,40,280000000,240000000,14.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+438,Hạnh Cafe - Hà Phương Limousine,19:30:00,Văn phòng,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.4,4.5,4.4,4.3,4.3,4.7,4.4,7326,36,260000000,240000000,8.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+439,Trọng Thủy Limousine,20:30:00,Bến xe,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+440,Hạnh Cafe - Hà Phương Limousine,11:00:00,Văn phòng,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.4,4.5,4.4,4.3,4.3,4.7,4.4,7326,34,300000000,280000000,7.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+441,Hạnh Cafe - Hà Phương Limousine,07:45:00,Văn phòng,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.4,4.5,4.4,4.3,4.3,4.7,4.4,7326,41,260000000,240000000,8.0,Saturday,11-10-2025,705,Sài Gòn - Nha Trang
+442,Xe Nhà,22:25:00,Văn phòng,05:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.4,4.2,4.0,4.0,4.5,4.3,3213,20,350000000,310000000,11.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+443,Liên Hưng,20:30:00,Bến xe,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,350000000,29.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+444,Trọng Thủy Limousine,18:20:00,Other,01:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,400,Sài Gòn - Nha Trang
+445,Nam Hải Limousine,08:00:00,Văn phòng,16:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.8,4.7,3463,34,300000000,300000000,0.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+446,Phương Nam,22:15:00,Văn phòng,07:07:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,22,440000000,440000000,0.0,Saturday,11-10-2025,532,Sài Gòn - Nha Trang
+447,Liên Hưng,21:30:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+448,Liên Hưng,10:30:00,Bến xe,18:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+449,Cúc Tùng,20:00:00,Bến xe,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+450,Trọng Thủy Limousine,18:30:00,Other,01:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+451,Cúc Tùng,09:00:00,Văn phòng,18:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+452,Cúc Tùng,14:00:00,Văn phòng,23:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+453,Phúc An Express,20:00:00,Văn phòng,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,300000000,300000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+454,Huỳnh Gia,19:00:00,Văn phòng,04:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+455,Đà Lạt ơi,23:49:00,Other,05:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,341,Sài Gòn - Nha Trang
+456,Huỳnh Gia,22:10:00,Văn phòng,05:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+457,Huỳnh Gia,09:00:00,Văn phòng,16:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+458,Huỳnh Gia,12:30:00,Văn phòng,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+459,Bình Minh Tải,13:15:00,Bến xe,19:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,32,320000000,250000000,22.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+460,Huỳnh Gia,10:00:00,Văn phòng,17:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+461,Khanh Phong,20:00:00,Văn phòng,02:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+462,Khanh Phong,10:00:00,Văn phòng,16:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+463,Khanh Phong,22:20:00,Văn phòng,04:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+464,Khanh Phong,12:10:00,Văn phòng,18:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+465,Huỳnh Gia,15:00:00,Văn phòng,22:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+466,Khanh Phong,23:40:00,Văn phòng,05:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+467,Đà Lạt ơi,23:00:00,Other,06:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.8,4.8,4.8,4.8,4.8,4.8,4.8,3425,24,450000000,320000000,29.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+468,Huỳnh Gia,22:20:00,Văn phòng,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,300000000,300000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+469,Khanh Phong,12:05:00,Văn phòng,18:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+470,Huỳnh Gia,22:45:00,Văn phòng,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+471,Khanh Phong,23:35:00,Văn phòng,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+472,Khanh Phong,23:01:00,Văn phòng,05:11:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+473,Khanh Phong,10:30:00,Văn phòng,16:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+474,Khanh Phong,09:00:00,Văn phòng,15:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+475,Khanh Phong,22:30:00,Văn phòng,04:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,38,270000000,270000000,0.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+476,Bình Minh Tải,12:15:00,Văn phòng,19:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.6,4.7,4.6,4.6,4.6,4.8,4.7,3650,32,320000000,250000000,22.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+477,Khanh Phong,14:25:00,Văn phòng,20:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+478,Khanh Phong,13:10:00,Văn phòng,19:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+479,Khanh Phong,11:15:00,Văn phòng,17:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+480,Khanh Phong,14:25:00,Văn phòng,20:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+481,Khanh Phong,10:30:00,Văn phòng,16:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+482,Khanh Phong,17:30:00,Văn phòng,23:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+483,An Anh Limousine,22:30:00,Văn phòng,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,24,449000000,349000000,22.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+484,An Anh Limousine,12:00:00,Other,18:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.7,4.7,4.6,4.8,8322,24,449000000,299000000,33.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+485,Huỳnh Gia,20:30:00,Văn phòng,03:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,450000000,6.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+486,Khanh Phong,05:15:00,Văn phòng,11:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,400000000,17.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+487,Khanh Phong,20:05:00,Văn phòng,02:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+488,Khanh Phong,22:20:00,Văn phòng,04:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+489,Nhật Dương - Bình Minh Bus,23:10:00,Văn phòng,05:46:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,396,Sài Gòn - Nha Trang
+490,Khanh Phong,14:30:00,Văn phòng,20:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+491,Khanh Phong,13:05:00,Văn phòng,19:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+492,Khanh Phong,09:00:00,Văn phòng,14:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+493,Khanh Phong,21:05:00,Văn phòng,03:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+494,Khanh Phong,23:35:00,Văn phòng,05:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+495,Khanh Phong,11:15:00,Văn phòng,17:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+496,Nhật Dương - Bình Minh Bus,13:30:00,Bến xe,20:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,410,Sài Gòn - Nha Trang
+497,Khanh Phong,10:00:00,Văn phòng,15:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+498,Huỳnh Gia,23:00:00,Văn phòng,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+499,Khanh Phong,12:05:00,Văn phòng,18:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+500,Khanh Phong,22:40:00,Văn phòng,04:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+501,Khanh Phong,16:50:00,Văn phòng,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+502,Khanh Phong,22:10:00,Văn phòng,04:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+503,Nhật Dương - Bình Minh Bus,23:15:00,Văn phòng,07:05:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+504,Khanh Phong,15:15:00,Văn phòng,21:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+505,Khanh Phong,23:25:00,Văn phòng,05:35:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+506,Khanh Phong,23:05:00,Văn phòng,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+507,Khanh Phong,23:01:00,Văn phòng,04:56:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+508,Khanh Phong,23:40:00,Văn phòng,05:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+509,Khanh Phong,13:10:00,Văn phòng,19:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+510,Khanh Phong,23:10:00,Văn phòng,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+511,Khanh Phong,23:25:00,Văn phòng,05:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+512,Khanh Phong,21:05:00,Văn phòng,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+513,Khanh Phong,14:30:00,Văn phòng,20:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+514,Khanh Phong,23:20:00,Văn phòng,05:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+515,Huỳnh Gia,22:30:00,Văn phòng,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+516,Khanh Phong,22:30:00,Văn phòng,04:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,38,270000000,270000000,0.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+517,Khanh Phong,23:05:00,Văn phòng,05:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+518,Liên Hưng,08:15:00,Bến xe,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+519,Liên Hưng,19:30:00,Bến xe,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+520,Liên Hưng,07:30:00,Văn phòng,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+521,Liên Hưng,21:00:00,Văn phòng,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+522,Liên Hưng,08:00:00,Văn phòng,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+523,Khanh Phong,23:10:00,Văn phòng,05:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+524,Liên Hưng,22:00:00,Other,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+525,Liên Hưng,22:30:00,Bến xe,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+526,Liên Hưng,06:30:00,Bến xe,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+527,Cúc Tùng,20:30:00,Văn phòng,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+528,Cúc Tùng,20:00:00,Bến xe,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,531000000,299000000,44.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+529,Cúc Tùng,21:00:00,Văn phòng,06:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+530,Liên Hưng,07:30:00,Văn phòng,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+531,Cúc Tùng,11:00:00,Văn phòng,20:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+532,Cúc Tùng,12:00:00,Văn phòng,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+533,Liên Hưng,21:45:00,Bến xe,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+534,Cúc Tùng,06:00:00,Văn phòng,15:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+535,Liên Hưng,21:30:00,Văn phòng,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+536,Liên Hưng,10:15:00,Văn phòng,18:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+537,Cúc Tùng,14:30:00,Bến xe,23:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+538,Xe Nhà,21:10:00,Bến xe,05:40:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.4,4.2,4.0,4.0,4.5,4.3,3213,20,350000000,310000000,11.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+539,Cúc Tùng,12:30:00,Bến xe,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+540,Cúc Tùng,10:15:00,Văn phòng,20:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+541,Quang Hạnh,17:30:00,Bến xe,02:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,565,Sài Gòn - Nha Trang
+542,Cúc Tùng,09:30:00,Bến xe,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,571000000,299000000,48.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+543,Hà Linh,20:15:00,Other,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,22,400000000,379000000,5.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+544,Liên Hưng,13:00:00,Bến xe,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+545,Hà Linh,18:15:00,Other,03:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,24,680000000,399000000,41.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+546,Cúc Tùng,21:00:00,Bến xe,06:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+547,Cúc Tùng,19:30:00,Văn phòng,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,531000000,299000000,44.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+548,Cúc Tùng,22:30:00,Bến xe,07:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,299000000,45.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+549,Trọng Thủy Limousine,20:00:00,Other,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+550,Trọng Thủy Limousine,18:45:00,Other,01:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+551,Trọng Thủy Limousine,18:45:00,Other,01:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+552,Cúc Tùng,11:30:00,Bến xe,20:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+553,Trọng Thủy Limousine,19:15:00,Other,01:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+554,Trọng Thủy Limousine,19:45:00,Other,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+555,Trọng Thủy Limousine,20:15:00,Other,03:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+556,Trọng Thủy Limousine,20:45:00,Other,03:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+557,Trọng Thủy Limousine,20:00:00,Other,03:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+558,Cúc Tùng,09:30:00,Bến xe,18:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+559,Trọng Thủy Limousine,20:15:00,Other,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.7,4.7,4.7,4.6,4.4,4.7,1344,24,470000000,420000000,11.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+560,Khanh Phong,23:00:00,Văn phòng,05:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+561,Cúc Tùng,07:30:00,Bến xe,16:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+562,Cúc Tùng,07:00:00,Văn phòng,16:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+563,Cúc Tùng,20:00:00,Bến xe,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+564,Khanh Phong,23:00:00,Văn phòng,04:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+565,Liên Hưng,09:45:00,Văn phòng,18:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+566,Cúc Tùng,08:15:00,Văn phòng,18:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+567,Cúc Tùng,21:30:00,Bến xe,06:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+568,Quang Hạnh,18:00:00,Bến xe,03:25:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,565,Sài Gòn - Nha Trang
+569,Cúc Tùng,06:30:00,Bến xe,16:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+570,Cúc Tùng,19:30:00,Văn phòng,05:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+571,Cúc Tùng,19:00:00,Bến xe,04:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+572,Cúc Tùng,10:00:00,Văn phòng,19:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+573,Cúc Tùng,09:15:00,Văn phòng,19:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+574,Cúc Tùng,05:00:00,Bến xe,15:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+575,Cúc Tùng,10:30:00,Bến xe,20:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+576,Cúc Tùng,10:30:00,Bến xe,19:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+577,Cúc Tùng,09:30:00,Bến xe,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,350000000,35.0,Saturday,11-10-2025,740,Sài Gòn - Nha Trang
+578,Liên Hưng,09:00:00,Bến xe,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+579,Hà Linh,22:45:00,Other,04:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,34,450000000,320000000,29.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+580,Cúc Tùng,22:30:00,Bến xe,08:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,299000000,45.0,Saturday,11-10-2025,575,Sài Gòn - Nha Trang
+581,Cúc Tùng,11:15:00,Văn phòng,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+582,Liên Hưng,11:15:00,Văn phòng,22:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,645,Sài Gòn - Nha Trang
+583,Liên Hưng,13:30:00,Văn phòng,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+584,Liên Hưng,12:30:00,Văn phòng,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+585,Liên Hưng,11:30:00,Bến xe,22:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+586,Cúc Tùng,10:00:00,Bến xe,19:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,299000000,45.0,Saturday,11-10-2025,575,Sài Gòn - Nha Trang
+587,Cúc Tùng,10:00:00,Bến xe,19:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,299000000,45.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+588,Liên Hưng,08:45:00,Văn phòng,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,645,Sài Gòn - Nha Trang
+589,Cúc Tùng,06:30:00,Bến xe,15:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+590,Cúc Tùng,05:30:00,Bến xe,15:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+591,Liên Hưng,08:00:00,Bến xe,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+592,Cúc Tùng,08:30:00,Văn phòng,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,571000000,299000000,48.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+593,Liên Hưng,08:30:00,Văn phòng,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+594,Cúc Tùng,11:30:00,Bến xe,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,340000000,299000000,12.0,Saturday,11-10-2025,620,Sài Gòn - Nha Trang
+595,Cúc Tùng,06:00:00,Bến xe,15:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+596,Cúc Tùng,11:00:00,Văn phòng,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,350000000,35.0,Saturday,11-10-2025,650,Sài Gòn - Nha Trang
+597,Cúc Tùng,12:30:00,Bến xe,21:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,541000000,350000000,35.0,Saturday,11-10-2025,560,Sài Gòn - Nha Trang
+598,Cúc Tùng,18:30:00,Văn phòng,04:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,362000000,300000000,17.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+599,Long Vân Limousine,22:00:00,Văn phòng,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.4,4.5,4.5,4.4,4.4,4.7,4.5,6899,22,350000000,315000000,10.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+600,Huỳnh Gia,19:00:00,Văn phòng,03:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,530,Sài Gòn - Nha Trang
+601,Long Vân Limousine,22:00:00,Bến xe,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.4,4.5,4.5,4.4,4.4,4.7,4.5,6899,22,350000000,315000000,10.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+602,Long Vân Limousine,13:00:00,Bến xe,20:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.4,4.5,4.5,4.4,4.4,4.7,4.5,6899,22,350000000,315000000,10.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+603,Khanh Phong,20:05:00,Văn phòng,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+604,Huỳnh Gia,20:00:00,Bến xe,03:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,470,Sài Gòn - Nha Trang
+605,Cúc Tùng,19:30:00,Văn phòng,07:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+606,Liên Hưng,11:00:00,Other,18:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+607,Liên Hưng,12:30:00,Văn phòng,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,660,Sài Gòn - Nha Trang
+608,Cúc Tùng,20:00:00,Bến xe,06:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+609,Như Ý 78,16:00:00,Bến xe,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,34,200000000,200000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+610,Liên Hưng,19:30:00,Văn phòng,03:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,378000000,300000000,21.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+611,Liên Hưng,18:30:00,Văn phòng,02:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,420000000,16.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+612,Liên Hưng,20:00:00,Bến xe,03:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,378000000,300000000,21.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+613,Liên Hưng,19:00:00,Bến xe,02:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,420000000,16.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+614,Như Ý 78,17:00:00,Bến xe,02:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,24,290000000,290000000,0.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+615,Liên Hưng,09:00:00,Other,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+616,Cúc Tùng,19:00:00,Văn phòng,06:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+617,Tài Phát Limousine,17:15:00,Bến xe,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,530,Sài Gòn - Nha Trang
+618,Hiếu Vinh,17:01:00,Bến xe,03:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+619,Hiếu Vinh,16:01:00,Bến xe,03:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,660,Sài Gòn - Nha Trang
+620,Liên Hưng,13:30:00,Other,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+621,Hiếu Vinh,16:01:00,Bến xe,05:01:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,780,Sài Gòn - Nha Trang
+622,Liên Hưng,08:30:00,Văn phòng,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+623,Liên Hưng,08:45:00,Other,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+624,Cúc Tùng,07:00:00,Bến xe,17:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+625,Liên Hưng,08:00:00,Bến xe,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+626,Cúc Tùng,06:30:00,Bến xe,18:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+627,Liên Hưng,13:00:00,Bến xe,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,630,Sài Gòn - Nha Trang
+628,Mười Phương Express,13:00:00,Bến xe,21:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,34,300000000,270000000,10.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+629,Hiếu Vinh,16:01:00,Bến xe,04:01:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,720,Sài Gòn - Nha Trang
+630,Như Ý 78,17:00:00,Bến xe,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,34,200000000,200000000,0.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+631,Liên Hưng,09:00:00,Other,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+632,Hiếu Vinh,16:01:00,Bến xe,01:46:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,585,Sài Gòn - Nha Trang
+633,Hoàng Khang,15:30:00,Văn phòng,23:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,3.8,4.1,3.8,3.8,3.8,4.8,3.5,116,34,330000000,295000000,11.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+634,Mười Phương Express,18:30:00,Bến xe,01:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,24,400000000,360000000,10.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+635,Khang Vy Limousine,18:45:00,Other,02:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,76,24,550000000,550000000,0.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+636,Trung Thành,17:30:00,Bến xe,02:10:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.9,19,24,500000000,400000000,20.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+637,Liên Hưng,08:30:00,Other,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+638,Tân Quang Dũng,05:00:00,Bến xe,15:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,2348,32,400000000,400000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+639,Khang Vy Limousine,19:00:00,Other,02:20:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,76,24,550000000,550000000,0.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+640,Tân Quang Dũng,13:01:00,Bến xe,23:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,2348,22,1000000000,1000000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+641,Liên Hưng,08:30:00,Other,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+642,Như Ý 78,18:00:00,Bến xe,02:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,24,290000000,290000000,0.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+643,Hiếu Vinh,17:01:00,Bến xe,01:16:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+644,Như Ý 78,17:00:00,Bến xe,02:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.6,4.5,4.5,4.6,135,24,290000000,290000000,0.0,Saturday,11-10-2025,585,Sài Gòn - Nha Trang
+645,Mười Phương Express,16:00:00,Bến xe,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,34,300000000,270000000,10.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+646,Hiếu Vinh,17:01:00,Bến xe,05:01:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,720,Sài Gòn - Nha Trang
+647,Cúc Tùng,20:30:00,Bến xe,07:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+648,Mười Phương Express,16:30:00,Bến xe,01:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,24,400000000,360000000,10.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+649,Hiếu Vinh,16:01:00,Bến xe,01:16:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+650,Cúc Tùng,04:00:00,Bến xe,16:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,755,Sài Gòn - Nha Trang
+651,Mười Phương Express,18:00:00,Bến xe,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.3,4.3,4.3,4.3,4.3,4.0,4.2,165,34,300000000,270000000,10.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+652,Hoàng Khang,15:00:00,Bến xe,23:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,3.8,4.1,3.8,3.8,3.8,4.8,3.5,116,34,330000000,295000000,11.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+653,Cúc Tùng,06:30:00,Văn phòng,18:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+654,Cúc Tùng,05:00:00,Bến xe,17:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,755,Sài Gòn - Nha Trang
+655,Cúc Tùng,05:00:00,Văn phòng,16:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+656,Hiếu Vinh,17:01:00,Bến xe,01:46:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.6,4.5,4.5,4.5,4.4,4.4,4.5,4.3,83,40,200000000,200000000,0.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+657,Cúc Tùng,05:00:00,Bến xe,16:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+658,Cúc Tùng,07:30:00,Bến xe,18:05:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+659,Liên Hưng,07:30:00,Văn phòng,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,660,Sài Gòn - Nha Trang
+660,Liên Hưng,14:00:00,Other,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+661,Liên Hưng,13:30:00,Văn phòng,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+662,Liên Hưng,14:00:00,Other,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+663,Liên Hưng,09:15:00,Other,18:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+664,An Phú Buslines,18:00:00,Bến xe,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1205,34,380000000,380000000,0.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+665,Cúc Tùng,06:00:00,Bến xe,16:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,635,Sài Gòn - Nha Trang
+666,Tân Quang Dũng,13:30:00,Bến xe,23:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,2348,32,400000000,400000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+667,Liên Hưng,14:15:00,Other,23:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+668,An Phú Buslines,19:30:00,Văn phòng,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1205,24,480000000,480000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+669,Tân Quang Dũng,11:00:00,Bến xe,21:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,2348,32,400000000,400000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+670,Liên Hưng,13:30:00,Other,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+671,Ngọc Ánh Limousine,18:30:00,Bến xe,02:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.7,13,24,500000000,500000000,0.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+672,Cúc Tùng,06:00:00,Văn phòng,17:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+673,Ngọc Ánh Limousine,17:30:00,Bến xe,02:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.7,13,24,500000000,500000000,0.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+674,Liên Hưng,14:15:00,Other,23:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,363000000,280000000,23.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+675,Ngọc Ánh Limousine,18:00:00,Other,02:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.7,13,24,500000000,500000000,0.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+676,Mạnh Hùng,19:01:00,Bến xe,02:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,500000000,500000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+677,Mai Quyên,21:30:00,Other,03:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.6,80,24,500000000,500000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+678,Cúc Tùng,06:00:00,Bến xe,17:35:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,695,Sài Gòn - Nha Trang
+679,Khang Vy Limousine,16:00:00,Other,23:20:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,76,34,450000000,450000000,0.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+680,Liên Hưng,09:15:00,Other,18:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+681,Mạnh Hùng,19:02:00,Bến xe,02:02:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,770000000,770000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+682,Mạnh Hùng,18:20:00,Bến xe,01:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,4,310000000,310000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+683,Mạnh Hùng,20:02:00,Bến xe,03:02:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,770000000,770000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+684,Mạnh Hùng,20:00:00,Bến xe,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,500000000,500000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+685,Thanh Thuỷ - Quảng Ngãi,18:00:00,Bến xe,02:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.5,935,24,500000000,450000000,10.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+686,Huỳnh Gia,22:30:00,Văn phòng,04:55:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,38,280000000,250000000,11.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+687,Huỳnh Gia,23:00:00,Văn phòng,05:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+688,Huỳnh Gia,20:30:00,Văn phòng,03:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,450000000,6.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+689,Huỳnh Gia,22:10:00,Văn phòng,05:05:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+690,Huỳnh Gia,11:00:00,Văn phòng,17:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+691,Huỳnh Gia,11:45:00,Văn phòng,18:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+692,Nhật Dương - Bình Minh Bus,23:45:00,Other,06:06:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,381,Sài Gòn - Nha Trang
+693,Huỳnh Gia,09:00:00,Văn phòng,15:55:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+694,Huỳnh Gia,10:00:00,Văn phòng,16:55:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+695,Huỳnh Gia,12:30:00,Văn phòng,19:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,408000000,15.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+696,Huỳnh Gia,15:00:00,Văn phòng,21:55:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+697,Khanh Phong,20:00:00,Văn phòng,01:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,32,320000000,300000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+698,Huỳnh Gia,22:45:00,Văn phòng,05:10:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,280000000,238000000,15.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+699,Khanh Phong,12:10:00,Văn phòng,18:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+700,Khanh Phong,16:50:00,Văn phòng,22:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+701,Huỳnh Gia,22:20:00,Văn phòng,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,34,300000000,300000000,0.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+702,Nhật Dương - Bình Minh Bus,05:15:00,Other,12:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,455,Sài Gòn - Nha Trang
+703,Nhật Dương - Bình Minh Bus,23:25:00,Other,05:46:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,381,Sài Gòn - Nha Trang
+704,Nhật Dương - Bình Minh Bus,23:30:00,Other,07:05:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,455,Sài Gòn - Nha Trang
+705,Huỳnh Gia,22:30:00,Văn phòng,05:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+706,Khanh Phong,22:40:00,Văn phòng,04:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+707,Nhật Dương - Bình Minh Bus,12:45:00,Other,20:20:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,455,Sài Gòn - Nha Trang
+708,Khanh Phong,15:15:00,Văn phòng,21:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.8,4.7,16845,20,480000000,450000000,6.0,Saturday,11-10-2025,355,Sài Gòn - Nha Trang
+709,Liên Hưng,01:30:00,Other,10:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,280000000,15.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+710,Phúc An Express,20:45:00,Other,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,300000000,300000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+711,Huỳnh Gia,23:00:00,Văn phòng,05:55:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,8534,21,480000000,456000000,5.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+712,Nhật Dương - Bình Minh Bus,22:50:00,Other,06:25:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,22,349000000,304000000,13.0,Saturday,11-10-2025,455,Sài Gòn - Nha Trang
+713,Liên Hưng,18:30:00,Văn phòng,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+714,Phương Nam,22:35:00,Other,06:57:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,32,280000000,280000000,0.0,Saturday,11-10-2025,502,Sài Gòn - Nha Trang
+715,Nhật Dương - Bình Minh Bus,23:15:00,Other,06:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.8,4.8,4.9,5826,21,349000000,304000000,13.0,Saturday,11-10-2025,455,Sài Gòn - Nha Trang
+716,Tài Phát Limousine,17:00:00,Bến xe,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+717,Liên Hưng,22:15:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+718,Liên Hưng,18:30:00,Văn phòng,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,315,Sài Gòn - Nha Trang
+719,Liên Hưng,22:45:00,Other,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+720,Liên Hưng,19:00:00,Bến xe,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,285,Sài Gòn - Nha Trang
+721,Tài Phát Limousine,18:12:00,Other,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,473,Sài Gòn - Nha Trang
+722,Tài Phát Limousine,19:00:00,Bến xe,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+723,Liên Hưng,19:30:00,Văn phòng,02:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+724,Cúc Tùng,20:00:00,Bến xe,05:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+725,Liên Hưng,19:30:00,Other,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,373000000,320000000,14.0,Saturday,11-10-2025,615,Sài Gòn - Nha Trang
+726,Phương Nam,22:30:00,Other,06:52:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,40,240000000,240000000,0.0,Saturday,11-10-2025,502,Sài Gòn - Nha Trang
+727,Liên Hưng,19:20:00,Other,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,265,Sài Gòn - Nha Trang
+728,Liên Hưng,19:00:00,Other,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+729,Liên Hưng,21:00:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+730,Liên Hưng,12:00:00,Other,22:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+731,Liên Hưng,20:20:00,Other,03:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,378000000,300000000,21.0,Saturday,11-10-2025,430,Sài Gòn - Nha Trang
+732,Liên Hưng,19:30:00,Văn phòng,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+733,Liên Hưng,21:00:00,Other,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+734,Quang Hạnh,20:15:00,Other,04:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+735,Liên Hưng,19:30:00,Văn phòng,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,315,Sài Gòn - Nha Trang
+736,Liên Hưng,19:20:00,Other,02:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,420000000,16.0,Saturday,11-10-2025,430,Sài Gòn - Nha Trang
+737,Liên Hưng,23:30:00,Other,08:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,280000000,15.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+738,Tài Phát Limousine,20:30:00,Other,03:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+739,Quang Hạnh,20:55:00,Other,03:45:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,24,430000000,420000000,2.0,Saturday,11-10-2025,410,Sài Gòn - Nha Trang
+740,Liên Hưng,19:00:00,Bến xe,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+741,Cúc Tùng,20:30:00,Other,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,34,444000000,350000000,21.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+742,Liên Hưng,19:00:00,Other,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,450000000,8.0,Saturday,11-10-2025,615,Sài Gòn - Nha Trang
+743,Liên Hưng,23:15:00,Other,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+744,Cúc Tùng,20:00:00,Other,05:15:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,34,444000000,350000000,21.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+745,Quang Hạnh,20:30:00,Other,04:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,505,Sài Gòn - Nha Trang
+746,Tài Phát Limousine,20:30:00,Bến xe,03:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+747,Liên Hưng,22:30:00,Other,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+748,Liên Hưng,21:00:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,350000000,29.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+749,Liên Hưng,20:00:00,Bến xe,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,285,Sài Gòn - Nha Trang
+750,Phúc An Express,22:30:00,Other,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,470000000,470000000,0.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+751,Tuấn Tú Express,21:00:00,Other,04:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+752,Liên Hưng,21:30:00,Other,07:39:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,280000000,15.0,Saturday,11-10-2025,609,Sài Gòn - Nha Trang
+753,Phương Nam,22:45:00,Other,07:07:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.8,4.7,4.6,4.6,4.8,4.7,2431,22,440000000,440000000,0.0,Saturday,11-10-2025,502,Sài Gòn - Nha Trang
+754,Tuấn Tú Express,12:50:00,Other,21:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+755,Cúc Tùng,23:30:00,Other,07:45:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,800000000,500000000,37.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+756,Liên Hưng,07:30:00,Other,17:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,313000000,250000000,20.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+757,Liên Hưng,21:30:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+758,Tuấn Tú Express,13:21:00,Other,21:31:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+759,Tuấn Tú Express,19:51:00,Other,04:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+760,Hà Linh,18:30:00,Other,03:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,22,300000000,290000000,3.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+761,Liên Hưng,21:00:00,Other,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,280000000,15.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+762,Liên Hưng,22:45:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,300000000,40.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+763,Liên Hưng,20:15:00,Other,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,290000000,12.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+764,Liên Hưng,20:00:00,Bến xe,02:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+765,Liên Hưng,23:00:00,Other,07:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+766,Khang Thịnh,18:50:00,Bến xe,03:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,1708,24,550000000,495000000,10.0,Saturday,11-10-2025,505,Sài Gòn - Nha Trang
+767,Khang Thịnh,19:10:00,Other,03:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,1708,34,400000000,360000000,10.0,Saturday,11-10-2025,500,Sài Gòn - Nha Trang
+768,Khang Thịnh,19:05:00,Bến xe,03:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,1708,34,400000000,360000000,10.0,Saturday,11-10-2025,505,Sài Gòn - Nha Trang
+769,Phúc An Express,22:30:00,Other,05:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,480000000,480000000,0.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+770,Liên Hưng,09:30:00,Other,19:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,250000000,24.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+771,Rạng Đông Buslines,19:30:00,Other,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.2,4.3,4.3,4.2,4.2,4.6,4.2,1481,24,600000000,480000000,20.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+772,Liên Hưng,19:45:00,Other,02:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,500000000,420000000,16.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+773,Rạng Đông Buslines,18:00:00,Bến xe,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.2,4.3,4.3,4.2,4.2,4.6,4.2,1481,24,600000000,480000000,20.0,Saturday,11-10-2025,465,Sài Gòn - Nha Trang
+774,Rạng Đông Buslines,16:31:00,Other,22:46:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.5,4.2,4.3,4.3,4.2,4.2,4.6,4.2,1481,34,500000000,400000000,20.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+775,Mạnh Hùng,16:30:00,Bến xe,02:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,4,330000000,330000000,0.0,Saturday,11-10-2025,595,Sài Gòn - Nha Trang
+776,Khang Thịnh,18:55:00,Other,03:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,1708,24,550000000,495000000,10.0,Saturday,11-10-2025,500,Sài Gòn - Nha Trang
+777,Mạnh Hùng,18:30:00,Văn phòng,01:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,4,310000000,310000000,0.0,Saturday,11-10-2025,400,Sài Gòn - Nha Trang
+778,Phúc Yên,16:55:00,Other,01:40:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+779,Tuấn Hiệp,01:20:00,Other,11:10:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.0,1234,36,280000000,280000000,0.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+780,Phúc Yên,16:30:00,Bến xe,01:40:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,550,Sài Gòn - Nha Trang
+781,Cúc Tùng,06:00:00,Văn phòng,16:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+782,Nguyên Khang Limousine,20:00:00,Other,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,5.0,2,24,450000000,405000000,10.0,Saturday,11-10-2025,225,Sài Gòn - Nha Trang
+783,Tài Phát Limousine,19:15:00,Other,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,410,Sài Gòn - Nha Trang
+784,Tài Phát Limousine,19:30:00,Other,02:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,5.0,5.0,1170,24,520000000,450000000,13.0,Saturday,11-10-2025,395,Sài Gòn - Nha Trang
+785,Năm Rùm,16:10:00,Bến xe,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.9,287,40,200000000,200000000,0.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+786,Nguyên Khang Limousine,18:15:00,Bến xe,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,5.0,2,24,450000000,405000000,10.0,Saturday,11-10-2025,330,Sài Gòn - Nha Trang
+787,Tuấn Tú Express,18:01:00,Other,01:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+788,Tuấn Tú Express,14:00:00,Other,21:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+789,Tuấn Tú Express,21:01:00,Other,04:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+790,Tuấn Tú Express,14:31:00,Other,21:31:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+791,Tuấn Tú Express,16:50:00,Other,01:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+792,Tuấn Tú Express,19:50:00,Other,04:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+793,Tuấn Tú Express,18:00:00,Other,01:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,34,550000000,320000000,42.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+794,Tuấn Tú Express,16:51:00,Other,01:01:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,24,700000000,350000000,50.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+795,Phúc Yên,16:30:00,Bến xe,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,24,400000000,400000000,0.0,Saturday,11-10-2025,555,Sài Gòn - Nha Trang
+796,Tuấn Tú Express,13:20:00,Other,21:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.7,4.6,4.6,4.6,4.5,4.5,4.6,4.5,1392,46,450000000,290000000,36.0,Saturday,11-10-2025,490,Sài Gòn - Nha Trang
+797,Phương Anh,18:15:00,Other,03:15:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.3,248,44,350000000,315000000,10.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+798,Liên Hưng,09:05:00,Other,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+799,Quang Hạnh,18:30:00,Other,02:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,505,Sài Gòn - Nha Trang
+800,Liên Hưng,07:00:00,Other,16:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+801,Quang Hạnh,18:45:00,Other,03:25:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+802,Liên Hưng,11:20:00,Other,18:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,300000000,39.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+803,Quang Hạnh,18:15:00,Other,02:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+804,Cúc Tùng,20:30:00,Bến xe,05:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+805,Cúc Tùng,20:00:00,Other,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,34,444000000,350000000,21.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+806,Dũng Thuỷ Express,18:00:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,270,24,590000000,519200000,12.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+807,Quang Hạnh,18:25:00,Other,03:25:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+808,Cúc Tùng,23:30:00,Other,07:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,800000000,500000000,37.0,Saturday,11-10-2025,495,Sài Gòn - Nha Trang
+809,Cúc Tùng,19:30:00,Văn phòng,05:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+810,Hưng Thịnh,18:30:00,Other,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.8,4.9,4.9,4.8,4.8,5.0,4.9,91,24,550000000,450000000,18.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+811,Hà Linh,19:15:00,Other,03:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.4,4.3,4.3,4.2,4.0,4.0,4.8,4.1,1329,32,390000000,280000000,28.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+812,Cúc Tùng,04:00:00,Bến xe,15:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,665,Sài Gòn - Nha Trang
+813,Cúc Tùng,20:30:00,Other,05:15:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,34,444000000,350000000,21.0,Saturday,11-10-2025,525,Sài Gòn - Nha Trang
+814,Liên Hưng,18:30:00,Văn phòng,00:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,360,Sài Gòn - Nha Trang
+815,Cúc Tùng,05:00:00,Văn phòng,15:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+816,Liên Hưng,19:00:00,Bến xe,00:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,330,Sài Gòn - Nha Trang
+817,Dũng Thuỷ Express,18:30:00,Bến xe,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,270,24,590000000,519200000,12.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+818,Phúc An Express,20:15:00,Other,03:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,300000000,300000000,0.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+819,Quang Hạnh,19:55:00,Other,04:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+820,Cúc Tùng,19:00:00,Văn phòng,05:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+821,Phúc An Express,20:00:00,Văn phòng,03:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,320000000,320000000,0.0,Saturday,11-10-2025,430,Sài Gòn - Nha Trang
+822,Cúc Tùng,07:30:00,Bến xe,16:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+823,Cúc Tùng,06:30:00,Văn phòng,16:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+824,Cúc Tùng,06:00:00,Bến xe,15:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+825,Phúc An Express,20:45:00,Other,03:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,320000000,320000000,0.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+826,Cúc Tùng,07:00:00,Bến xe,16:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang
+827,Tín Phát Limousine,18:00:00,Other,01:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.9,4.9,4.9,4.9,4.9,4.9,4.8,4.9,54,24,450000000,405000000,10.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+828,Ngàn Hà,18:30:00,Văn phòng,01:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,61,22,500000000,400000000,20.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+829,Liên Hưng,19:45:00,Other,23:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,240,Sài Gòn - Nha Trang
+830,Liên Hưng,20:00:00,Other,05:50:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,313000000,280000000,11.0,Saturday,11-10-2025,590,Sài Gòn - Nha Trang
+831,Cúc Tùng,06:30:00,Bến xe,16:35:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,21,562000000,299000000,47.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+832,Phúc An Express,20:15:00,Other,03:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,32,320000000,320000000,0.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+833,Cúc Tùng,05:00:00,Bến xe,15:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+834,Liên Hưng,20:20:00,Other,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,265,Sài Gòn - Nha Trang
+835,Liên Hưng,19:20:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+836,Quang Hạnh,17:55:00,Other,02:55:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+837,Liên Hưng,20:00:00,Bến xe,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,330,Sài Gòn - Nha Trang
+838,Liên Hưng,20:00:00,Other,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+839,Mạnh Hùng,18:50:00,Văn phòng,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,500000000,500000000,0.0,Saturday,11-10-2025,400,Sài Gòn - Nha Trang
+840,Liên Hưng,20:20:00,Other,02:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,370,Sài Gòn - Nha Trang
+841,Bốn Luyện Express,22:10:00,Other,05:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.1,244,24,660000000,660000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+842,Bốn Luyện Express,22:18:00,Other,05:18:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.1,244,34,420000000,420000000,0.0,Saturday,11-10-2025,420,Sài Gòn - Nha Trang
+843,Liên Hưng,19:00:00,Other,05:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,313000000,280000000,11.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+844,Liên Hưng,20:30:00,Other,06:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,313000000,280000000,11.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+845,Liên Hưng,20:00:00,Other,05:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,330000000,280000000,15.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+846,Liên Hưng,20:45:00,Other,02:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,345,Sài Gòn - Nha Trang
+847,Mạnh Hùng,19:01:00,Văn phòng,01:41:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,770000000,770000000,0.0,Saturday,11-10-2025,400,Sài Gòn - Nha Trang
+848,Liên Hưng,20:45:00,Other,03:30:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,378000000,300000000,21.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+849,Mạnh Hùng,19:05:00,Bến xe,01:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,4,310000000,310000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+850,Liên Hưng,19:45:00,Other,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,570,Sài Gòn - Nha Trang
+851,Mạnh Hùng,19:36:00,Bến xe,01:41:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,770000000,770000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+852,Mạnh Hùng,19:00:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,500000000,500000000,0.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+853,Cúc Tùng,05:00:00,Bến xe,16:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,665,Sài Gòn - Nha Trang
+854,Liên Hưng,19:20:00,Other,00:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,310,Sài Gòn - Nha Trang
+855,Liên Hưng,20:45:00,Other,00:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,240,Sài Gòn - Nha Trang
+856,Liên Hưng,19:30:00,Other,05:15:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,420000000,14.0,Saturday,11-10-2025,585,Sài Gòn - Nha Trang
+857,Liên Hưng,22:30:00,Other,07:30:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+858,Liên Hưng,20:20:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,310,Sài Gòn - Nha Trang
+859,Mạnh Hùng,19:10:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,500000000,500000000,0.0,Saturday,11-10-2025,380,Sài Gòn - Nha Trang
+860,Mạnh Hùng,18:40:00,Other,01:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,4,310000000,310000000,0.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+861,Mạnh Hùng,17:10:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+862,Liên Hưng,19:45:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,345,Sài Gòn - Nha Trang
+863,Quang Hạnh,20:40:00,Other,03:45:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,24,430000000,420000000,2.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+864,Mộc Thảo,20:05:00,Other,06:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1665,34,320000000,320000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+865,Năm Rùm,17:30:00,Other,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.9,287,40,200000000,200000000,0.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+866,Mạnh Hùng,19:25:00,Bến xe,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,500000000,500000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+867,Mạnh Hùng,17:25:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+868,Mạnh Hùng,16:55:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+869,Mạnh Hùng,17:30:00,Bến xe,02:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,660000000,660000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+870,Liên Hưng,20:45:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,32,330000000,280000000,15.0,Saturday,11-10-2025,285,Sài Gòn - Nha Trang
+871,Phúc Yên,17:30:00,Bến xe,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,480,Sài Gòn - Nha Trang
+872,Phúc An Express,22:15:00,Văn phòng,05:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,480000000,480000000,0.0,Saturday,11-10-2025,460,Sài Gòn - Nha Trang
+873,Năm Rùm,17:10:00,Other,02:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.9,287,40,200000000,200000000,0.0,Saturday,11-10-2025,530,Sài Gòn - Nha Trang
+874,Phúc Yên,17:10:00,Other,01:40:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+875,Mạnh Hùng,19:26:00,Other,01:41:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,770000000,770000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+876,Phúc An Express,23:00:00,Other,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,470000000,470000000,0.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+877,Mạnh Hùng,18:02:00,Văn phòng,03:02:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,770000000,770000000,0.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+878,Mạnh Hùng,17:50:00,Bến xe,23:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,600000000,600000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+879,Mạnh Hùng,19:11:00,Other,01:41:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,770000000,770000000,0.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+880,Mạnh Hùng,19:21:00,Other,01:41:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,770000000,770000000,0.0,Saturday,11-10-2025,380,Sài Gòn - Nha Trang
+881,Mạnh Hùng,16:31:00,Bến xe,02:26:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,550000000,550000000,0.0,Saturday,11-10-2025,595,Sài Gòn - Nha Trang
+882,Liên Hưng,20:00:00,Other,05:45:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,34,373000000,320000000,14.0,Saturday,11-10-2025,585,Sài Gòn - Nha Trang
+883,Dũng Lệ,18:15:00,Văn phòng,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,60,24,500000000,500000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+884,Mạnh Hùng,18:00:00,Văn phòng,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,500000000,500000000,0.0,Saturday,11-10-2025,540,Sài Gòn - Nha Trang
+885,Phúc An Express,23:00:00,Other,05:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,480000000,480000000,0.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+886,Cúc Tùng,06:00:00,Bến xe,16:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.9,4.0,3.9,3.9,3.7,4.2,3.8,2763,32,388000000,300000000,23.0,Saturday,11-10-2025,605,Sài Gòn - Nha Trang
+887,Quang Hạnh,19:00:00,Other,03:25:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,22,480000000,350000000,27.0,Saturday,11-10-2025,505,Sài Gòn - Nha Trang
+888,Mạnh Hùng,17:40:00,Other,23:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,600000000,600000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+889,Mạnh Hùng,17:00:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+890,Mộc Thảo,20:15:00,Other,06:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1665,24,450000000,450000000,0.0,Saturday,11-10-2025,600,Sài Gòn - Nha Trang
+891,Mạnh Hùng,16:32:00,Bến xe,02:27:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,880000000,880000000,0.0,Saturday,11-10-2025,595,Sài Gòn - Nha Trang
+892,Mạnh Hùng,17:30:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,415,Sài Gòn - Nha Trang
+893,Mạnh Hùng,17:40:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+894,Phúc Yên,17:15:00,Other,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,24,400000000,400000000,0.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+895,Liên Hưng,19:45:00,Other,00:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.3,4.2,4.3,4.1,4.0,3.9,4.2,4.0,12922,21,490000000,380000000,22.0,Saturday,11-10-2025,285,Sài Gòn - Nha Trang
+896,Mạnh Hùng,17:05:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+897,Ngàn Hà,18:31:00,Văn phòng,01:56:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.8,61,24,500000000,400000000,20.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+898,Phúc Yên,16:55:00,Other,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,24,400000000,400000000,0.0,Saturday,11-10-2025,530,Sài Gòn - Nha Trang
+899,Mạnh Hùng,17:50:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,395,Sài Gòn - Nha Trang
+900,Mạnh Hùng,16:50:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+901,Mạnh Hùng,17:45:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,395,Sài Gòn - Nha Trang
+902,Mạnh Hùng,18:55:00,Other,01:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,4,310000000,310000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+903,Mạnh Hùng,17:20:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+904,Mạnh Hùng,17:05:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,440,Sài Gòn - Nha Trang
+905,Mạnh Hùng,18:10:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+906,Mạnh Hùng,17:35:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,405,Sài Gòn - Nha Trang
+907,Mạnh Hùng,17:55:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+908,Mạnh Hùng,17:25:00,Other,23:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,600000000,600000000,0.0,Saturday,11-10-2025,390,Sài Gòn - Nha Trang
+909,Mạnh Hùng,19:15:00,Other,01:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,500000000,500000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+910,Mạnh Hùng,18:50:00,Other,01:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,4,310000000,310000000,0.0,Saturday,11-10-2025,380,Sài Gòn - Nha Trang
+911,Mạnh Hùng,18:20:00,Bến xe,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+912,Mạnh Hùng,17:15:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,425,Sài Gòn - Nha Trang
+913,Mạnh Hùng,18:15:00,Bến xe,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,365,Sài Gòn - Nha Trang
+914,Mạnh Hùng,18:05:00,Other,00:20:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,660000000,660000000,0.0,Saturday,11-10-2025,375,Sài Gòn - Nha Trang
+915,Mạnh Hùng,17:35:00,Other,23:55:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,600000000,600000000,0.0,Saturday,11-10-2025,380,Sài Gòn - Nha Trang
+916,Mạnh Hùng,18:00:00,Other,00:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.1,289,24,1000000000,1000000000,0.0,Saturday,11-10-2025,385,Sài Gòn - Nha Trang
+917,Quang Hạnh,20:15:00,Other,03:45:00,Bến xe,Sài Gòn,Nha Trang - Khánh Hoà,4.1,3.7,3.9,3.9,3.8,3.6,3.6,3.6,362,24,430000000,420000000,2.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+918,Mộc Thảo,19:40:00,Văn phòng,06:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1665,34,320000000,320000000,0.0,Saturday,11-10-2025,625,Sài Gòn - Nha Trang
+919,Mạnh Hùng,17:30:00,Other,02:25:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,4,330000000,330000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+920,Mạnh Hùng,17:31:00,Bến xe,02:26:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,1000000000,1000000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+921,Mạnh Hùng,17:31:00,Other,02:26:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,550000000,550000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+922,Mạnh Hùng,17:32:00,Other,02:27:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,2.8,300,22,880000000,880000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+923,Phúc Yên,17:05:00,Other,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+924,Phúc Yên,16:50:00,Other,01:45:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,741,34,290000000,290000000,0.0,Saturday,11-10-2025,535,Sài Gòn - Nha Trang
+925,Mộc Thảo,19:50:00,Văn phòng,06:15:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.6,1665,24,450000000,450000000,0.0,Saturday,11-10-2025,625,Sài Gòn - Nha Trang
+926,Thuận Phát,17:40:00,Bến xe,23:30:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,5.0,67,24,520000000,520000000,0.0,Saturday,11-10-2025,350,Sài Gòn - Nha Trang
+927,Hoàng Huy,12:00:00,Other,20:40:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,7,44,400000000,400000000,0.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+928,Sao Limousine,18:30:00,Bến xe,03:00:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.1,11,22,420000000,420000000,0.0,Saturday,11-10-2025,510,Sài Gòn - Nha Trang
+929,Hoàng Huy,16:00:00,Other,00:40:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,4.3,7,22,560000000,560000000,0.0,Saturday,11-10-2025,520,Sài Gòn - Nha Trang
+930,Phúc An Express,22:30:00,Văn phòng,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,470000000,470000000,0.0,Saturday,11-10-2025,450,Sài Gòn - Nha Trang
+931,Phúc An Express,22:30:00,Văn phòng,06:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,480000000,480000000,0.0,Saturday,11-10-2025,460,Sài Gòn - Nha Trang
+932,Phúc An Express,22:45:00,Other,06:00:00,Văn phòng,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,470000000,470000000,0.0,Saturday,11-10-2025,435,Sài Gòn - Nha Trang
+933,Phúc An Express,22:45:00,Other,06:10:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.8,4.7,4.7,4.7,4.6,4.6,4.7,4.7,3425,22,480000000,480000000,0.0,Saturday,11-10-2025,445,Sài Gòn - Nha Trang
+934,Quỳnh Nhật,10:00:00,Bến xe,18:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.7,279,24,650000000,650000000,0.0,Saturday,11-10-2025,485,Sài Gòn - Nha Trang
+935,Quỳnh Nhật,09:00:00,Bến xe,18:05:00,Other,Sài Gòn,Nha Trang - Khánh Hoà,4.4927631578947365,4.368640350877193,4.431578947368421,4.356798245614035,4.289254385964912,4.215131578947368,4.448026315789474,3.7,279,24,650000000,650000000,0.0,Saturday,11-10-2025,545,Sài Gòn - Nha Trang

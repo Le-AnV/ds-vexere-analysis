@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Minh Châu Limousine,3.8 (33),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(01/11),04:15,• Văn Phòng Tà Xùa,6h,325.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Mộc Châu Limousine,4.4 (162),Limousine 9 chỗ,19:00,• Ngõ 90 Nguyễn Tuân,,23:00,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Đức Quyến,4.9 (18),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,,23:30,• Khách sạn Hương Sen,4h30m,220.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,06:30,• BigC Thăng Long (cổng Tú Mỡ),,11:15,• Văn Phòng Tà Xùa,4h45m,350.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,21:30,• BigC Thăng Long (cổng Tú Mỡ),(01/11),02:15,• Văn Phòng Tà Xùa,4h45m,350.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Mộc Châu Limousine,4.4 (162),Limousine 13 chỗ,18:30,• Ngõ 90 Nguyễn Tuân,,22:30,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.6,4.4,4.6,4.6,4.8,4.6,4.4
+Đức Quyến,4.9 (18),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,(01/11),02:30,• Cổng UBND tỉnh Sơn La,7h30m,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 22 chỗ,07:00,• BigC Thăng Long (cổng Tú Mỡ),,11:45,• Văn Phòng Tà Xùa,4h45m,350.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(01/11),03:45,• Bến Xe Bắc Yên,5h30m,275.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(01/11),03:15,• Cổng chào Phù Yên,5h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Mộc Châu Limousine,4.4 (162),Limousine 13 chỗ,16:30,• Ngõ 90 Nguyễn Tuân,,20:30,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,06:30,• BigC Thăng Long (cổng Tú Mỡ),,10:30,• Cổng chào Phù Yên,4h,275.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,21:30,• BigC Thăng Long (cổng Tú Mỡ),(01/11),01:30,• Cổng chào Phù Yên,4h,275.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 22 chỗ,07:00,• BigC Thăng Long (cổng Tú Mỡ),,11:00,• Cổng chào Phù Yên,4h,275.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,21:30,• Văn phòng Hà Nội,(01/11),01:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,23:30,• Văn phòng Hà Nội,(01/11),03:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,19:30,• Văn phòng Hà Nội,,23:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,08:30,• Văn phòng Hà Nội,,12:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,06:30,• Văn phòng Hà Nội,,10:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (33),Limousine 9 chỗ,10:30,• Văn phòng Hà Nội,,14:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T6, 31/10/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.8,3.8,5.0
