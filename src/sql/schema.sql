@@ -2,11 +2,6 @@
 -- 		DATABASE: Vexere
 -- ============================
 
--- Xóa các bảng nếu đã tồn tại (để tạo mới hoàn toàn)
-DROP TABLE IF EXISTS trips CASCADE;
-DROP TABLE IF EXISTS routes CASCADE;
-DROP TABLE IF EXISTS cities CASCADE;
-DROP TABLE IF EXISTS bus_companies CASCADE;
 
 -- ============================
 -- 		1. Bảng cities

@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Hoàng Thuỷ,4.7 (3441),Limousine 34 Giường VIP,18:45,• Bến xe Miền Đông - Quầy vé 37,(02/11),05:45,• Bến Xe Đức Long Gia Lai,11h,350.000,300.000đ,-14%,"T7, 01/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Sinh Diên Hồng,4.6 (234),Limousine 34 chỗ,17:30,• Bến xe An Sương,(02/11),04:15,• Bến Xe Đức Long Gia Lai,10h45m,370.000,296.000đ,-20%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.7,4.8,4.8,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1129),Limousine giường nằm 34 chỗ,18:40,• Bến Xe Miền Đông - Quầy vé 19,(02/11),05:40,• Bến Xe Đức Long Gia Lai,11h,350.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Đức Đạt,4.7 (1004),Limousine giường nằm 34 chỗ,20:10,• Bến xe Miền Đông - Quầy vé 17,(02/11),06:35,• Bến Xe Đức Long Gia Lai,10h25m,350.000,300.000đ,-14%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.4,4.5,4.8
+Thuận Tiến,4.7 (4948),Limousine 34 giường,18:50,• Bến Xe Miền Đông - Quầy vé 24,(02/11),07:15,• Bến Xe Đức Long Gia Lai,12h25m,350.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,,,,,,,
+An Phát,4.5 (378),Limousine 34 phòng VIP,16:30,• BX Miền Đông - Cổng 4,(02/11),06:15,• Bến Xe K-Bang,13h45m,400.000,Từ 300.000đ,-25%,"T7, 01/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Phong Phú,4.4 (8632),Limousine 24 phòng đôi,20:00,• Văn phòng Hoàng Văn Thụ.,(02/11),07:45,• VP Gia Lai,11h45m,530.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.5,4.5,4.5,4.5,4.4,4.4,4.7
+Vương Tấn Dũng,4.8 (377),Limousine 34 Phòng,16:45,• VP QL13,(02/11),06:00,• An Khê - Quốc Lộ 19,13h15m,380.000,320.000đ,-16%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Bảy Lang,4.7 (278),Limousine 34 giường,18:30,"• Bến xe miền đông cũ (Dãy số 6, Ô C14)",(02/11),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.8,4.6,4.6,4.7,4.5,4.5,4.6
+Tấn Hưng (Gia Lai),4.4 (102),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(02/11),06:55,• VP An Khê,13h25m,650.000,399.000đ,-39%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.4,4.5,4.5,4.4,3.8
+Hoàng Thuỷ,4.7 (3441),Limousine giường phòng 24 chỗ,19:00,• Bến xe Miền Đông - Quầy vé 37,(02/11),06:00,• Bến Xe Đức Long Gia Lai,11h,550.000,Từ 350.000đ,-36%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.6,4.6,4.6,4.9
+Sinh Diên Hồng,4.6 (234),Limousine 34 chỗ,17:45,• Bến Xe Miền Đông cũ,(02/11),04:45,• Bến Xe Đức Long Gia Lai,11h,380.000,304.000đ,-20%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.7,4.8,4.8,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1129),Limousine 24 Phòng,19:30,• Bến Xe Miền Đông - Quầy vé 19,(02/11),06:30,• Bến Xe Đức Long Gia Lai,11h,450.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+An Phát,4.5 (378),Limosuine 24 Phòng,17:30,• BX Miền Đông - Cổng 4,(02/11),07:15,• Bến Xe K-Bang,13h45m,550.000,Từ 400.000đ,-27%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.3,4.5,4.8
+Đức Đạt,4.7 (1004),Limousine giường nằm 24 chỗ,20:15,• Bến xe Miền Đông - Quầy vé 17,(02/11),06:40,• Bến Xe Đức Long Gia Lai,10h25m,500.000,450.000đ,-10%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.4,4.5,4.8
+Vương Tấn Dũng,4.8 (377),Limousine 24 Phòng,17:00,• VP QL13,(02/11),04:15,• Văn phòng Pleiku,11h15m,500.000,Từ 450.000đ,-10%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Thuận Tiến,4.7 (4948),Limousine 34 giường,18:30,• Bến Xe Miền Đông - Quầy vé 24,(02/11),06:55,• Bến Xe Đức Long Gia Lai,12h25m,350.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Tấn Hưng (Gia Lai),4.4 (102),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(02/11),04:55,• Đắk Đoa,11h25m,650.000,399.000đ,-39%,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.4,4.5,4.5,4.4,3.8
+Sáu Bản,4.4 (485),Limousine giường nằm 34 chỗ,18:45,• Bến Xe Miền Đông - Quầy vé 49,(02/11),05:25,• Bến xe Chư Sê mới,10h40m,350.000,,,"T7, 01/11/2025",Sài Gòn,Gia Lai,4.6,4.4,4.5,4.5,4.3,4.4,4.3
+Việt Tân Phát,4.6 (110),24 Phòng,17:45,• Bến xe Miền Đông,(02/11),06:35,• Bến xe KBang,12h50m,550.000,Từ 350.000đ,-36%,"T7, 01/11/2025",Sài Gòn,Gia Lai,,,,,,,

@@ -1,0 +1,121 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,17:30,"• Bến xe Giáp Bát, Hà Nội",,21:30,"• Nút giao Diễn Cát, Diễn Châu, Nghệ An",4h,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,23:55,• Bến xe Nước Ngầm,(02/11),05:15,• Bến xe Bắc Vinh,5h20m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Nam Quỳnh Anh,4.2 (2043),Limousine giường phòng 32 chỗ,23:50,• Bến xe Nước Ngầm,(02/11),05:55,• Bến Xe Bắc Vinh,6h5m,280.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,14:30,• Văn Phòng Hà Nội,,19:15,• Văn phòng Vinh,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0
+Hiếu Viện,4.4 (143),Giường nằm 36 chỗ,13:30,• Bến xe Nước Ngầm,,18:00,• Đại học Vinh,4h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thơm Phụng,4.6 (18),Limousine 24 phòng,18:30,• Bến xe Nước Ngầm,,22:00,• Văn Phòng Quỳnh Lưu,3h30m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Văn Minh,4.9 (158),Giường nằm 34 chỗ,23:15,• Hà Nội,(02/11),05:20,•  Nghệ An,6h5m,310.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),23:25,• Bến xe Nước Ngầm,(02/11),05:55,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+Bảo Ngọc Limousine,4.3 (19),Limousine giường nằm 32 chỗ,17:00,• Bến xe Nước Ngầm,,22:55,• Bến xe Bắc Vinh,5h55m,220.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,12:00,• 223/42 Thịnh Liệt,,16:00,• Quảng Trường Summer Vinh,4h,350.000,Từ 315.000đ,-10%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.6,4.6,4.5,4.4,4.6
+FUTA HÀ SƠN,4.8 (350),Limousine 24 chỗ,19:30,"• Bến xe Giáp Bát, Hà Nội",,23:30,"• Nút giao Diễn Cát, Diễn Châu, Nghệ An",4h,500.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,23:55,• Bến xe Nước Ngầm,(02/11),06:00,• Bến Xe Bắc Vinh,6h5m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,14:31,• Văn Phòng Hà Nội,,19:16,• Văn phòng Vinh,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,23:15,• Bến xe Nước Ngầm,(02/11),04:35,• Bến xe Bắc Vinh,5h20m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Văn Minh,4.9 (158),Giường nằm 38 chỗ,22:10,• Hà Nội,(02/11),02:55,•  Nghệ An,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Thơm Phụng,4.6 (18),Limousine 24 phòng,10:00,• Bến xe Nước Ngầm,,13:30,• Văn Phòng Quỳnh Lưu,3h30m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),23:26,• Bến xe Nước Ngầm,(02/11),05:56,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Bảo Ngọc Limousine,4.3 (19),Limousine giường nằm 32 chỗ,18:20,• Bến xe Nước Ngầm,(02/11),00:15,• Bến xe Bắc Vinh,5h55m,220.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Hiếu Viện,4.4 (143),Giường nằm 36 chỗ,11:30,• Bến xe Nước Ngầm,,16:00,• Đại học Vinh,4h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.4,4.3,4.4,4.3,4.0,4.2,4.6
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,19:00,• 223/42 Thịnh Liệt,,23:00,• Nội thành TP Vinh,4h,350.000,Từ 297.500đ,-15%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.6,4.6,4.5,4.4,4.6
+Hùng Cúc,3.3 (57),Limousine 34 phòng,18:50,• Bến xe Nước Ngầm,(02/11),00:20,• Bến xe Bắc Vinh,5h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,3.9,3.1,3.3,3.2,3.0,3.0,2.3
+Tâm Đạt,2.9 (22),Limousine 20 phòng,13:15,• Bến xe Nước Ngầm,,19:15,• Bến xe Bắc Vinh (bên ngoài),6h,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thiên Hà Limousine,4.6 (51),Limousine 21 phòng VIP,15:50,• Văn phòng Mỹ Đình (1 Lê Quang Đạo),,23:00,• Cầu Bến Thủy 2,7h10m,450.000,350.000đ,-22%,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Tân Kim Chi,4.4 (3731),Limousine giường phòng 24 chỗ (CABIN),19:20,"• TT 3, Khu đô thị Ao Sào",,22:50,• Trạm Thu Phí Cầu Bến Thuỷ 2,3h30m,700.000,Từ 600.000đ,-14%,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Phú Quý,4.4 (470),Giường nằm 40 chỗ (WC),17:05,• Bến xe Nước Ngầm,,22:35,• Cầu Bến Thủy 2 (Nhà Xe Phú Quý),5h30m,260.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.6,4.2,4.4,4.9
+HM Happycar,4.6 (279),Limousine 24 phòng,20:00,• 1 Tân An Bình (Hà Nội),(02/11),01:00,• Cây xăng Đôi - 150 Nguyễn Trãi (Vinh),5h,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Mận Vũ,3.6 (208),Giường nằm 44 chỗ,21:00,• Bến xe Nước Ngầm,(02/11),02:30,• Vinh (dọc quốc lộ 1A),5h30m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.0,3.7,3.7,3.7,3.6,3.8,4.9
+Bình Hoài Limousine,4 (306),Limousine 24 phòng,19:00,• Văn phòng Hoàng Mai,,23:30,• Nút Giao Cao Tốc Diễn Châu,4h30m,750.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.2,4.1,4.2,4.3,4.1,4.1,4.7
+Hà Sơn (Vinh - Sapa),4.3 (191),Cabin 21 khoang Vip,21:30,• Ngã 3 Kim Anh (Nhà chờ FUTA Hà Sơn),(02/11),03:55,• Văn phòng Vinh,6h25m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.5,4.5,4.3,4.3,5.0
+Quang Nghị,3.9 (715),Limousine giường phòng 24 chỗ,23:30,• 125A Mỹ Đình,(02/11),07:10,• Bến Xe Bắc Vinh,7h40m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.3,4.0,4.1,3.9,4.0,3.8,4.4
+Duy Khánh Limousine,3.9 (666),Cabin đôi 24 phòng,16:45,• VP 16 Hàng Chĩnh,(02/11),00:00,• Khách sạn Sao Việt,7h15m,450.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Camel Travel,3.8 (313),Limousine 22 giường,18:20,• Cầu Đỗ Xá,,23:30,• Cầu Bến Thủy 1,5h10m,600.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Dương Vũ,3.7 (314),Giường nằm 43 chỗ,15:00,• 98 Chùa Thông,,22:00,• TP Vinh (Dọc QL1A),7h,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.2,4.1,4.2,3.8,3.6,3.6,4.2
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,23:30,• Bến xe Nước Ngầm,(02/11),05:35,• Bến Xe Bắc Vinh,6h5m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,12:40,• Bx Nước Ngầm,,17:10,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,23:50,• Bx Nước Ngầm,(02/11),04:20,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Nam Quỳnh Anh,4.2 (2043),Limousine 24 phòng VIP,22:30,• Bến xe Nước Ngầm,(02/11),05:00,• Bến Xe Bắc Vinh,6h30m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,10:30,• Bx Nước Ngầm,,15:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 32 giường VIP (WC),13:30,• Bến xe Nước Ngầm,,19:30,• Bến Xe Bắc Vinh,6h,280.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,11:30,• Văn Phòng Hà Nội,,16:15,• Văn phòng Vinh,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,17:30,• Bx Nước Ngầm,,22:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,14:30,• Bx Nước Ngầm,,19:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,08:30,• Bx Nước Ngầm,,13:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,16:50,• Bến xe Nước Ngầm,,22:55,• Bến Xe Bắc Vinh,6h5m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,15:20,• Bến xe Nước Ngầm,,21:25,• Bến Xe Bắc Vinh,6h5m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 32 giường VIP (WC),12:30,• Bến xe Sơn Tây,,19:30,• Bến Xe Bắc Vinh,7h,320.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,07:45,• Văn Phòng Hà Nội,,12:30,• Văn phòng Vinh,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0
+Văn Minh,4.9 (158),Limousine 21 phòng,22:30,• Hà Nội,(02/11),02:30,•  Nghệ An,4h,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Thơm Phụng,4.6 (18),Limousine 34 phòng,12:00,• Bến xe Nước Ngầm,,15:30,• Văn Phòng Quỳnh Lưu,3h30m,150.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Văn Minh,4.9 (158),Limousine 21 phòng,23:13,• Hà Nội,(02/11),04:33,•  Nghệ An,5h20m,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Văn Minh,4.9 (158),Giường nằm 38 chỗ,23:12,• Hà Nội,(02/11),03:57,•  Nghệ An,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Thơm Phụng,4.6 (18),Limousine 24 phòng,13:30,• Bến xe Nước Ngầm,,17:00,• Văn Phòng Quỳnh Lưu,3h30m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Thơm Phụng,4.6 (18),Limousine 24 phòng,16:30,• Bến xe Nước Ngầm,,20:00,• Văn Phòng Quỳnh Lưu,3h30m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,23:55,• Bến xe Nước Ngầm,(02/11),05:25,• Đền Ông Hoàng Mười,5h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,18:30,• Văn Phòng Hà Nội,,23:15,• Văn phòng Vinh,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),14:30,• Bến xe Nước Ngầm,,21:00,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),13:10,• Bến xe Nước Ngầm,,19:40,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),22:26,• Bến xe Nước Ngầm,(02/11),04:56,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,23:15,• Bến xe Nước Ngầm,(02/11),04:45,• Đền Ông Hoàng Mười,5h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Hùng Cúc,3.3 (57),Limousine 34 phòng,13:30,• Bến xe Nước Ngầm,,19:00,• Bến xe Bắc Vinh,5h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,3.9,3.1,3.3,3.2,3.0,3.0,2.3
+Tâm Đạt,2.9 (22),Giường nằm 40 chỗ,20:30,• Bến xe Nước Ngầm,(02/11),02:30,• Bến xe Bắc Vinh (bên ngoài),6h,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.1,3.2,4.1,3.9,3.7,3.2,4.5
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,07:45,• Văn Phòng Hà Nội,,11:55,• Ngã Ba Diễn Châu,4h10m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,15:00,• Sân bay Nội Bài,,21:00,• Quảng Trường Summer Vinh,6h,500.000,425.000đ,-15%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.6,4.6,4.5,4.4,4.6
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,09:00,• 223/42 Thịnh Liệt,,13:00,• Nội thành TP Vinh,4h,350.000,Từ 315.000đ,-10%,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,12:00,• 223/42 Thịnh Liệt,,16:00,• Nội thành TP Vinh,4h,350.000,Từ 315.000đ,-10%,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,22:10,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(02/11),05:25,• Đền Ông Hoàng Mười,7h15m,250.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Tâm Đạt,2.9 (22),Limousine 20 phòng,13:15,• Bến xe Nước Ngầm,,18:15,• Ngã 3 Diễn Châu,5h,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.1,3.2,4.1,3.9,3.7,3.2,4.5
+Tâm Đạt,2.9 (22),Giường nằm 40 chỗ,20:30,• Bến xe Nước Ngầm,(02/11),02:50,• Ngã 3 Quán Hành,6h20m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Tân Kim Chi,4.4 (3731),Limousine giường phòng 24 chỗ (CABIN),19:10,"• TT 3, Khu đô thị Ao Sào",,23:00,• Trạm Thu Phí Cầu Bến Thuỷ 2,3h50m,700.000,Từ 600.000đ,-14%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.4,4.5,4.4,4.6
+Thiên Hà Limousine,4.6 (51),Limousine 19 phòng VIP,22:30,• Bến xe Nước Ngầm,(02/11),04:30,• Cầu Bến Thủy 2,6h,450.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.6,4.5,4.5,4.6
+Thiên Hà Limousine,4.6 (51),Limousine 21 phòng VIP,12:20,• Văn phòng Mỹ Đình (1 Lê Quang Đạo),,19:30,• Cầu Bến Thủy 2,7h10m,450.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.6,4.5,4.5,4.6
+Thiên Hà Limousine,4.6 (51),Limousine 21 phòng VIP,17:00,• Bến xe Nước Ngầm,,23:00,• Cầu Bến Thủy 2,6h,450.000,350.000đ,-22%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.6,4.5,4.5,4.6
+Phú Quý,4.4 (470),Giường nằm 36 chỗ (WC),15:45,• Bến xe Nước Ngầm,,21:15,• Cầu Bến Thủy 2 (Nhà Xe Phú Quý),5h30m,260.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.6,4.2,4.4,4.9
+Phú Quý,4.4 (470),Limousine giường phòng 32 chỗ (WC),22:30,• Bến xe Nước Ngầm,(02/11),04:00,• Cầu Bến Thủy 2 (Nhà Xe Phú Quý),5h30m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Bình Hoài Limousine,4 (306),Limousine 24 phòng,20:00,• Văn phòng Hoàng Mai,(02/11),00:30,• Nút Giao Cao Tốc Diễn Châu,4h30m,750.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Phú Quý,4.4 (470),Limousine giường phòng 22 phòng (WC) (new),22:40,• Bến xe Nước Ngầm,(02/11),04:10,• Cầu Bến Thủy 2 (Nhà Xe Phú Quý),5h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.6,4.2,4.4,4.9
+Tân Kim Chi,4.4 (3731),Limousine giường phòng 24 chỗ (CABIN),17:10,• 40 Phạm Hùng,,22:50,• Trạm Thu Phí Cầu Bến Thuỷ 2,5h40m,700.000,Từ 600.000đ,-14%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.4,4.5,4.4,4.6
+Tân Kim Chi,4.4 (3731),Limousine giường nằm 36 chỗ,16:15,• Bến xe Yên Nghĩa,,22:30,• Trạm Thu Phí Cầu Bến Thuỷ 2,6h15m,480.000,430.000đ,-10%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.4,4.5,4.4,4.5,4.4,4.6
+Mận Vũ,3.6 (208),Limousine VIP 20 phòng (mới),08:40,• Bến xe Nước Ngầm,,14:10,• Vinh (dọc quốc lộ 1A),5h30m,500.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.0,3.7,3.7,3.7,3.6,3.8,4.9
+Mận Vũ,3.6 (208),Limousine VIP 20 phòng (mới),12:30,• Bến xe Nước Ngầm,,18:00,• Vinh (dọc quốc lộ 1A),5h30m,500.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,19:30,• Bx Nước Ngầm,(02/11),00:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,22:20,• Bx Nước Ngầm,(02/11),02:50,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,09:20,• Bến xe Nước Ngầm,,15:35,• Bến Xe Bắc Vinh,6h15m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 20 phòng VIP,12:05,• Bến xe Nước Ngầm,,18:10,• Bến Xe Bắc Vinh,6h5m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+FUTA HÀ SƠN,4.8 (350),Limousine 24 chỗ,07:30,• Bx Nước Ngầm,,12:00,•  Bx Bắc Vinh,4h30m,390.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 24 chỗ,23:40,• Bx Nước Ngầm,(02/11),04:10,•  Bx Bắc Vinh,4h30m,390.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Nam Quỳnh Anh,4.2 (2043),Limousine giường phòng 34 chỗ,19:15,• Bến xe Nước Ngầm,(02/11),01:15,• Bến Xe Bắc Vinh,6h,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Nam Quỳnh Anh,4.2 (2043),Limousine 24 phòng VIP,19:45,• Bến xe Sơn Tây,(02/11),05:00,• Bến Xe Bắc Vinh,9h15m,370.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+FUTA HÀ SƠN,4.8 (350),Limousine 24 chỗ,14:20,• Bx Nước Ngầm,,18:50,•  Bx Bắc Vinh,4h30m,390.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine giường phòng 34 chỗ,16:30,• Bến xe Sơn Tây,(02/11),01:15,• Bến Xe Bắc Vinh,8h45m,320.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine giường phòng 34 chỗ,14:20,• Bến xe Nước Ngầm,,20:25,• Bến Xe Bắc Vinh,6h5m,280.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,21:30,• Bến xe Sơn Tây,(02/11),06:30,• Bến Xe Bắc Vinh,9h,370.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Văn Minh,4.9 (158),Limousine 21 phòng,22:00,• Hà Nội,(02/11),02:45,•  Nghệ An,4h45m,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Thơm Phụng,4.6 (18),Limousine 24 phòng,08:20,• Bến xe Nước Ngầm,,11:50,• Văn Phòng Quỳnh Lưu,3h30m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.6,4.8,4.8,4.6,4.5,5.0
+Văn Minh,4.9 (158),Limousine 21 phòng,21:11,• Hà Nội,(02/11),01:56,•  Nghệ An,4h45m,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Văn Minh,4.9 (158),Giường nằm 32 chỗ,23:10,• Hà Nội,(02/11),04:20,•  Nghệ An,5h10m,320.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),22:25,• Bến xe Nước Ngầm,(02/11),04:55,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),11:45,• Bến xe Nước Ngầm,,18:15,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),15:45,• Bến xe Nước Ngầm,,22:15,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+Văn Minh,4.9 (158),Giường nằm 38 chỗ,22:15,• Hà Nội,(02/11),03:00,•  Nghệ An,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),08:30,• Bến xe Nước Ngầm,,15:00,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),18:20,• Bến xe Nước Ngầm,(02/11),00:50,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),16:50,• Bến xe Nước Ngầm,,23:20,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+Văn Minh,4.9 (158),Giường nằm 32 chỗ,22:11,• Hà Nội,(02/11),03:31,•  Nghệ An,5h20m,320.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Sao Nghệ Limousine,4.6 (1241),Limousine 22 Giường VIP (Có WC),10:01,• Bến xe Nước Ngầm,,16:31,• Bến xe phía Đông Thành Phố Vinh,6h30m,400.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.6,4.6,4.5,4.5,4.5,4.6
+FUTA HÀ SƠN,4.8 (350),Limousine 34 chỗ,06:30,• Bx Nước Ngầm,,11:00,•  Bx Bắc Vinh,4h30m,290.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.8,4.8,4.8,4.8,4.8,4.8
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,06:30,• Bến xe Sơn Tây,,15:35,• Bến Xe Bắc Vinh,9h5m,370.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Văn Minh,4.9 (158),Giường nằm 38 chỗ,23:16,• Hà Nội,(02/11),04:36,•  Nghệ An,5h20m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Văn Minh,4.9 (158),Giường nằm 38 chỗ,21:10,• Hà Nội,(02/11),01:55,•  Nghệ An,4h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Văn Minh,4.9 (158),Giường nằm 34 chỗ,23:14,• Hà Nội,(02/11),03:59,•  Nghệ An,4h45m,310.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Văn Minh,4.9 (158),Limousine 21 phòng,22:05,• Hà Nội,(02/11),04:10,•  Nghệ An,6h5m,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Văn Minh,4.9 (158),Limousine 21 phòng,22:12,• Hà Nội,(02/11),02:57,•  Nghệ An,4h45m,410.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.9,4.9,4.9,5.0,4.9,4.8,4.9
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,09:00,• 223/42 Thịnh Liệt,,13:00,• Quảng Trường Summer Vinh,4h,350.000,Từ 315.000đ,-10%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.6,4.6,4.5,4.4,4.6
+Nam Quỳnh Anh,4.2 (2043),Limousine 22 phòng VIP,23:00,• Thăng Long Number One,(02/11),06:30,• Bến Xe Bắc Vinh,7h30m,350.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Anh Quốc Limousine (Hà Tĩnh),4.5 (141),Limousine 11 chỗ,17:00,• 223/42 Thịnh Liệt,,21:00,• Quảng Trường Summer Vinh,4h,350.000,Từ 297.500đ,-15%,"T7, 01/11/2025",Hà Nội,Nghệ An,4.6,4.4,4.6,4.6,4.5,4.4,4.6
+Nam Quỳnh Anh,4.2 (2043),Limousine giường phòng 34 chỗ,18:00,• Thăng Long Number One,(02/11),01:15,• Bến Xe Bắc Vinh,7h15m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,,,,,,,
+Thăng Long,4.6 (445),Giường nằm 40 chỗ,21:30,• Ngã tư Cổ Nhuế - Phạm Văn Đồng,(02/11),04:35,• Bến xe Bắc Vinh,7h5m,200.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.7,4.8,4.7,4.4,4.5,4.6
+Nam Quỳnh Anh,4.2 (2043),Limousine 24 phòng VIP,20:35,• Thị Trấn Trạm Trôi,(02/11),05:00,• Bến Xe Bắc Vinh,8h25m,370.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.5,4.3,4.4,4.2,4.2,4.2,4.8
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,18:30,• Văn Phòng Hà Nội,,22:40,• Ngã Ba Diễn Châu,4h10m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0
+Hồng Vinh Limousine,4.8 (194),Limousine 9 chỗ,18:30,• Văn Phòng Hà Nội,,21:40,• Hoàng Mai,3h10m,300.000,,,"T7, 01/11/2025",Hà Nội,Nghệ An,4.8,4.9,4.9,4.8,4.8,4.8,5.0

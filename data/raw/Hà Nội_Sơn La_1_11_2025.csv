@@ -1,0 +1,38 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Minh Châu Limousine,3.8 (34),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(02/11),04:15,• Văn Phòng Tà Xùa,6h,325.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Đức Quyến,4.9 (18),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,,23:30,• Khách sạn Hương Sen,4h30m,220.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,
+Mộc Châu Limousine,4.4 (162),Limousine 9 chỗ,07:00,• Ngõ 90 Nguyễn Tuân,,11:00,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.6,4.4,4.6,4.6,4.8,4.6,4.4
+Minh Châu Limousine,3.8 (34),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(02/11),03:45,• Bến Xe Bắc Yên,5h30m,275.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Mộc Châu Limousine,4.4 (162),Limousine 9 chỗ,13:00,• Ngõ 90 Nguyễn Tuân,,17:00,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.6,4.4,4.6,4.6,4.8,4.6,4.4
+Đức Quyến,4.9 (18),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,(02/11),02:30,• Cổng UBND tỉnh Sơn La,7h30m,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Mộc Châu Limousine,4.4 (162),Limousine 9 chỗ,14:00,• Ngõ 90 Nguyễn Tuân,,18:00,• Khách sạn Mường Thanh Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (34),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(02/11),03:15,• Cổng chào Phù Yên,5h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,06:35,• BigC Thăng Long (cổng Tú Mỡ),,11:20,• Văn Phòng Tà Xùa,4h45m,350.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,06:35,• BigC Thăng Long (cổng Tú Mỡ),,10:35,• Cổng chào Phù Yên,4h,275.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,21:30,• Văn phòng Hà Nội,(02/11),01:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,23:30,• Văn phòng Hà Nội,(02/11),03:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,19:30,• Văn phòng Hà Nội,,23:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,08:30,• Văn phòng Hà Nội,,12:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Minh Châu Limousine,3.8 (34),Limousine 9 chỗ,10:30,• Văn phòng Hà Nội,,14:30,• Văn Phòng Mộc Châu,4h,250.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.5,3.9,3.9,4.3,3.8,3.8,4.5
+Vĩnh Anh (Mộc Châu),2.3 (3),Expander 7 chỗ,08:00,• Highland Coffee - Big C Thăng Long,,12:00,• Khách sạn Mường Thanh Mộc Châu,4h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,2.3,2.3,,3.0,1.7,2.3,
+Vĩnh Anh (Mộc Châu),2.3 (3),Expander 7 chỗ,14:00,• Highland Coffee - Big C Thăng Long,,18:00,• Khách sạn Mường Thanh Mộc Châu,4h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,2.3,2.3,,3.0,1.7,2.3,
+Bắc Sơn,2.2 (23),Giường nằm 40 chỗ,23:00,• Bến xe Mỹ Đình,(02/11),04:30,• Bến xe Sơn La,5h30m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Quang Tuấn (Điện Biên),3.3 (21),Limousine giường nằm 34 chỗ,19:15,• Cổng bến xe Yên Nghĩa,,23:00,• Khách sạn Hương Sen,3h45m,300.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,4.2,3.6,3.6,4.0,3.9,3.7,
+Quang Tuấn (Điện Biên),3.3 (21),Limousine giường nằm 34 chỗ,19:15,• Cổng bến xe Yên Nghĩa,(02/11),02:30,• Bến xe Sơn La,7h15m,300.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,14:30,• Khách sạn Hương Sen,5h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,15:30,• Khách sạn Hương Sen,5h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,5.0,5.0,,4.5,4.5,4.5,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,17:10,• Thế giới di động Mai Sơn,6h40m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:45,• Trung tâm Hội nghị Quốc gia (Cổng số 6),(02/11),05:15,• Bệnh viện Quân y 6,7h30m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:45,• Trung tâm Hội nghị Quốc gia (Cổng số 6),(02/11),06:00,• Bến xe Mường La,8h15m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:45,• Trung tâm Hội nghị Quốc gia (Cổng số 6),(02/11),02:15,• Khách sạn Hương Sen,4h30m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Khánh Thu,0 (0),Ghế ngồi 28 chỗ,07:30,• VP xe Khánh Thu,,07:30,• Bến xe Sơn La,0h,160.000,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,17:45,• Cổng bệnh viện quân y 6,7h15m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,5.0,5.0,,4.5,4.5,4.5,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,18:15,• Bến xe Hồng Tiên,7h45m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,5.0,5.0,,4.5,4.5,4.5,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,16:45,• Cổng bệnh viện quân y 6,7h15m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:20,• Cổng bến xe Yên Nghĩa,(02/11),04:30,• Bệnh viện Quân y 6,7h10m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:20,• Cổng bến xe Yên Nghĩa,(02/11),01:30,• Khách sạn Hương Sen,4h10m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Thủy Khởi,0 (0),Giường nằm 40 chỗ,21:20,• Cổng bến xe Yên Nghĩa,(02/11),05:15,• Bến xe Mường La,7h55m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,17:15,• Bến xe Hồng Tiên,7h45m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,5.0,5.0,,4.5,4.5,4.5,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,15:30,• Bưu điện huyện Yên Châu,6h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,16:30,• Bưu điện huyện Yên Châu,6h,,,,"T7, 01/11/2025",Hà Nội,Sơn La,5.0,5.0,,4.5,4.5,4.5,
+Sơn La Express (Lộc An - Vinh Anh),4.5 (2),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,16:10,• Thế giới di động Mai Sơn,6h40m,,,,"T7, 01/11/2025",Hà Nội,Sơn La,,,,,,,
