@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Bằng Phấn,4.6 (1709),Limousine 13 chỗ,07:00,• 156 Trần Quang Khải,,13:30,• Bến Xe Hà Giang,6h30m,300.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Quang Tuyến (Hà Giang),4.1 (257),Limousine giường phòng 24 chỗ,23:00,• 55 Nguyễn Hoàng,(06/11),05:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.4,4.1,4.2,4.1,4.1,4.0,4.3
+Mạnh Quân,4.5 (594),Cabin cung điện 24 phòng,14:30,• Bến xe Mỹ Đình (Ô đón khách số 46),,21:00,• Văn Phòng 75 Cầu Mè (Gần Bến Xe Hà Giang đối diện khách sạn Hoa Cương),6h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.6,4.4,4.5,4.4,4.3,4.2,4.8
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,11:00,• Bến xe Gia Lâm,,18:30,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,
+Bus Vip Limousine Ha Giang,4.8 (10),Limousine 9 chỗ,07:00,• Số 11 Hàng Rươi,,13:00,"• Số 5 Đại Lộ Hữu Nghị, Hà Giang",6h,Từ 320.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,
+Cầu Mè,4.3 (147),Giường nằm 41 chỗ,09:30,• Bến xe Mỹ Đình,,16:30,• Cầu Mè Hotel,7h,250.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,
+Đăng Quang (Hà Giang),5 (13),Limousine 24 chỗ,23:00,• 102 Trần Vỹ,(06/11),05:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 05/11/2025",Hà Nội,Hà Giang,4.8,4.7,4.7,4.7,4.7,4.8,4.7
+Quang Nghị,3.9 (715),Giường nằm 46 chỗ,22:30,• Văn Phòng Mỹ Đình,(06/11),05:00,• Bến xe Hà Giang,6h30m,250.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,3.9,4.0,3.8,4.5
+Hà Tuấn,4 (65),Limousine giường phòng 24 chỗ,12:30,• Văn phòng Hà Nội,,19:00,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,
+Đông Bắc Travel,4.9 (38),Xe Limousine 16 chỗ,16:00,• Văn phòng Hà Nội,,22:00,• 165 đường Lý Tự Trọng,6h,300.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,4.9
+Bằng Phấn,4.6 (1709),Khách sạn di động 34 phòng đơn,21:00,• Bến Xe Gia Lâm,(06/11),04:45,• Bến Xe Hà Giang,7h45m,300.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Mạnh Quân,4.5 (594),Cabin cung điện 24 phòng,21:30,• Bến xe Mỹ Đình (ô đón khách số 20),(06/11),03:30,• Văn Phòng 75 Cầu Mè (Gần Bến Xe Hà Giang đối diện khách sạn Hoa Cương),6h,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.6,4.4,4.5,4.4,4.3,4.2,4.8
+Quang Tuyến (Hà Giang),4.1 (257),Limousine giường phòng 24 chỗ,22:00,• Bến xe Mỹ Đình (ô 46),(06/11),04:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,20:30,• Bến xe Gia Lâm,(06/11),04:00,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Cầu Mè,4.3 (147),Giường nằm 41 chỗ,07:30,• Bến xe Mỹ Đình,,14:30,• Cầu Mè Hotel,7h,250.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.5,4.2,4.3,4.4,3.8,4.2,4.0
+Quang Nghị,3.9 (715),Limousine giường phòng 24 chỗ,10:00,• Bến xe Mỹ Đình (Ô số 46),,16:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,3.9,4.0,3.8,4.5
+Đăng Quang (Hà Giang),5 (13),Limousine 24 chỗ,17:00,• 102 Trần Vỹ,,23:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 05/11/2025",Hà Nội,Hà Giang,4.8,4.7,4.7,4.7,4.7,4.8,4.7
+Hà Tuấn,4 (65),Giường nằm 20 chỗ,20:30,• Bến Xe Mỹ Đình,(06/11),03:30,• Bến xe Xín Mần,7h,350.000đ,,,"T4, 05/11/2025",Hà Nội,Hà Giang,3.8,3.6,3.6,3.9,3.5,3.5,5.0
+Đông Bắc Travel,4.9 (38),Xe Limousine 11 chỗ,07:00,• Văn phòng Hà Nội,,13:00,• 165 đường Lý Tự Trọng,6h,350.000đ,300.000đ,-14%,"T4, 05/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,4.9
+Mạnh Hà (Hà Giang),4.5 (34),Giường nằm 44 chỗ,13:50,• Hyundai Long Biên,,19:10,• Bến xe Hà Giang,5h20m,220.000đ,200.000đ,-9%,"T4, 05/11/2025",Hà Nội,Hà Giang,,,,,,,

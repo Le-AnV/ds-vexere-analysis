@@ -1,0 +1,21 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Hoàng Thuỷ,4.7 (3454),Limousine 34 Giường VIP,18:45,• Bến xe Miền Đông - Quầy vé 37,(06/11),05:45,• Bến Xe Đức Long Gia Lai,11h,350.000đ,300.000đ,-14%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.6,4.6,4.6,4.9
+Sinh Diên Hồng,4.6 (236),Limousine 34 chỗ,17:30,• Bến xe An Sương,(06/11),04:15,• Bến Xe Đức Long Gia Lai,10h45m,370.000đ,296.000đ,-20%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.8,4.6,4.6,4.9
+Đức Đạt,4.7 (1016),Limousine giường nằm 34 chỗ,20:10,• Bến xe Miền Đông - Quầy vé 17,(06/11),06:35,• Bến Xe Đức Long Gia Lai,10h25m,350.000đ,300.000đ,-14%,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Kính Diên Hồng,4.6 (1132),Limousine giường nằm 34 chỗ,18:40,• Bến Xe Miền Đông - Quầy vé 19,(06/11),05:40,• Bến Xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Vương Tấn Dũng,4.8 (382),Limousine 34 Phòng,16:45,• VP QL13,(06/11),06:00,• An Khê - Quốc Lộ 19,13h15m,380.000đ,320.000đ,-16%,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Thuận Tiến,4.7 (4950),Limousine 34 giường,18:50,• Bến xe Miền Đông - Quầy vé 24,(06/11),07:15,• Bến Xe Đức Long Gia Lai,12h25m,350.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Bảy Lang,4.7 (278),Limousine 34 giường,18:30,"• Bến xe miền đông cũ (Dãy số 6, Ô C14)",(06/11),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Phong Phú,4.5 (8653),Limousine 24 phòng đôi,20:00,• Văn phòng Hoàng Văn Thụ.,(06/11),07:45,• VP Gia Lai,11h45m,Từ 530.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+An Phát,4.5 (379),Limousine 34 phòng VIP,16:30,• BX Miền Đông - Cổng 4,(06/11),06:15,• Bến Xe K-Bang,13h45m,400.000đ,Từ 300.000đ,-25%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.3,4.5,4.8
+Sáu Bản,4.4 (485),Giường nằm 44 chỗ,17:00,• Bến xe An Sương,(06/11),04:10,• PleiMe,11h10m,300.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Hoàng Thuỷ,4.7 (3454),Limousine giường phòng 24 chỗ,19:00,• Bến xe Miền Đông - Quầy vé 37,(06/11),06:00,• Bến Xe Đức Long Gia Lai,11h,550.000đ,Từ 350.000đ,-36%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.6,4.6,4.6,4.9
+Sinh Diên Hồng,4.6 (236),Limousine 34 chỗ,17:45,• Bến Xe Miền Đông cũ,(06/11),04:45,• Bến Xe Đức Long Gia Lai,11h,380.000đ,304.000đ,-20%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.8,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1132),Limousine giường nằm 34 chỗ,17:15,• Bến xe An Sương,(06/11),05:45,• Bến xe Đắk Đoa,12h30m,350.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Vương Tấn Dũng,4.8 (382),Limousine 34 Phòng,16:45,• VP QL13,(06/11),06:25,• Bến xe khách Kbang,13h40m,380.000đ,320.000đ,-16%,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Đức Đạt,4.7 (1016),Limousine giường nằm 24 chỗ,20:15,• Bến xe Miền Đông - Quầy vé 17,(06/11),06:40,• Bến Xe Đức Long Gia Lai,10h25m,500.000đ,450.000đ,-10%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+Thuận Tiến,4.7 (4950),Limousine 34 giường,18:30,• Bến xe Miền Đông - Quầy vé 24,(06/11),06:55,• Bến Xe Đức Long Gia Lai,12h25m,350.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Việt Tân Phát,4.6 (115),34 Phòng,17:30,• Bến xe Miền Đông,(06/11),04:05,• Bến Xe Phú Thiện,10h35m,370.000đ,300.000đ,-19%,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Việt Tân Phát,4.6 (115),34 Phòng,17:45,• Bến xe Miền Đông,(06/11),04:55,• Bến xe Đắk Đoa,11h10m,370.000đ,300.000đ,-19%,"T4, 05/11/2025",Sài Gòn,Gia Lai,,,,,,,
+Sáu Bản,4.4 (485),Giường nằm 44 chỗ,17:00,• Bến xe An Sương,(06/11),03:00,• Phú Nhơn QL14,10h,280.000đ,,,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.6,4.4,4.5,4.5,4.3,4.4,4.3
+Gia Phú - Gia Lai,4.4 (107),Limousine 22 phòng đơn,19:10,• Bến xe Miền Đông - Quầy vé 36,(06/11),06:10,• Bến Xe Đức Long Gia Lai,11h,550.000đ,500.000đ,-9%,"T4, 05/11/2025",Sài Gòn,Gia Lai,4.4,4.3,4.3,4.4,4.3,4.2,5.0
