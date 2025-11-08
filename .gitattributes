@@ -1,1 +1,5 @@
-*.ipynb linguist-language=Python
+# .gitattributes
+*.py linguist-language=Python
+*.ipynb linguist-language=Jupyter\ Notebook
+*.ipynb linguist-detectable=true
+data/* linguist-vendored
