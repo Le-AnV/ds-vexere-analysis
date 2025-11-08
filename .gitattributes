@@ -2,7 +2,7 @@
 # Force correct language detection
 # =====================
 
-# Python scripts
+# Python code
 *.py linguist-language=Python
 *.py linguist-detectable=true
 
@@ -10,6 +10,9 @@
 *.ipynb linguist-language=Jupyter\ Notebook
 *.ipynb linguist-detectable=true
 
-# Ignore data files from language stats
-data/* linguist-vendored
-datasets/* linguist-vendored
+# Hide non-core languages
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.xml linguist-detectable=false
+*.java linguist-detectable=false
