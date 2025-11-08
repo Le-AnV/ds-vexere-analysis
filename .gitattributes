@@ -1,5 +1,15 @@
-# .gitattributes
+# =====================
+# Force correct language detection
+# =====================
+
+# Python scripts
 *.py linguist-language=Python
+*.py linguist-detectable=true
+
+# Jupyter notebooks
 *.ipynb linguist-language=Jupyter\ Notebook
 *.ipynb linguist-detectable=true
+
+# Ignore data files from language stats
 data/* linguist-vendored
+datasets/* linguist-vendored
