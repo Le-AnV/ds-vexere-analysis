@@ -18,7 +18,16 @@ def extract_overall_and_num_reviews(df: pd.DataFrame, col: str) -> pd.DataFrame:
     split_cols = df[col].str.split(" ", expand=True)
     df["rating_overall"] = pd.to_numeric(split_cols[0], errors="coerce")
 
-    df["reviewer_count"] = split_cols[1].replace(r"[()]", "", regex=True).astype(int)
+    df["reviewer_count"] = (
+        split_cols[1].replace(r"[()]", "", regex=True).astype("Int64")
+    )
+    return df
+
+
+def fill_na_rating_cols(df: pd.DataFrame, cols: list[str]) -> pd.DataFrame:
+    for rate_tile in cols:
+        df[rate_tile].fillna(df[rate_tile].median(), inplace=True)
+
     return df
 
 
@@ -30,7 +39,7 @@ def rename_rating_title(df: pd.DataFrame) -> pd.DataFrame:
         "Thông tin đầy đủ": "rating_info_completeness",
         "Thái độ nhân viên": "rating_staff_attitude",
         "Tiện nghi & thoải mái": "rating_comfort",
-        "Chất lượng dịch vụ": "rating_service_quanlity",
+        "Chất lượng dịch vụ": "rating_service_quality",
         "Đúng giờ": "rating_punctuality",
     }
 

@@ -32,7 +32,8 @@ def process_row(row):
     trip_data = {
         k: getattr(row, k)
         for k in [
-            "number_of_seat" "departure_date",
+            "number_of_seat",
+            "departure_date",
             "departure_time",
             "duration_minutes",
             "pickup_point",

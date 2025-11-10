@@ -19,7 +19,7 @@ def normalize_fare_values(df: pd.DataFrame, cols: list[str]) -> pd.DataFrame:
 
     price = df[cols].replace(r"[^0-9]", "", regex=True)
     # fillna = 0 và ép kiểu sang int
-    price = price.apply(pd.to_numeric, errors="coerce").fillna(0).astype(int)
+    price = price.apply(pd.to_numeric, errors="coerce").fillna(0).astype("Int64")
 
     df["price_original"] = price.iloc[:, 0]
     df["price_discounted"] = price.iloc[:, 1]
@@ -91,5 +91,5 @@ def convert_duration_to_minutes(df: pd.DataFrame, col: str) -> pd.DataFrame:
     mins = df[col].str.extract(r"(\d+)m")[0].astype("Int64").fillna(0)
 
     # Tính tổng số phút
-    df["duration_m"] = hours * 60 + mins
+    df["duration_minutes"] = hours * 60 + mins
     return df

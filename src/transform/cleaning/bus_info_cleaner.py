@@ -20,7 +20,7 @@ def extract_number_of_seats(df: pd.DataFrame, col: str) -> pd.DataFrame:
         r"[^0-9]", "", regex=True
     )  # Chỉ giữ lại các chữ số
     df["number_of_seat"] = pd.to_numeric(df["number_of_seat"], errors="coerce").astype(
-        int
+        "Int64"
     )
 
     return df

@@ -1,0 +1,583 @@
+company_name,bus_rating,seat_type,departure_time,pickup_point,arrival_date,arrival_time,dropoff_point,duration,price_original,price_discounted,percent_discount,departure_date,start_point,destination,An toàn,Thông tin chính xác,Thông tin đầy đủ,Thái độ nhân viên,Tiện nghi & thoải mái,Chất lượng dịch vụ,Đúng giờ
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:45,• Bến xe Miền Đông - Quầy vé 37,(13/11),05:45,• Bến Xe Đức Long Gia Lai,11h,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Sinh Diên Hồng,4.6 (237),Limousine 34 chỗ,17:30,• Bến xe An Sương,(13/11),04:15,• Bến Xe Đức Long Gia Lai,10h45m,370.000đ,296.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.8,4.6,4.6,4.9
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,20:00,• Văn phòng Hoàng Văn Thụ.,(13/11),07:45,• VP Gia Lai,11h45m,530.000đ,Từ 399.000đ,-25%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Kính Diên Hồng,4.6 (1135),Limousine giường nằm 34 chỗ,18:40,• Bến Xe Miền Đông - Quầy vé 19,(13/11),05:40,• Bến Xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Đức Đạt,4.7 (1027),Limousine giường nằm 34 chỗ,20:10,• Bến xe Miền Đông - Quầy vé 17,(13/11),06:35,• Bến Xe Đức Long Gia Lai,10h25m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+Vương Tấn Dũng,4.8 (386),Limousine 34 Phòng,16:45,• VP QL13,(13/11),06:00,• An Khê - Quốc Lộ 19,13h15m,380.000đ,320.000đ,-16%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Thuận Tiến,4.7 (4957),Limousine 34 giường,18:50,• Bến xe Miền Đông - Quầy vé 24,(13/11),07:15,• Bến Xe Đức Long Gia Lai,12h25m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Bảy Lang,4.7 (279),Limousine 34 giường,18:30,"• Bến xe Miền Đông cũ (dãy số 6, ô C14)",(13/11),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.6,4.6,4.7,4.5,4.6,4.6
+Tấn Hưng (Gia Lai),4.4 (104),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(13/11),06:55,• VP An Khê,13h25m,650.000đ,399.000đ,-39%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.5,4.5,4.5,4.4,4.0
+Gia Phú - Gia Lai,4.4 (108),Limousine 22 phòng đơn,18:45,• Bến xe Miền Đông - Quầy vé 36,(13/11),05:45,• Bến Xe Đức Long Gia Lai,11h,550.000đ,500.000đ,-9%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.4,4.5,4.3,4.2,5.0
+Hoàng Thuỷ,4.7 (3485),Limousine giường phòng 24 chỗ,19:00,• Bến xe Miền Đông - Quầy vé 37,(13/11),06:00,• Bến Xe Đức Long Gia Lai,11h,550.000đ,Từ 350.000đ,-36%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1135),Limousine giường nằm 34 chỗ,18:40,• Bến Xe Miền Đông - Quầy vé 19,(13/11),06:10,• Bến xe Đắk Đoa,11h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Vương Tấn Dũng,4.8 (386),Limousine 24 Phòng,17:00,• VP QL13,(13/11),06:40,• Bến xe khách Kbang,13h40m,500.000đ,Từ 450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Thuận Tiến,4.7 (4957),Limousine 34 giường,18:30,• Bến xe Miền Đông - Quầy vé 24,(13/11),06:55,• Bến Xe Đức Long Gia Lai,12h25m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Sinh Diên Hồng,4.6 (237),Limousine 34 chỗ,17:45,• Bến Xe Miền Đông cũ,(13/11),04:45,• Bến Xe Đức Long Gia Lai,11h,380.000đ,304.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.8,4.6,4.6,4.9
+Đức Đạt,4.7 (1027),Limousine giường nằm 24 chỗ,20:15,• Bến xe Miền Đông - Quầy vé 17,(13/11),06:40,• Bến Xe Đức Long Gia Lai,10h25m,500.000đ,450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+An Phát,4.5 (380),Limosuine 24 Phòng,17:30,• BX Miền Đông - Cổng 4,(13/11),07:15,• Bến Xe K-Bang,13h45m,Từ 350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.5,4.5,4.3,4.5,4.8
+An Phát,4.5 (380),Limousine 34 phòng VIP,16:30,• BX Miền Đông - Cổng 4,(13/11),06:15,• Bến Xe K-Bang,13h45m,330.000đ,Từ 300.000đ,-9%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.5,4.5,4.3,4.5,4.8
+Việt Tân Phát,4.6 (122),22 Phòng,17:35,• Bến xe Miền Đông,(13/11),05:30,• VP Kông Chro,11h55m,550.000đ,450.000đ,-18%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.5,4.7
+Cô Hai,4.5 (200),Limousine 34 giường,16:50,• BX Miền Đông Cũ,(13/11),06:25,• VP Phú Thiện,13h35m,430.000đ,350.000đ,-19%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.4,4.7,4.5,4.5,4.6,4.8
+Sáu Bản,4.4 (485),Limousine giường nằm 34 chỗ,18:45,• Bến Xe Miền Đông - Quầy vé 49,(13/11),05:25,• Bến xe Chư Sê mới,10h40m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.4,4.5,4.4,4.3,4.4,4.3
+Thuận Ý,4.5 (417),Limousine 24 Phòng,18:25,• Bến Xe Miền Đông - Quầy vé 10,(13/11),05:55,• Bến Xe Đức Long Gia Lai,11h30m,500.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.3,4.3,4.3,4.3,4.1,5.0
+Gia Phúc - Gia Lai,4.4 (295),Limousine 34 giường,18:30,• Bến xe Miền Đông - Quầy vé 41,(13/11),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.3,4.3,4.4,4.4,4.0,4.3,5.0
+Phương Hồng Linh,4.2 (442),Limousine 36 phòng,20:00,• Văn phòng An Sương,(13/11),08:30,• Bến xe Đức Long Gia Lai,12h30m,300.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.2,4.4,4.3,4.4,4.2,4.3
+Vũ Cẩm,3.5 (12),Limousine giường phòng 34 chỗ,17:00,• Bến xe Miền Đông -  Dãy 2 A8,(13/11),04:00,• Bến xe Krông Pa,11h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.9,3.7,3.6,4.4,3.6,3.7,4.0
+Hồng Dung (Tân Hoa Châu),5 (6),Limousine 34 giường,16:30,• Bến xe Miền Đông,(13/11),05:00,• Văn phòng An Khê,12h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.3,4.2,4.3,4.3,4.2,4.2,5.0
+Tư Phầu,4.4 (108),Limousine 34 Giường,17:30,• Bến Xe Miền Đông - Quầy vé số 23,(13/11),04:00,• Bến Xe Đức Long Gia Lai,10h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.3,4.5,4.4,4.6
+Nhật Tân,4 (196),Limousine 34 phòng,17:00,• Bến xe Miền Đông - Quầy 28,(13/11),04:30,• Bến xe Chư Sê,11h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.3,4.0,4.2,4.3,4.0,3.9,4.3
+Minh Quốc,4.6 (1297),Limousine 24 Giường Đơn,18:30,• Bến xe Miền Đông - Quầy vé số 79,(13/11),06:00,• Vp. Kon Tum,11h30m,550.000đ,520.000đ,-5%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.7,4.5,4.4,4.4,4.9
+Bốn Luyện Express,4 (256),Giường nằm 34 chỗ Luxury,22:01,• Ngã 4 An Sương,(13/11),09:01,• Bến xe Đức Long Gia Lai,11h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.2,4.1,4.2,4.1,4.0,3.9,4.2
+Tuấn Hiệp,4 (1278),Limousine giường nằm 36 chỗ,01:00,• Ngã 4 An Sương,,13:50,• Bến Xe Đức Long Gia Lai,12h50m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.1,3.9,4.0,3.9,3.8,3.7,4.3
+Tây Nguyên,4.8 (117),Limousine 34 Giường,17:15,• Bến Xe Miền Đông - Quầy vé 22,(13/11),01:20,• QL14 Chư Sê,8h5m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.6,4.6,4.8,4.6,4.7,5.0
+Phượng Thu,4.6 (596),Limousine 34 Phòng Đơn,17:00,• Bến Xe Miền Đông - Quầy vé 13,(13/11),04:30,"• Pleiku, quốc lộ 14",11h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.5,4.5,4.5,4.5,4.7
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:30,• Bến xe Miền Đông - Quầy vé 37,(13/11),06:15,• Bến xe Đắk Đoa,11h45m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:30,• Bến xe Miền Đông - Quầy vé 37,(13/11),05:30,• Bến Xe Đức Long Gia Lai,11h,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:00,• Bến Xe An Sương,(13/11),05:25,• Bến Xe Đức Long Gia Lai,11h25m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1135),Limousine 24 Phòng,19:30,• Bến Xe Miền Đông - Quầy vé 19,(13/11),06:30,• Bến Xe Đức Long Gia Lai,11h,Từ 450.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Kính Diên Hồng,4.6 (1135),Limousine giường nằm 34 chỗ,17:15,• Bến xe An Sương,(13/11),05:45,• Bến xe Đắk Đoa,12h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Vương Tấn Dũng,4.8 (386),Limousine 24 Phòng,17:00,• VP QL13,(13/11),06:15,• An Khê - Quốc Lộ 19,13h15m,500.000đ,Từ 450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Vương Tấn Dũng,4.8 (386),Limousine 24 Phòng,17:00,• VP QL13,(13/11),04:15,• Văn phòng Pleiku,11h15m,500.000đ,Từ 450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:30,• Bến xe Miền Đông - Quầy vé 37,(13/11),04:50,• Bến xe Chư Sê,10h20m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thuỷ,4.7 (3485),Limousine 34 Giường VIP,18:45,• Bến xe Miền Đông - Quầy vé 37,(13/11),05:05,• Bến xe Chư Sê,10h20m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thuỷ,4.7 (3485),Limousine giường phòng 24 chỗ,19:00,• Bến xe Miền Đông - Quầy vé 37,(13/11),05:20,• Bến xe Chư Sê,10h20m,550.000đ,Từ 350.000đ,-36%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Vương Tấn Dũng,4.8 (386),Limousine 24 Phòng,17:30,• VP QL13,(13/11),05:45,• Bến xe An Khê,12h15m,500.000đ,Từ 450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Kính Diên Hồng,4.6 (1135),Limousine giường nằm 34 chỗ,17:15,• Bến xe An Sương,(13/11),05:15,• Bến Xe Đức Long Gia Lai,12h,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Vương Tấn Dũng,4.8 (386),Limousine 34 Phòng,16:45,• VP QL13,(13/11),06:25,• Bến xe khách Kbang,13h40m,380.000đ,320.000đ,-16%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.8,4.8,4.8,4.8,4.8,4.8,4.9
+Sinh Diên Hồng,4.6 (237),Limousine 34 chỗ,17:45,• Bến Xe Miền Đông cũ,(13/11),05:45,• Bến xe Đắk Đoa.,12h,380.000đ,304.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.8,4.6,4.6,4.9
+Thuận Tiến,4.7 (4957),Limousine 22 giường,19:30,• Bến xe Miền Đông - Quầy vé 24,(13/11),07:55,• Bến Xe Đức Long Gia Lai,12h25m,500.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Kính Diên Hồng,4.6 (1135),Limousine 24 Phòng,19:30,• Bến Xe Miền Đông - Quầy vé 19,(13/11),07:00,• Bến xe Đắk Đoa,11h30m,Từ 450.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.6,4.7,4.6,4.5,4.5,4.5
+Thuận Tiến,4.7 (4957),Limousine 34 giường,18:00,• Bến xe Miền Đông - Quầy vé 24,(13/11),09:55,• Bến xe thị xã An Khê,15h55m,380.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Đức Đạt,4.7 (1027),Limousine giường nằm 34 chỗ,18:25,• Bến xe Miền Đông - Quầy vé 17,(13/11),04:50,• Bến Xe Đức Long Gia Lai,10h25m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+Đức Đạt,4.7 (1027),Limousine giường nằm 34 chỗ,18:00,• Bến xe Miền Đông - Quầy vé 17,(13/11),04:25,• Bến Xe Đức Long Gia Lai,10h25m,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+Thuận Tiến,4.7 (4957),Limousine 24 Phòng,19:15,• Bến xe Miền Đông - Quầy vé 24,(13/11),07:40,• Bến Xe Đức Long Gia Lai,12h25m,500.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.6,4.9
+Đức Đạt,4.7 (1027),Limousine giường nằm 24 chỗ,18:05,• Bến xe Miền Đông - Quầy vé 17,(13/11),04:30,• Bến Xe Đức Long Gia Lai,10h25m,500.000đ,450.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.5,4.6,4.5,4.5,4.5,4.9
+Việt Tân Phát,4.6 (122),34 Phòng,17:45,• Bến xe Miền Đông,(13/11),05:35,• VP Mang Yang,11h50m,370.000đ,300.000đ,-19%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.5,4.7
+Việt Tân Phát,4.6 (122),34 Phòng,16:30,• Bến xe An Sương,(13/11),05:40,• Bến xe KBang,13h10m,380.000đ,320.000đ,-16%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.7,4.8,4.6,4.6,4.5,4.7
+Sáu Bản,4.4 (485),Giường nằm 44 chỗ,17:00,• Bến xe An Sương,(13/11),03:00,• Phú Nhơn QL14,10h,280.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.6,4.4,4.5,4.4,4.3,4.4,4.3
+Tấn Hưng (Gia Lai),4.4 (104),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(13/11),07:55,• Bến xe khách Kbang,14h25m,650.000đ,399.000đ,-39%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.5,4.5,4.5,4.4,4.0
+Tấn Hưng (Gia Lai),4.4 (104),Limousine 24 Phòng,17:30,• Bến Xe Miền Đông - Phòng vé số 77,(13/11),04:55,• Đắk Đoa,11h25m,650.000đ,399.000đ,-39%,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.5,4.3,4.5,4.5,4.5,4.4,4.0
+Thuận Ý,4.5 (417),Limousine 34 chỗ,18:20,• Bến Xe Miền Đông - Quầy vé 10,(13/11),05:50,• Bến Xe Đức Long Gia Lai,11h30m,350.000đ,,,"T4, 12/11/2025",Sài Gòn,Gia Lai,4.7,4.3,4.3,4.3,4.3,4.1,5.0
+Nam Hải Limousine,4.7 (3639),Limousine 24 phòng,10:15,• Văn Phòng Phạm Ngũ Lão,,13:45,• VP Hàm Tiến,3h30m,200.000đ,Từ 160.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.7,4.7,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,09:00,• Văn phòng Quận 1,,12:00,• Pandanus Resort Mũi Né,3h,360.000đ,Từ 310.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Cao Lâm Limousine,4.5 (4485),Limousine 34 phòng,20:00,• Văn Phòng Sài Gòn,,22:30,• Văn Phòng Phan Thiết,2h30m,180.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.5,4.5,4.5,4.4,4.4,4.6
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Limousine 34 Giường,05:15,• Văn phòng Quận 1,,09:00,• Vp. Mũi Né,3h45m,200.000đ,160.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Toàn Khải,4.6 (646),Limousine 9 chỗ,12:00,• Văn phòng Sài Gòn,,15:50,• Văn phòng Mũi Né,3h50m,300.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.6,4.6,4.6,4.4
+MexBus,5 (328),Limousine 27 chỗ,13:50,• Văn Phòng Quận 1,,17:10,• Bến Xe Nam Phan Thiết,3h20m,400.000đ,250.000đ,-37%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.9,4.9,4.9,4.8
+Thiên Kim Limousine,4.8 (593),Limousine 9 chỗ,08:30,• Văn Phòng Quận 11,,12:20,• Apec Mandala Chambay Mũi Né,3h50m,370.000đ,Từ 335.000đ,-9%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Long Vân Limousine,4.5 (7015),Limousine 9 chỗ,07:00,• Văn phòng Bình Thạnh,,10:35,• Trạm Mũi Né,3h35m,Từ 300.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Trung Nga,4.5 (2506),Giường Nằm 40 Chỗ,20:00,• Trạm Quận 1,,22:50,• Vp. Phan Thiết,2h50m,180.000đ,160.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.4,4.9
+ADT Limousine,4.8 (814),Solati 10 chỗ,09:10,• Petrolimex Nguyễn Văn Trỗi - Huỳnh Văn Bánh,,13:25,• Trạm đón trả Mũi Né,4h15m,Từ 340.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.8,4.7,4.8,4.7,4.7,5.0
+Nam Hải Limousine,4.7 (3639),Limousine 22 phòng (có WC),14:00,• Văn Phòng Phạm Ngũ Lão,,16:30,• VP Phan Thiết,2h30m,260.000đ,230.000đ,-12%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.7,4.7,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,10:00,• Văn phòng Quận 1,,13:00,• Movenpick Resort Phan Thiết,3h,360.000đ,Từ 310.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Cao Lâm Limousine,4.5 (4485),Giường nằm 41 chỗ,12:00,• Văn Phòng Sài Gòn,,14:30,• Văn Phòng Phan Thiết,2h30m,160.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.5,4.5,4.5,4.4,4.4,4.6
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Limousine 19 ghế ngả VIP (Mới),06:00,• Văn phòng Quận 1,,09:15,• Vp. Phan Thiết,3h15m,200.000đ,170.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Toàn Khải,4.6 (646),Limousine 19 chỗ,09:00,• Văn phòng Sài Gòn,,12:45,• Văn phòng Mũi Né,3h45m,220.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.6,4.6,4.6,4.4
+Long Vân Limousine,4.5 (7015),Limousine 9 chỗ,10:00,• Văn phòng Bình Thạnh,,13:35,• Trạm Mũi Né,3h35m,Từ 300.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+MexBus,5 (328),Limousine 27 chỗ,13:50,• Văn Phòng Quận 1,,18:00,• Bến xe Mũi Né,4h10m,400.000đ,250.000đ,-37%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.9,4.9,4.9,4.8
+Trung Nga,4.5 (2506),Giường Nằm 40 Chỗ,03:00,• Trạm Quận 1,,05:50,• Vp. Phan Thiết,2h50m,180.000đ,160.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.4,4.9
+ADT Limousine,4.8 (814),Solati 10 chỗ,07:40,• Highlands Coffee 606 Điện Biên Phủ,,11:25,• Trạm đón trả Mũi Né,3h45m,Từ 340.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.8,4.7,4.8,4.7,4.7,5.0
+Tuấn Tú,4.7 (3283),Limousine 34 Phòng Đơn,20:42,• Bến xe An Sương,(13/11),02:57,• Văn Phòng Phan Rang,6h15m,250.000đ,230.000đ,-8%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.6,4.7,4.6,4.6,4.6,4.8
+Mỹ Loan,4.9 (194),Solati 15 chỗ,09:00,• Văn Phòng Thủ Đức,,11:30,• Văn Phòng La Gi,2h30m,180.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,5.0,4.8,4.8,5.0
+Kim Thành (Lagi),4 (5),Solati 16 chỗ,07:00,• Văn Phòng Sài Gòn,,10:00,• Văn Phòng Lagi,3h,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.2,4.0,4.3,3.9,3.1,3.7,5.0
+Minh Nghĩa,4.5 (1486),Giường nằm 36 chỗ,18:00,• VP Thủ Đức,,23:05,• Văn phòng Chợ Lầu,5h5m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.1,4.1,4.1,4.0,4.0,3.9,4.8
+Thủy Hà Linh,4.3 (111),Fortuner 7 chỗ,05:30,• Văn Phòng Sài Gòn,,09:00,• Thị Xã La Gi,3h30m,220.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.2,3.9,4.2,4.2,4.3,4.2,5.0
+Phương Anh (Phan Thiết),3.3 (248),Giường nằm 40 chỗ,08:00,• Ngã 4 Ga,,12:30,• Bến xe Bắc Phan Thiết,4h30m,200.000đ,170.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,3.7,3.3,3.4,3.4,2.8,3.0,3.4
+Kumho Samco,4.4 (2418),Limousine 33 phòng đơn,12:00,• Bến xe Miền Đông Mới (Quầy số 18),,14:50,• Bến xe Bắc Phan Thiết,2h50m,210.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.3,4.3,4.8
+Hoàng Anh,4.6 (1402),Limousine 34 phòng,22:05,• VP Quận 10,(13/11),03:35,• Phan Rí,5h30m,260.000đ,240.000đ,-8%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.6,4.6,4.6,4.5,4.5,4.9
+Tân Hoàng Anh,4.2 (1542),Solati Limousine 12 Ghế,18:00,• Văn phòng Quận 5,,21:00,• Vp. Phan Thiết,3h,180.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.5,4.2,4.4,4.2,4.2,4.1,4.5
+G5Car Limousine,4.8 (452),Limousine 12 chỗ,08:30,• Sân Bay Tân Sơn Nhất - Cột 15 Ga Quốc Tế,,12:00,• Lotte Mart - Phan Thiết,3h30m,360.000đ,Từ 300.000đ,-17%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.8,4.9,4.9,4.9,4.8
+Liên Hưng,4 (13070),Limousine 21 phòng đơn (WC),06:30,• Bến Xe An Sương (Quầy vé 17),,13:30,"• Cổng chào Phan Rí, Quốc Lộ 1A",7h,490.000đ,Từ 250.000đ,-49%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Dũng Huyền Limousine,4.8 (56),Limousine 9 chỗ,06:00,• Trạm Sài Gòn,,09:00,• VP LaGi,3h,200.000đ,Từ 180.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.8,4.8,4.8,4.9
+Cúc Tùng,3.8 (2849),Giường nằm 32 chỗ,05:30,• Bến Xe An Sương - Quầy vé số 10,,11:50,• Cầu Nam (Phan Rí),6h20m,362.000đ,300.000đ,-17%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Kim Hùng,5 (1),Limousine 11 chỗ,07:00,• Văn Phòng Sài Gòn,,09:05,• Văn Phòng Lagi,2h5m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,08:00,• Văn phòng Sài Gòn,,11:00,• Mũi Né,3h,Từ 320.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Gia Phúc - Cam Ranh,4.8 (911),Giường nằm 40 chỗ,22:10,• Văn phòng Quận 5,(13/11),03:45,• Phan Rí,5h35m,240.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Thiện Trí,4.5 (2365),Giường nằm 41 chỗ,21:30,• Bãi Xe Thành Công,(13/11),04:30,• Vp Phan Rang,7h,190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.5,4.8
+Trọng Thủy Limousine,4.7 (1385),Limousine 24 phòng Đôi,18:20,• Ngã 4 An Sương,,23:20,• Vòng xoay Bến Lội,5h,Từ 420.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.6,4.7,4.7,4.7,4.7,4.6
+Hồng Sơn (Phú Yên),4.2 (1519),Limousine giường nằm 34 chỗ,17:40,• Ngã 4 Bình Phước,,22:38,• Phan Thiết (dọc quốc lộ 1A),4h58m,290.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.5,4.3,4.4,4.2,4.4,4.2,4.4
+Mười Phương Express,4.1 (181),Luxury 34 phòng,13:00,• Bến Xe 378A Thoại Ngọc Hầu,,18:30,• Bình Thuận (Dọc QL1A),5h30m,250.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.3,4.2,4.3,4.2,4.2,4.2,3.9
+Trung Thành,4.9 (21),Limousine 24 phòng,17:30,• Bến xe Miền Đông,,23:10,• Ngã 4 Liên Hương,5h40m,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,5.0,4.8,4.9,4.9,5.0,5.0,5.0
+Nam Hải Limousine,4.7 (3639),Limousine 19 ghế VIP,19:30,• Văn Phòng Phạm Ngũ Lão,,22:00,• VP Phan Thiết,2h30m,200.000đ,170.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.7,4.7,4.7,4.7,4.7,4.8
+Nam Hải Limousine,4.7 (3639),Limousine 24 phòng,10:15,• Văn Phòng Phạm Ngũ Lão,,13:15,• VP Phan Thiết,3h,200.000đ,Từ 160.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.7,4.7,4.7,4.7,4.7,4.8
+Nam Hải Limousine,4.7 (3639),Limousine 21 ghế VIP,07:00,• Văn Phòng Phạm Ngũ Lão,,09:30,• VP Phan Thiết,2h30m,200.000đ,170.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.8,4.7,4.7,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,13:00,• Văn phòng Quận 1,,16:00,• Pandanus Resort Mũi Né,3h,360.000đ,Từ 310.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,09:00,• Văn phòng Quận 1,,12:00,• Movenpick Resort Phan Thiết,3h,360.000đ,Từ 310.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,12:15,• Sân bay Tân Sơn Nhất - Bãi đậu xe Ga Quốc Tế,,16:00,• Pandanus Resort Mũi Né,3h45m,390.000đ,Từ 340.000đ,-13%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Cao Lâm Limousine,4.5 (4485),Giường nằm 41 chỗ,03:30,• Văn Phòng Sài Gòn,,06:00,• Văn Phòng Phan Thiết,2h30m,160.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.5,4.5,4.5,4.4,4.4,4.6
+Cao Lâm Limousine,4.5 (4485),Limousine 11 chỗ,19:00,• Văn Phòng Sài Gòn,,21:30,• Văn Phòng Phan Thiết,2h30m,220.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.5,4.5,4.5,4.4,4.4,4.6
+Cao Lâm Limousine,4.5 (4485),Limousine 11 chỗ,15:00,• Văn Phòng Sài Gòn,,17:30,• Văn Phòng Phan Thiết,2h30m,220.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.5,4.5,4.5,4.4,4.4,4.6
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Limousine 34 Giường,05:15,• Văn phòng Quận 1,,08:30,• Vp. Phan Thiết,3h15m,200.000đ,160.000đ,-20%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Limousine 19 ghế ngả VIP (Mới),12:30,• Văn phòng Quận 1,,15:45,• Vp. Phan Thiết,3h15m,200.000đ,Từ 170.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Limousine 36 Giường (Mới),23:40,• Văn phòng Phó Đức Chính,(13/11),02:45,• Vp. Phan Thiết,3h5m,190.000đ,160.000đ,-16%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Toàn Khải,4.6 (646),Limousine 19 chỗ,08:30,• Văn phòng Sài Gòn,,12:20,• Văn phòng Mũi Né,3h50m,220.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.6,4.6,4.6,4.4
+MexBus,5 (328),Limousine 27 chỗ,06:50,• Văn Phòng Quận 1,,11:00,• Bến xe Mũi Né,4h10m,400.000đ,250.000đ,-37%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.9,4.9,4.9,4.8
+MexBus,5 (328),Limousine 27 chỗ,06:50,• Văn Phòng Quận 1,,10:10,• Bến Xe Nam Phan Thiết,3h20m,400.000đ,250.000đ,-37%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.9,4.9,4.9,4.8
+MexBus,5 (328),Limousine 27 chỗ,14:00,• Bến Xe Miền Đông Mới,,17:10,• Bến Xe Nam Phan Thiết,3h10m,400.000đ,250.000đ,-37%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.9,4.9,4.9,4.9,4.9,4.9,4.8
+Trung Nga,4.5 (2506),Limousine 34 Phòng Đơn,18:00,• Trạm Quận 1,,20:50,• Vp. Phan Thiết,2h50m,200.000đ,180.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.4,4.9
+Trung Nga,4.5 (2506),Giường Nằm 40 Chỗ,12:15,• Trạm Quận 1,,15:05,• Vp. Phan Thiết,2h50m,180.000đ,160.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.4,4.9
+Trung Nga,4.5 (2506),Limousine 12 ghế,19:30,• Trạm Quận 1,,22:20,• Vp. Phan Thiết,2h50m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.7,4.5,4.6,4.5,4.4,4.4,4.9
+Long Vân Limousine,4.5 (7015),Limousine 9 chỗ,09:00,• Văn phòng Bình Thạnh,,12:15,• Cảng Tàu Phan Thiết (đi Phú Quý),3h15m,Từ 300.000đ,,,"T4, 12/11/2025",Sài Gòn,Bình Thuận,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,10:10,• Văn phòng Nguyễn Văn Trỗi,,12:10,• Ngã 3 Lò Vôi,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,07:20,• Văn Phòng Tân Bình,,10:00,• Văn phòng Vũng Tàu,2h40m,210.000đ,Từ 190.000đ,-10%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Hoa Mai,4.4 (4338),Ghế ngồi 10 chỗ,13:30,• Văn phòng Miền Đông,,15:05,• Bến xe Bà Rịa,1h35m,150.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,07:00,• Văn phòng Sài Gòn,,08:30,• Co.opmart Bà Rịa,1h30m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,16:30,• Văn phòng Quận 1,,18:50,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,14:30,• Tân Bình,,17:15,• Vũng Tàu,2h45m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Thanh Phong (Xuyên Mộc),5 (30),Ghế ngồi 16 chỗ,12:00,• Văn phòng Bình Thạnh,,15:30,• Xuyên Mộc,3h30m,140.000đ,119.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,5.0,5.0,5.0,4.9,4.9,4.9,5.0
+Thành Vinh (Vũng Tàu),4.3 (289),Limousine 9 chỗ,13:10,• VP Sài Gòn,,15:30,• VP Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.2,4.1,4.2,4.2,4.0,3.9,3.7
+Hồng Sơn (Phú Yên),4.2 (1519),Limousine giường nằm 34 chỗ,17:40,• Ngã 4 Bình Phước,,20:41,• Bến xe khách huyện Xuyên Mộc,3h1m,290.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.3,4.4,4.2,4.4,4.2,4.4
+Xe Nhà Mình 72,5 (28),Xe điện 7 chỗ BYD,19:15,• Thủ Đức,,23:00,• Vũng Tàu,3h45m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,5.0,5.0,5.0,4.9,5.0,4.9
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,06:01,• Văn phòng Quận 1,,08:16,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,07:30,• Văn phòng Quận 1,,09:30,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Hoa Mai,4.4 (4338),Limousine 9 chỗ,13:30,• Bến xe Miền Tây,,15:25,• Văn phòng Hoa Mai Vũng Tàu,1h55m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,09:30,• Văn phòng Quận 1,,11:50,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,07:00,• Tân Bình,,09:45,• Vũng Tàu,2h45m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,10:00,• Văn phòng Sài Gòn,,12:00,• Văn phòng Vũng Tàu,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Thanh Phong (Xuyên Mộc),5 (30),Ghế ngồi 16 chỗ,07:45,• Văn phòng Bình Thạnh,,11:15,• Xuyên Mộc,3h30m,140.000đ,119.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,5.0,5.0,5.0,4.9,4.9,4.9,5.0
+Thành Vinh (Vũng Tàu),4.3 (289),Limousine 9 chỗ,11:40,• VP Sài Gòn,,13:40,• Bến Xe Bà Rịa,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.2,4.1,4.2,4.2,4.0,3.9,3.7
+Hồng Sơn (Phú Yên),4.2 (1519),Limousine giường nằm 34 chỗ,17:10,• Cầu vượt An Sương,,20:41,• Bến xe khách huyện Xuyên Mộc,3h31m,290.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.3,4.4,4.2,4.4,4.2,4.4
+Xe Nhà Mình 72,5 (28),Xe điện 7 chỗ BYD,08:00,• Nội Thành TP.HCM,,12:00,• Vũng Tàu,4h,180.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,5.0,5.0,5.0,4.9,5.0,4.9
+Ba Đời,4.1 (23),Ghế ngồi 16 chỗ,05:10,• An Sương,,08:05,• Bến xe Vũng Tàu,2h55m,140.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.3,4.1,4.3,4.3,4.0,4.2,3.5
+Tuấn Hiệp,4 (1278),Limousine 22 phòng đôi,02:10,• Ngã 4 An Sương,,05:20,• Bến xe Vũng Tàu,3h10m,Từ 350.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.1,3.9,4.0,3.9,3.8,3.7,4.3
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,13:31,• Văn phòng Quận 1,,15:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,11:31,• Văn phòng Quận 1,,13:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,20:31,• Văn phòng Quận 1,,22:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,09:00,• Văn phòng Quận 1,,11:00,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,17:30,• Văn phòng Quận 1,,19:30,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,20:00,• Văn phòng Quận 1,,22:00,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Hoa Mai,4.4 (4338),Ghế ngồi 10 chỗ,14:00,• Văn phòng Miền Đông,,16:05,• Văn phòng Hoa Mai Vũng Tàu,2h5m,150.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Hoa Mai,4.4 (4338),Limousine 9 chỗ,08:32,• Văn phòng Hàng Xanh,,10:37,• Văn phòng Hoa Mai Vũng Tàu,2h5m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Hoa Mai,4.4 (4338),Limousine 9 chỗ,08:00,• Văn phòng Quận 1,,09:55,• Văn phòng Hoa Mai Vũng Tàu,1h55m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,12:00,• Văn phòng Quận 1,,14:20,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,04:00,• Tân Bình,,06:45,• Vũng Tàu,2h45m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,17:30,• Văn phòng Quận 1,,19:20,• Văn phòng Bà Rịa,1h50m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,11:00,• Văn phòng Quận 1,,13:20,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,07:00,• Văn phòng Sài Gòn,,09:00,• Văn phòng Vũng Tàu,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,15:00,• Sân bay Tân Sơn Nhất,,18:00,• Vũng Tàu,3h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,14:00,• Tân Bình,,16:45,• Vũng Tàu,2h45m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,06:00,• Văn phòng Sài Gòn,,08:00,• Văn phòng Vũng Tàu,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,08:00,• Văn phòng Sài Gòn,,10:00,• Văn phòng Vũng Tàu,2h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,12:31,• Văn phòng Quận 1,,14:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,08:31,• Văn phòng Quận 1,,10:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Anh Quốc Limousine,4.8 (3561),Limousine 9 chỗ,15:31,• Văn phòng Quận 1,,17:46,• Văn phòng Vũng Tàu,2h15m,180.000đ,Từ 170.000đ,-6%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.9,4.8,4.9,4.9,4.8,4.8,4.9
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,09:30,• Văn phòng Quận 1,,11:30,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,15:30,• Văn phòng Quận 1,,17:30,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Vie Limousine,4.6 (4784),Limousine 9 chỗ,12:00,• Văn phòng Quận 1,,14:00,• Văn phòng Vũng Tàu,2h,190.000đ,Từ 170.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.8,4.7,4.7,4.7,4.8
+Hoa Mai,4.4 (4338),Limousine 9 chỗ,17:00,• Văn phòng Quận 1,,18:55,• Bến xe Bà Rịa,1h55m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Hoa Mai,4.4 (4338),Ghế ngồi 16 chỗ,08:00,• Văn phòng Quận 1,,10:25,• Văn phòng Hoa Mai Vũng Tàu,2h25m,150.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Hoa Mai,4.4 (4338),Ghế ngồi 10 chỗ,13:30,• Văn phòng Miền Đông,,15:35,• Văn phòng Hoa Mai Vũng Tàu,2h5m,150.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.5,4.5,4.4,4.4,4.4,4.7
+Toàn Thắng - Vũng Tàu,4.7 (462),Ghế ngồi 19 chỗ,15:30,• Tân Bình,,18:15,• Vũng Tàu,2h45m,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,06:30,• Văn phòng Sân Bay,,09:10,• Văn phòng Vũng Tàu,2h40m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,05:30,• Văn phòng Sân Bay,,08:10,• Văn phòng Vũng Tàu,2h40m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Toàn Thắng - Vũng Tàu,4.7 (462),Ghế ngồi 19 chỗ,23:00,• Sân bay Tân Sơn Nhất,(13/11),02:00,• Vũng Tàu,3h,200.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,22:00,• Văn phòng Quận 1,(13/11),00:20,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Toàn Thắng - Vũng Tàu,4.7 (462),Limousine 9 chỗ,16:30,• Sân bay Tân Sơn Nhất,,19:30,• Vũng Tàu,3h,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.6,4.6,4.6,4.6,4.5,4.5,4.9
+Bến Thành Travel,4.6 (603),Limousine 9 chỗ,13:00,• Văn phòng Sài Gòn,,14:30,• Co.opmart Bà Rịa,1h30m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.7,4.7,4.7,4.5,4.6,4.5,4.8
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,10:00,• Văn phòng Quận 1,,12:20,• Văn phòng Vũng Tàu,2h20m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Huy Hoàng,4.4 (2765),Limousine 9 chỗ,12:35,• Văn phòng Nguyễn Văn Trỗi,,15:15,• Văn phòng Vũng Tàu,2h40m,Từ 190.000đ,,,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,4.5,4.4,4.5,4.4,4.3,4.3,4.7
+Thanh Phong (Xuyên Mộc),5 (30),Ghế ngồi 16 chỗ,04:45,• Văn phòng Bình Thạnh,,08:15,• Xuyên Mộc,3h30m,140.000đ,119.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,5.0,5.0,5.0,4.9,4.9,4.9,5.0
+Thanh Phong (Xuyên Mộc),5 (30),Ghế ngồi 34 chỗ,05:45,• Văn phòng Bình Thạnh,,09:15,• Xuyên Mộc,3h30m,140.000đ,119.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Bà Rịa-Vũng Tàu,5.0,5.0,5.0,4.9,4.9,4.9,5.0
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng,23:30,• Văn Phòng Quận 1,(13/11),06:06,• Bến xe Liên tỉnh Đà Lạt,6h36m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+Tiến Oanh,4.8 (13951),Limousine 22 Phòng (WC),23:00,• Văn Phòng Tân Bình,(13/11),06:50,• Văn Phòng Đà Lạt,7h50m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Đà Lạt ơi,4.8 (3535),Limousine 24 Phòng ĐÔI,23:45,• Trạm Quận 1,(13/11),06:00,• Văn phòng Hồ Xuân Hương,6h15m,450.000đ,Từ 239.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.9,4.8,4.8,4.8,4.8,4.8,4.9
+An Anh Limousine,4.8 (8600),Limousine 34 Phòng Đơn,23:05,• Văn Phòng Quận 5,(13/11),06:35,• Văn Phòng Đà Lạt,7h30m,299.000đ,249.000đ,-17%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,23:59,• Văn phòng Hoàng Văn Thụ,(13/11),05:34,• Văn Phòng Đà Lạt,5h35m,450.000đ,Từ 250.000đ,-44%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Hoàng Thủy,4.7 (3485),Limousine 22 phòng (WC),22:30,• 62 Bàu Cát,(13/11),05:20,• Bến xe liên tỉnh Đà Lạt,6h50m,400.000đ,Từ 200.000đ,-50%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Long Vân Limousine,4.5 (7015),Limousine phòng đôi 22 chỗ (WC),23:00,• Văn phòng Bình Thạnh,(13/11),06:00,• VP. Đà Lạt,7h,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Tuấn Tú Express,4.5 (1430),Limousine 24 Phòng Đôi,23:50,• Hàng Xanh (18 Trần Văn Khê),(13/11),06:00,• Văn phòng Đà Lạt,6h10m,400.000đ,Từ 210.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.6,4.6,4.5,4.5,4.6
+Điền Linh Limousine,4.2 (5252),Limousine 24 Phòng Đôi,00:15,• VP Hàng Xanh - HCM,,06:20,• VP Đà Lạt - Nguyên Tử Lực,6h5m,330.000đ,Từ 299.999đ,-9%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.1,4.3,4.1,4.2,4.0,4.4
+Điều Hòa,4.7 (278),Limousine 22 Phòng (WC),23:22,• Bến Xe Miền Đông Mới,(13/11),05:07,• Bến Xe Liên Tỉnh Đà Lạt,5h45m,400.000đ,Từ 197.000đ,-51%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.7,4.6,4.6,4.6,4.8
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,23:50,• Văn Phòng Quận 5,(13/11),05:50,• Văn Phòng Đà Lạt,6h,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng Đôi,23:00,• Văn Phòng Quận 1,(13/11),05:36,• Bến xe Liên tỉnh Đà Lạt,6h36m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+Tiến Oanh,4.8 (13951),Limousine 22 Phòng (WC),23:30,• Văn Phòng Tân Bình,(13/11),07:20,• Văn Phòng Đà Lạt,7h50m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Đà Lạt ơi,4.8 (3535),Limousine 24 Phòng ĐÔI,23:30,• Trạm Hàng Xanh,(13/11),06:00,• Văn phòng Hồ Xuân Hương,6h30m,450.000đ,Từ 239.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.9,4.8,4.8,4.8,4.8,4.8,4.9
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,22:45,• Văn phòng Hoàng Văn Thụ,(13/11),04:20,• Văn Phòng Đà Lạt,5h35m,450.000đ,Từ 250.000đ,-44%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Hoàng Thủy,4.7 (3485),Limousine 22 phòng (WC),22:30,• 62 Bàu Cát,(13/11),05:30,• Lô E13 KQH Phạm Hồng Thái,7h,400.000đ,Từ 200.000đ,-50%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Long Vân Limousine,4.5 (7015),Limousine phòng đôi 22 chỗ (WC),23:30,• Văn phòng Bình Thạnh,(13/11),06:30,• VP. Đà Lạt,7h,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Tuấn Tú Express,4.5 (1430),Limousine 24 Phòng Đôi,22:30,• VP Aeon Mall Tân Phú,(13/11),05:30,• Văn phòng Đà Lạt,7h,400.000đ,Từ 210.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.6,4.6,4.5,4.5,4.6
+Điền Linh Limousine,4.2 (5252),Limousine 24 Phòng Đôi,22:30,• VP Gò Vấp - HCM,(13/11),05:39,• VP Đà Lạt - Nguyên Tử Lực,7h9m,330.000đ,Từ 299.999đ,-9%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.1,4.3,4.1,4.2,4.0,4.4
+Điều Hòa,4.7 (278),Limousine 22 Phòng (WC),06:10,• Bến Xe Miền Đông Mới,,13:45,• Bến Xe Liên Tỉnh Đà Lạt,7h35m,400.000đ,Từ 197.000đ,-51%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.7,4.6,4.6,4.6,4.8
+Kumho Samco,4.4 (2418),Limousine 33 phòng đơn,23:00,• Bến xe Miền Đông cũ (Quầy vé 32),(13/11),06:00,• Bến xe Liên Tỉnh Đà Lạt (Quầy số 12),7h,300.000đ,290.000đ,-3%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.6,4.4,4.5,4.4,4.3,4.3,4.8
+Trọng Minh,4.8 (1996),Limousine 21 phòng (WC),23:00,• Bến xe Miền Tây,(13/11),06:30,• BX Đa Thiện,7h30m,350.000đ,Từ 200.000đ,-43%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.9,4.8,4.8,4.8,4.8,4.8,4.9
+LH Minh Trí Limousine,4.4 (1745),Limousine Solati 9 chỗ,07:45,• Trung Tâm Triển lãm và Hội chợ Tân Bình,,15:50,• Văn phòng Đà Lạt,8h5m,450.000đ,400.000đ,-11%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.3,4.4,4.4,4.4,4.3,4.5
+Thanh Bình Xanh,4.2 (2554),Limousine 34 phòng,22:00,• VP Quận 10,(13/11),06:22,• Bên ngoài Bến xe liên tỉnh Đà Lạt,8h22m,300.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.3,4.0,4.1,4.3,4.1,4.0,4.7
+Tân Quang Dũng,3.8 (2381),Limousine 22 Phòng Đôi (WC),22:00,"• Văn Phòng An Sương, Quận 12",(13/11),05:45,• Văn Phòng Đà Lạt,7h45m,Từ 350.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+Bốn Luyện Express,4 (256),Limousine 24 Phòng Đôi,00:05,• Hương Lộ 2,,07:10,• Bến xe Liên tỉnh Đà Lạt,7h5m,Từ 500.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.2,4.1,4.2,4.1,4.0,3.9,4.2
+Tân Niên,4.5 (1878),Limousine Phòng Đôi 24 chỗ,23:59,• Ngã 4 An Sương,(13/11),07:10,• Bến xe liên tỉnh Đà Lạt,7h11m,450.000đ,Từ 369.000đ,-18%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.5,4.4,4.7
+Cảnh Hoa,4.4 (109),Giường nằm 34 chỗ,20:31,• Ngã 4 An Sương,(13/11),03:21,• Bến xe liên tỉnh Đà Lạt,6h50m,250.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.1,4.6,4.7,4.2,4.3,5.0
+Hồng Huy,5 (45),Giường nằm 40 chỗ,21:10,• Suối Tiên,(13/11),03:35,• Bến xe liên tỉnh Đà Lạt,6h25m,300.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.6,4.8,4.8,4.8,4.7,4.7,5.0
+Yến Thông,4 (29),Giường nằm 40 chỗ,21:40,• Ngã 4 An Sương,(13/11),04:20,• Bến Xe Liên Tỉnh Đà Lạt,6h40m,250.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.2,4.3,4.2,3.8,3.9,4.7
+An Hoà Hiệp,4 (44),Limousine 24 Phòng,23:36,• Ngã Tư An Sương,(13/11),06:21,• Bến xe Đà Lạt,6h45m,Từ 500.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.1,4.3,4.4,4.5,4.1,4.5
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,23:20,• Văn Phòng Quận 5,(13/11),06:50,• Văn Phòng Đà Lạt,7h30m,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,22:00,• Văn Phòng Quận 5,(13/11),06:50,• Văn Phòng Đà Lạt,8h50m,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,23:30,• Văn Phòng Quận 5,(13/11),07:00,• Văn Phòng Đà Lạt,7h30m,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng,23:15,• Văn Phòng Quận 1,(13/11),05:51,• Bến xe Liên tỉnh Đà Lạt,6h36m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,23:30,• Văn phòng Hoàng Văn Thụ,(13/11),06:55,• Văn Phòng Đà Lạt,7h25m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,22:30,• Văn phòng Hoàng Văn Thụ,(13/11),05:55,• Văn Phòng Đà Lạt,7h25m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Tiến Oanh,4.8 (13951),Limousine 22 Phòng (WC),23:35,• Văn Phòng Thủ Đức,(13/11),06:50,• Văn Phòng Đà Lạt,7h15m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,23:45,• Văn phòng Hoàng Văn Thụ,(13/11),06:15,• Văn Phòng Đà Lạt,6h30m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng,23:15,• Văn Phòng Quận 1,(13/11),06:01,• Văn phòng Đà Lạt,6h46m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,23:10,• Bến Xe Miền Tây,(13/11),07:20,• Văn Phòng Đà Lạt,8h10m,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,04:20,• Văn Phòng Quận 5,,13:10,• Văn Phòng Đà Lạt,8h50m,350.000đ,Từ 199.000đ,-43%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+An Anh Limousine,4.8 (8600),Limousine 24 Phòng Đôi,22:30,• 116 Quốc Lộ 13,(13/11),06:30,• Văn Phòng Đà Lạt,8h,350.000đ,Từ 299.000đ,-15%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.8,4.7,4.7,4.7
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,05:00,• Văn phòng Hoàng Văn Thụ,,12:25,• Văn Phòng Đà Lạt,7h25m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,23:30,• Ngã 4 Thủ Đức,(13/11),05:55,• Văn Phòng Đà Lạt,6h25m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Phong Phú,4.5 (8677),Limousine 24 phòng đôi,09:00,• Văn phòng Hoàng Văn Thụ,,16:35,• Văn Phòng Đà Lạt,7h35m,450.000đ,Từ 350.000đ,-22%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.5,4.6,4.5,4.4,4.4,4.7
+Tiến Oanh,4.8 (13951),Limousine 22 Phòng (WC),00:05,• Văn Phòng Thủ Đức,,07:20,• Văn Phòng Đà Lạt,7h15m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng,23:30,• Văn Phòng Quận 1,(13/11),06:16,• Văn phòng Đà Lạt,6h46m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+Bình Minh Tải,4.7 (3838),Limousine 22 Phòng Đôi,23:00,• Văn Phòng Quận 1,(13/11),05:46,• Văn phòng Đà Lạt,6h46m,395.000đ,Từ 289.000đ,-27%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.7,4.7,4.6,4.6,4.6,4.9
+Hoàng Thủy,4.7 (3485),Limousine 22 phòng (WC),04:30,• 62 Bàu Cát,,14:20,• Lô E13 KQH Phạm Hồng Thái,9h50m,450.000đ,Từ 200.000đ,-56%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thủy,4.7 (3485),Limousine 22 phòng (WC),06:00,• Bến Xe Miền Đông Mới,,14:15,• Bến xe liên tỉnh Đà Lạt,8h15m,450.000đ,Từ 200.000đ,-56%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Hoàng Thủy,4.7 (3485),Limousine 22 phòng (WC),23:45,• Bến Xe Miền Đông Mới,(13/11),05:20,• Bến xe liên tỉnh Đà Lạt,5h35m,400.000đ,Từ 200.000đ,-50%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.8,4.7,4.7,4.7,4.6,4.6,4.9
+Đà Lạt ơi,4.8 (3535),Limousine 24 Phòng ĐÔI,23:49,• Nhà chờ Phương Trang (Đường Mai Chí Thọ),(13/11),06:00,• Văn phòng Hồ Xuân Hương,6h11m,450.000đ,Từ 239.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.9,4.8,4.8,4.8,4.8,4.8,4.9
+Long Vân Limousine,4.5 (7015),Limousine phòng đôi 22 chỗ (WC),22:00,• Văn phòng Bình Thạnh,(13/11),05:00,• VP. Đà Lạt,7h,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Long Vân Limousine,4.5 (7015),Limousine phòng đôi 22 chỗ (WC),23:59,• Văn phòng Bình Thạnh,(13/11),06:59,• VP. Đà Lạt,7h,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Long Vân Limousine,4.5 (7015),Limousine phòng đôi 22 chỗ (WC),23:30,• Văn phòng Bình Thạnh,(13/11),06:00,• Bến xe Liên tỉnh Đà Lạt,6h30m,Từ 400.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.5,4.4,4.5,4.5,4.4,4.4,4.8
+Tuấn Tú Express,4.5 (1430),Limousine 24 Phòng Đôi,23:00,• VP Aeon Mall Tân Phú,(13/11),06:00,• Văn phòng Đà Lạt,7h,400.000đ,Từ 210.000đ,-47%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.6,4.6,4.5,4.5,4.6
+Điền Linh Limousine,4.2 (5252),Limousine 24 Phòng Đôi,23:45,• VP Gò Vấp - HCM,(13/11),06:54,• VP Đà Lạt - Nguyên Tử Lực,7h9m,330.000đ,Từ 299.999đ,-9%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.1,4.3,4.1,4.2,4.0,4.4
+Điền Linh Limousine,4.2 (5252),Limousine 36 giường,23:45,• VP Hàng Xanh - HCM,(13/11),06:00,• VP Đà Lạt 192 Xô Viết Nghệ Tỉnh,6h15m,Từ 250.000đ,,,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.4,4.1,4.3,4.1,4.2,4.0,4.4
+Điều Hòa,4.7 (278),Limousine 22 Phòng (WC),22:02,• 263 Nguyễn Hồng Đào,(13/11),05:07,• Bến Xe Liên Tỉnh Đà Lạt,7h5m,400.000đ,Từ 197.000đ,-51%,"T4, 12/11/2025",Sài Gòn,Đà Lạt - Lâm Đồng,4.7,4.6,4.7,4.6,4.6,4.6,4.8
+Bằng Phấn,4.7 (1729),Limousine 13 chỗ,07:00,• 156 Trần Quang Khải,,13:30,• Bến xe Hà Giang,6h30m,300.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Mạnh Quân,4.5 (595),Cabin cung điện 24 phòng,21:30,• Bến xe Mỹ Đình (ô đón khách số 20),(13/11),03:30,• Văn Phòng 75 Cầu Mè (Gần Bến Xe Hà Giang đối diện khách sạn Hoa Cương),6h,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.4,4.5,4.4,4.3,4.2,4.8
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,23:00,• 55 Nguyễn Hoàng,(13/11),05:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,23:00,• 102 Trần Vỹ,(13/11),05:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,20:30,• Bến xe Gia Lâm,(13/11),04:00,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Quang Nghị,3.9 (716),Giường nằm 46 chỗ,22:30,• Văn Phòng Mỹ Đình,(13/11),05:00,• Bến xe Hà Giang,6h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Hà Tuấn,3.9 (66),Limousine giường phòng 24 chỗ,12:30,• Văn phòng Hà Nội,,19:00,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.8,3.6,3.6,3.9,3.5,3.5,4.5
+Cầu Mè,4.3 (148),Giường nằm 41 chỗ,09:30,• Bến xe Mỹ Đình,,16:30,• Cầu Mè Hotel,7h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.5,4.2,4.3,4.5,3.8,4.2,4.5
+Bus Vip Limousine Ha Giang,4.8 (11),Limousine 9 chỗ,07:00,• Số 11 Hàng Rươi,,13:00,"• Số 5 Đại Lộ Hữu Nghị, Hà Giang",6h,Từ 320.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.8,4.8,4.9,4.8,4.8,4.4
+Đông Bắc Travel,5 (41),Xe Limousine 11 chỗ,07:00,• Văn phòng Hà Nội,,13:00,• 165 đường Lý Tự Trọng,6h,350.000đ,300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,4.9
+Mạnh Quân,4.5 (595),Cabin cung điện 24 phòng,14:30,• Bến xe Mỹ Đình (Ô đón khách số 46),,21:00,• Văn Phòng 75 Cầu Mè (Gần Bến Xe Hà Giang đối diện khách sạn Hoa Cương),6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.4,4.5,4.4,4.3,4.2,4.8
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,21:00,• Bến xe Mỹ Đình (ô 46),(13/11),03:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,11:00,• Bến xe Gia Lâm,,18:30,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,21:00,• 451 Nguyễn Văn Cừ,(13/11),03:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Quang Nghị,3.9 (716),Limousine giường phòng 24 chỗ,20:30,• Văn Phòng Mỹ Đình,(13/11),04:00,• Văn phòng Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Cầu Mè,4.3 (148),Giường nằm 41 chỗ,07:30,• Bến xe Mỹ Đình,,14:30,• Cầu Mè Hotel,7h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.5,4.2,4.3,4.5,3.8,4.2,4.5
+Hà Tuấn,3.9 (66),Limousine giường phòng 22 chỗ,22:00,• Văn phòng Hà Nội,(13/11),04:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.8,3.6,3.6,3.9,3.5,3.5,4.5
+Đông Bắc Travel,5 (41),Xe Limousine 16 chỗ,16:00,• Văn phòng Hà Nội,,22:00,• 165 đường Lý Tự Trọng,6h,300.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,4.9
+Mạnh Hà (Hà Giang),4.5 (34),Giường nằm 44 chỗ,13:50,• Hyundai Long Biên,,19:10,• Bến xe Hà Giang,5h20m,220.000đ,200.000đ,-9%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.2,4.4,4.6,4.6,4.4,1.0
+Ngọc Sơn,0 (0),Limousine 24 cabin,11:15,• Bến xe Mỹ Đình,,16:45,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Ngọc Sơn,0 (0),Limousine 24 cabin,11:15,• Bến xe Mỹ Đình,,16:45,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Vũ Hán Group,3.4 (47),Giường nằm 20 chỗ,19:00,• VP Hà Nội,(13/11),03:50,• Ngã 3 Hữu Vinh - Bến Xe Đồng Văn,8h50m,450.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.7,3.7,3.7,3.7,3.5,3.6,5.0
+Ngọc Cường VIP,4.3 (71),Limousine 16 chỗ VIP,16:00,• Văn Phòng Số 01 Nguyễn Hoàng,,21:30,• Văn phòng Hà Giang 2,5h30m,350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.4,4.4,4.7,4.4,4.6,5.0
+Cát Bà Luxury,3.7 (6),Cabin 26 phòng,16:30,• 128 Đường Trần Nhật Duật,,23:30,• Bến xe Hà Giang,7h,400.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.4,3.3,3.0,3.0,3.0,3.0,3.0
+Bằng Phấn,4.7 (1729),Giường nằm 44 chỗ,22:30,• Ngã 4 Nội Bài (Nhà hàng Hải Yến),(13/11),05:10,• Bến xe Hà Giang,6h40m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,08:00,• 55 Nguyễn Hoàng,,14:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,22:00,• Bến xe Mỹ Đình (ô 46),(13/11),04:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Ngọc Sơn,0 (0),Limousine 24 cabin,20:45,• Bến xe Mỹ Đình,(13/11),02:15,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,17:00,• 55 Nguyễn Hoàng,,23:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Mạnh Quân,4.5 (595),Cabin cung điện 24 phòng,08:30,• Bến xe Mỹ Đình (Ô đón khách số 46),,15:00,• Văn Phòng 75 Cầu Mè (Gần Bến Xe Hà Giang đối diện khách sạn Hoa Cương),6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.4,4.5,4.4,4.3,4.2,4.8
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,17:00,• 102 Trần Vỹ,,23:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,20:01,• Bến xe Gia Lâm,(13/11),03:31,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,09:00,• 102 Trần Vỹ,,15:35,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Quang Nghị,3.9 (716),Giường nằm 21 chỗ,20:00,• Văn Phòng Mỹ Đình,(13/11),06:30,• Văn phòng Mèo Vạc,10h30m,400.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Quang Nghị,3.9 (716),Giường nằm 21 chỗ,20:00,• Văn Phòng Mỹ Đình,(13/11),02:00,• Văn phòng Hà Giang,6h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Quang Nghị,3.9 (716),Giường nằm 21 chỗ,20:30,• Văn Phòng Mỹ Đình,(13/11),07:00,• Văn phòng Mèo Vạc,10h30m,400.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,11:45,• 451 Nguyễn Văn Cừ,,18:20,• Văn phòng Hà Giang,6h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Cầu Mè,4.3 (148),Giường nằm 41 chỗ,21:00,• Bến xe Mỹ Đình,(13/11),04:00,• Cầu Mè Hotel,7h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.5,4.2,4.3,4.5,3.8,4.2,4.5
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 22 chỗ,20:00,• Bến xe Gia Lâm,(13/11),03:30,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Ngọc Sơn,0 (0),Limousine 24 cabin,12:30,• Bến xe Mỹ Đình,,18:00,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,10:30,• Bến xe Mỹ Đình (ô 46),,17:00,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Quang Nghị,3.9 (716),Limousine giường phòng 24 chỗ,10:00,• Bến xe Mỹ Đình (Ô số 46),,16:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,11:30,• 55 Nguyễn Hoàng,,18:00,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Quang Nghị,3.9 (716),Limousine 19 chỗ,07:00,• Bến xe Mỹ Đình (Ô số 12),,13:30,• Văn phòng Hà Giang,6h30m,300.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Vĩnh Thiện,4.3 (42),Limousine giường phòng 24 chỗ,20:02,• Bến xe Gia Lâm,(13/11),03:32,• Bến xe Hà Giang,7h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.3,4.2,4.5,4.5,4.7,5.0
+Ngọc Sơn,0 (0),Limousine 24 cabin,18:15,• Bến xe Mỹ Đình,,23:45,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Quang Tuyến (Hà Giang),4.1 (260),Limousine giường phòng 24 chỗ,14:00,• 55 Nguyễn Hoàng,,20:30,• Văn phòng Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.3,4.0,4.1,4.0,4.0,4.0,4.3
+Ngọc Sơn,0 (0),Limousine 24 cabin,07:00,• Bến xe Mỹ Đình,,12:30,• Văn phòng Hà Giang,5h30m,350.000đ,Từ 330.000đ,-6%,"T4, 12/11/2025",Hà Nội,Hà Giang,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Quang Nghị,3.9 (716),Limousine giường phòng 24 chỗ,08:00,• Bến xe Mỹ Đình (Ô số 46),,14:30,• Bến xe Hà Giang,6h30m,Từ 350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.2,3.9,4.1,3.9,4.0,3.8,4.4
+Hà Tuấn,3.9 (66),Giường nằm 20 chỗ,08:00,• Bến Xe Mỹ Đình,,15:00,• Bến xe Xín Mần,7h,350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.8,3.6,3.6,3.9,3.5,3.5,4.5
+Hà Tuấn,3.9 (66),Giường nằm 20 chỗ,20:30,• Bến Xe Mỹ Đình,(13/11),03:30,• Bến xe Xín Mần,7h,350.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.8,3.6,3.6,3.9,3.5,3.5,4.5
+Bằng Phấn,4.7 (1729),Giường nằm 44 chỗ,22:15,• Sân bay Nội Bài (Ga nội địa),(13/11),05:10,• Bến xe Hà Giang,6h55m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Bằng Phấn,4.7 (1729),Giường nằm 44 chỗ,22:20,• Sân bay Nội Bài (Ga quốc tế),(13/11),05:10,• Bến xe Hà Giang,6h50m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,4.7,4.7,4.7,4.6,4.6,4.6,4.8
+Mạnh Hà (Hà Giang),4.5 (34),Giường nằm 44 chỗ,09:30,• Hyundai Long Biên,,14:30,• Bến xe Hà Giang,5h,220.000đ,200.000đ,-9%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.2,4.4,4.6,4.6,4.4,1.0
+Vũ Hán Group,3.4 (47),Giường nằm 20 chỗ,19:00,• VP Hà Nội,(13/11),02:05,• Bắc Quang (Ngã 3 Liên Ngành - Vĩnh Tuy - Hết TT Việt Quang),7h5m,200.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.7,3.7,3.7,3.7,3.5,3.6,5.0
+Vũ Hán Group,3.4 (47),Giường nằm 20 chỗ,19:15,• Cao Tốc 1 (Trạm thu phí km6 - Km 54 IC8),(13/11),03:50,• Ngã 3 Hữu Vinh - Bến Xe Đồng Văn,8h35m,440.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.7,3.7,3.7,3.7,3.5,3.6,5.0
+Đăng Quang (Hà Giang),4.8 (19),Limousine 24 chỗ,23:00,• 102 Trần Vỹ,(13/11),04:35,• Tân Quang,5h35m,350.000đ,Từ 300.000đ,-14%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.8,4.6,4.6,4.6,4.7,4.7,4.6
+Mạnh Hà (Hà Giang),4.5 (34),Giường nằm 44 chỗ,20:20,• Hyundai Long Biên,(13/11),01:40,• Bến xe Hà Giang,5h20m,220.000đ,200.000đ,-9%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.2,4.4,4.6,4.6,4.4,1.0
+Mạnh Hà (Hà Giang),4.5 (34),Giường nằm 44 chỗ,20:30,• Hyundai Long Biên,(13/11),01:55,• Bến xe Hà Giang,5h25m,220.000đ,200.000đ,-9%,"T4, 12/11/2025",Hà Nội,Hà Giang,4.6,4.2,4.4,4.6,4.6,4.4,1.0
+Cát Bà Luxury,3.7 (6),Cabin 26 phòng,12:30,• 128 Đường Trần Nhật Duật,,19:30,• Bến xe Hà Giang,7h,400.000đ,,,"T4, 12/11/2025",Hà Nội,Hà Giang,3.4,3.3,3.0,3.0,3.0,3.0,3.0
+Anh Huy 92 Limousine,3.8 (38),Limousine 9 chỗ,07:00,• VP Hà Nội,,11:55,• Bến xe Móng Cái,4h55m,450.000đ,430.000đ,-4%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.0,4.1,4.3,4.1,4.1,3.7
+Thành An Limousine ( Halong Bay),5 (2),Limousine 9 chỗ,08:00,• Pan Pacific Hà Nội,,10:45,• Lô 41 Âu tàu ngủ đêm Tuần Châu,2h45m,200.000đ,Từ 180.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Trung Thành Limousine,4.9 (601),Limousine 9 chỗ,17:00,• Văn phòng Hà Nội,,19:40,• Vincom Cẩm Phả,2h40m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.7,4.7,4.7,4.7,4.7,4.7,4.8
+Hạ Long Xanh,4.4 (76),Sơ đồ 16 chỗ,13:00,• Văn phòng Hà Nội,,16:00,• Văn phòng Hạ Long,3h,180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.5,4.5,4.4,4.6
+Hà Lan Transport,5 (56),VIP Limousine 10 chỗ,06:55,• Văn phòng Hà Nội,,09:10,• Văn phòng Quảng Ninh,2h15m,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,4.9,4.9,5.0,5.0,4.9,4.8
+Phúc Xuyên,4.5 (826),Limousine 10 chỗ,12:00,• Văn Phòng Long Biên,,14:30,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.7,4.5,4.5,4.5,4.2
+Cửa Ông Bus,5 (8),Limousine 9 chỗ,10:00,• Văn phòng số 1 Nguyễn Hoàng,,13:30,• VP Quảng Ninh,3h30m,240.000đ,Từ 220.000đ,-8%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Hạ Long Star Limousine,4.9 (104),Limousine 9 chỗ,08:00,• Văn phòng Hà Nội,,10:30,• Văn phòng Hạ Long,2h30m,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.9,5.0,4.9,4.9,5.0
+Hạ Long Travel Limousine,4.8 (821),Limousine 10 chỗ,10:04,• Văn Phòng Long Biên,,12:34,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.9,5.0
+Cửa Ông Limousine,4.1 (524),VIP Limousine 9 chỗ,12:00,• Văn phòng Số 1 Nguyễn Hoàng,,15:15,• Hạ Long,3h15m,Từ 240.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.1,4.3,4.3,4.2,4.1,4.3
+Anh Huy 92 Limousine,3.8 (38),Limousine 9 chỗ,13:00,• VP Hà Nội,,17:55,• Bến xe Móng Cái,4h55m,450.000đ,430.000đ,-4%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.0,4.1,4.3,4.1,4.1,3.7
+Trung Thành Limousine,4.9 (601),Limousine 9 chỗ,09:00,• Văn phòng Hà Nội,,12:10,• Ngã 3 Cửa Ông,3h10m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.7,4.7,4.7,4.7,4.7,4.7,4.8
+Hạ Long Xanh,4.4 (76),Sơ đồ 16 chỗ,04:00,• VP Hà Nội,,07:00,• Văn phòng Hạ Long,3h,180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.5,4.5,4.4,4.6
+Phúc Xuyên,4.5 (826),Ghế ngồi 8 chỗ,14:30,• Văn Phòng Long Biên,,17:00,• Văn phòng Hạ Long,2h30m,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.7,4.5,4.5,4.5,4.2
+Hạ Long Travel Limousine,4.8 (821),Limousine 10 chỗ,14:00,• Văn Phòng Long Biên,,16:30,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.9,5.0
+Hải Phòng Travel (Đất Cảng),4.4 (1256),Limousine 11 chỗ,12:00,• Hà Nội,,14:30,• Quảng Ninh,2h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.5,4.3,4.3,4.4,4.4,4.3,4.4
+Hà Lan Transport,5 (56),VIP Limousine 10 chỗ,21:25,• Văn phòng Hà Nội,,23:40,• Văn phòng Quảng Ninh,2h15m,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,4.9,4.9,5.0,5.0,4.9,4.8
+Hoàng Phú Limousine,4 (248),Limousine 11 chỗ,19:01,• Văn phòng Hà Nội,,22:01,• Văn phòng Quảng Ninh,3h,Từ 240.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.2,4.0,4.0,4.1,4.1,3.9,4.0
+Thành An Limousine ( Halong Bay),5 (2),Limousine 9 chỗ,08:20,• Pan Pacific Hà Nội,,11:05,• Lô 41 Âu tàu ngủ đêm Tuần Châu,2h45m,200.000đ,Từ 180.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Hoàng Phú Limousine,4 (248),Limousine 11 chỗ,13:00,• Văn phòng Hà Nội,,16:00,• Văn phòng Quảng Ninh,3h,Từ 240.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.2,4.0,4.0,4.1,4.1,3.9,4.0
+Hạ Long Limousine,4.7 (2),Ghế 20 chỗ,08:30,• Nhà hát lớn Hà Nội,,11:30,• Cảng tàu khách Quốc tế Hạ Long,3h,270.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,4.7,4.7,5.0,4.7,4.7,
+Bắc Ninh Limousine,2.9 (43),Limousine 9 chỗ,08:00,• FLC 36 Phạm Hùng,,12:15,• Bến xe Móng Cái,4h15m,400.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,3.4,2.7,3.0,3.3,3.2,2.9,2.1
+Phú Bình (Quảng Ninh),4.6 (49),Ghế ngồi 7 chỗ,05:00,• Nhà Hát Lớn Hà Nội,,07:15,• Chợ Mạo Khê,2h15m,Từ 180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.1,4.1,4.1,4.1,3.8,4.1,4.0
+Ka Long (Hoàng Kiên),5 (69),Cabin 34 phòng,22:00,• Bến xe Mỹ Đình,(13/11),05:40,• Bến xe Móng Cái,7h40m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,4.7,4.9,5.0
+Duy Khánh Limousine,3.8 (673),Limousine 9 chỗ,04:20,• Văn phòng Cổ Linh,,06:50,• Bến xe Bãi Cháy,2h30m,Từ 240.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.0,4.0,4.1,4.0,3.9,3.8,4.0
+Minh Châu Limousine,3.8 (35),Limousine 11 chỗ,05:00,• BigC Thăng Long (cổng Tú Mỡ),,08:00,• cảng Ao Tiên,3h,300.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Cường Phát Limousine,4.6 (22),Limousine 11 chỗ,08:30,• Văn phòng Hà Nội,,11:30,• Cảng tàu khách quốc tế Hạ Long,3h,Từ 240.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.8,4.7,4.7,4.6,4.9,4.7,4.7
+Anh Huy VIP,5 (2),Kia Canival,21:00,• Văn phòng Hà Nội 226 Minh Khai,(13/11),00:00,• Văn phòng Hạ Long,3h,300.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Anh Tùng Limousine,3.4 (36),Limousine 9 chỗ,11:00,• FLC 36 Phạm Hùng,,14:05,• Chợ Uông Bí,3h5m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,3.8,3.2,3.5,3.8,3.6,3.4,3.0
+Xuân Trường Limousine,3.5 (179),Limousine 11 chỗ,06:00,• Hà Nội,,09:00,• Quảng Ninh,3h,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.2,3.5,3.6,3.8,3.6,3.5,2.2
+Đức Dương Bus,5 (1),Ghế ngồi 45 chỗ,06:45,• Văn phòng Mỹ Đình,,10:15,• Văn phòng Hạ Long,3h30m,200.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,
+Đào Thành (Quảng Ninh),5 (2),Ghế ngồi 16 chỗ,06:30,• Bến xe Mỹ Đình,,10:15,• Bến xe Cửa Ông,3h45m,180.000đ,160.000đ,-11%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Green Bus (Quảng Ninh),2.8 (4),Limousine 10 chỗ,11:00,• 62 Hàng Bạc,,14:00,• Văn phòng Hạ Long,3h,300.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,3.3,3.0,3.0,3.5,3.3,3.3,1.0
+Hùng Đức (Quảng Ninh),3 (53),Ghế ngồi 16 chỗ,13:10,• Bến xe Mỹ Đình (Ô đón khách số 20),,15:25,• Đông Triều (Chợ Mạo Khê),2h15m,160.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,3.4,2.6,2.6,3.1,2.6,2.4,
+The New Way,2.9 (30),Limousine 9 chỗ,07:00,• VP Hà Nội,,09:30,• VP Hạ Long,2h30m,290.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,3.0,3.0,2.7,2.8,3.0,3.0,3.7
+Tùng Tuấn Limousine,3.8 (175),Limousine 9 chỗ,08:00,• VP Hà Nội,,11:10,• Legacy Yên Tử,3h10m,280.000đ,270.000đ,-4%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.2,4.0,4.2,4.1,4.2,4.1,4.3
+VietNam Explore,4.4 (89),Limousine 18 chỗ,07:00,• Nhà hát lớn Hà Nội,,11:00,• Cảng tàu khách Quốc tế Hạ Long,4h,290.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+Hoàng Hà Limousine,4.5 (104),Limousine 12 chỗ,07:50,• Bưu Điện Trâu Quỳ,,10:15,• Ngã Tư Loong Toòng,2h25m,280.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.5,4.5,4.5,4.5,4.5,4.5,4.3
+Ninh Bình Excursion Transport,4.3 (169),Limousine 11 chỗ VIP,08:30,• Văn phòng Hà Nội (số 10 Hàng Phèn),,11:00,• Văn phòng Quảng Ninh,2h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.2,4.2,4.4,4.3,4.4,4.6
+Trung Thành Limousine,4.9 (601),Limousine 9 chỗ,18:00,• Văn phòng Hà Nội,,20:40,• Vincom Cẩm Phả,2h40m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.7,4.7,4.7,4.7,4.7,4.7,4.8
+Hạ Long Xanh,4.4 (76),Sơ đồ 16 chỗ,10:00,• VP Hà Nội,,13:00,• Văn phòng Hạ Long,3h,180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.5,4.5,4.4,4.6
+Hạ Long Xanh,4.4 (76),Sơ đồ 16 chỗ,05:00,• VP Hà Nội,,08:00,• Văn phòng Hạ Long,3h,180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.5,4.5,4.4,4.6
+Hạ Long Xanh,4.4 (76),Sơ đồ 16 chỗ,11:00,• VP Hà Nội,,14:00,• Văn phòng Hạ Long,3h,180.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.6,4.5,4.5,4.4,4.6
+Trung Thành Limousine,4.9 (601),Limousine 9 chỗ,13:00,• Văn phòng Hà Nội,,15:00,• Cổng chào Tuần Châu,2h,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.7,4.7,4.7,4.7,4.7,4.7,4.8
+Trung Thành Limousine,4.9 (601),Limousine 9 chỗ,08:00,• Văn phòng Hà Nội,,11:40,• Văn phòng Vân Đồn,3h40m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.7,4.7,4.7,4.7,4.7,4.7,4.8
+Phúc Xuyên,4.5 (826),Limousine 10 chỗ,13:00,• Văn Phòng Long Biên,,15:30,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.7,4.5,4.5,4.5,4.2
+Phúc Xuyên,4.5 (826),Limousine 10 chỗ,07:01,• Văn Phòng Long Biên,,09:31,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.7,4.5,4.5,4.5,4.2
+Anh Huy 92 Limousine,3.8 (38),Limousine 9 chỗ,08:00,• VP Hà Nội,,12:55,• Bến xe Móng Cái,4h55m,450.000đ,430.000đ,-4%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.0,4.1,4.3,4.1,4.1,3.7
+Hạ Long Travel Limousine,4.8 (821),Limousine 10 chỗ,14:04,• Văn Phòng Long Biên,,16:34,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.9,5.0
+Hạ Long Travel Limousine,4.8 (821),Limousine 10 chỗ,10:00,• Văn Phòng Long Biên,,12:30,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.9,5.0
+Hạ Long Travel Limousine,4.8 (821),Limousine 10 chỗ,09:00,• Văn Phòng Long Biên,,11:30,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.8,4.9,4.9,4.9,5.0
+Phúc Xuyên,4.5 (826),Limousine 10 chỗ,14:01,• Văn Phòng Long Biên,,16:31,• Văn phòng Hạ Long,2h30m,Từ 260.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.6,4.6,4.7,4.5,4.5,4.5,4.2
+Anh Huy 92 Limousine,3.8 (38),Limousine 9 chỗ,14:00,• VP Hà Nội,,18:55,• Bến xe Móng Cái,4h55m,450.000đ,430.000đ,-4%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.4,4.0,4.1,4.3,4.1,4.1,3.7
+Hạ Long Star Limousine,4.9 (104),Limousine 9 chỗ,07:00,• VP Hà Nội,,09:30,• VP Hạ Long,2h30m,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.9,5.0,4.9,4.9,5.0
+Hà Lan Transport,5 (56),VIP Limousine 10 chỗ,20:55,• Văn phòng Hà Nội,,23:10,• Văn phòng Quảng Ninh,2h15m,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,4.9,4.9,5.0,5.0,4.9,4.8
+Hải Phòng Travel (Đất Cảng),4.4 (1256),Limousine 11 chỗ,11:00,• Hà Nội,,13:30,• Quảng Ninh,2h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.5,4.3,4.3,4.4,4.4,4.3,4.4
+Hải Phòng Travel (Đất Cảng),4.4 (1256),Limousine 11 chỗ,10:00,• Hà Nội,,12:30,• Quảng Ninh,2h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.5,4.3,4.3,4.4,4.4,4.3,4.4
+Hà Lan Transport,5 (56),VIP Limousine 10 chỗ,15:55,• Văn phòng Hà Nội,,18:10,• Văn phòng Quảng Ninh,2h15m,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Hà Nội,Quảng Ninh,5.0,4.9,4.9,5.0,5.0,4.9,4.8
+Hạ Long Star Limousine,4.9 (104),Limousine 9 chỗ,19:00,• VP Hà Nội,,21:30,• VP Hạ Long,2h30m,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Quảng Ninh,4.9,4.9,4.9,5.0,4.9,4.9,5.0
+Minh Châu Limousine,3.8 (35),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(13/11),04:15,• Văn Phòng Tà Xùa,6h,Từ 325.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Mộc Châu Limousine,4.5 (162),Limousine 9 chỗ,06:00,• Ngõ 90 Nguyễn Tuân,,10:00,• Khách sạn Mường Thanh Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.6,4.4,4.6,4.6,4.8,4.6,4.4
+Đức Quyến,4.9 (19),Giường nằm 20 chỗ,19:00,• Bến xe Mỹ Đình,(13/11),02:30,• Cổng Ủy ban nhân dân tỉnh Sơn La,7h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Quang Tuấn (Điện Biên),3.3 (21),Limousine giường nằm 34 chỗ,19:15,• Cổng bến xe Yên Nghĩa,(13/11),02:30,• Bến xe Sơn La,7h15m,300.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.2,3.6,3.6,4.0,3.9,3.7,
+Minh Châu Limousine,3.8 (35),Limousine 11 chỗ,06:30,• BigC Thăng Long (cổng Tú Mỡ),,11:15,• Văn Phòng Tà Xùa,4h45m,350.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 22 chỗ,07:00,• BigC Thăng Long (cổng Tú Mỡ),,11:45,• Văn Phòng Tà Xùa,4h45m,350.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Mộc Châu Limousine,4.5 (162),Limousine 13 chỗ,16:30,• Ngõ 90 Nguyễn Tuân,,20:30,• Khách sạn Mường Thanh Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.6,4.4,4.6,4.6,4.8,4.6,4.4
+Đức Quyến,4.9 (19),Giường nằm 20 chỗ,19:00,• Bến xe Mỹ Đình,,23:30,• Khách sạn Hương Sen,4h30m,220.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Đức Quyến,4.9 (19),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,,23:30,• Khách sạn Hương Sen,4h30m,220.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Quang Tuấn (Điện Biên),3.3 (21),Limousine giường nằm 34 chỗ,19:15,• Cổng bến xe Yên Nghĩa,,23:00,• Khách sạn Hương Sen,3h45m,300.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.2,3.6,3.6,4.0,3.9,3.7,
+Quang Tuấn (Điện Biên),3.3 (21),Cabin 24 chỗ,20:00,• Trung tâm hội nghị Quốc Gia (Cổng đại lộ),(13/11),00:00,• Khách sạn Hương Sen,4h,Từ 500.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.2,3.6,3.6,4.0,3.9,3.7,
+Minh Châu Limousine,3.8 (35),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(13/11),03:45,• Bến Xe Bắc Yên,5h30m,Từ 275.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,21:30,• BigC Thăng Long (cổng Tú Mỡ),(13/11),02:15,• Văn Phòng Tà Xùa,4h45m,350.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine giường phòng 22 chỗ,22:15,• BigC Thăng Long (cổng Tú Mỡ),(13/11),03:15,• Cổng chào Phù Yên,5h,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Đức Quyến,4.9 (19),Giường nằm 20 chỗ,19:00,• Bến xe Yên Nghĩa.,(13/11),02:30,• Cổng Ủy ban nhân dân tỉnh Sơn La,7h30m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.9,4.9,4.9,4.9,4.9,4.9,5.0
+Minh Châu Limousine,3.8 (35),Limousine 22 chỗ,07:00,• BigC Thăng Long (cổng Tú Mỡ),,11:00,• Cổng chào Phù Yên,4h,275.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,21:30,• BigC Thăng Long (cổng Tú Mỡ),(13/11),01:30,• Cổng chào Phù Yên,4h,275.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 11 chỗ,06:30,• BigC Thăng Long (cổng Tú Mỡ),,10:30,• Cổng chào Phù Yên,4h,275.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Khánh Thịnh Limousine,4.6 (18),Limousine 9 chỗ VIP,18:00,• Văn phòng Hà Nội.,,21:15,• Văn phòng Phù Yên,3h15m,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.9,4.4,4.5,4.8,4.6,4.6,
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,08:30,• Văn phòng Hà Nội,,12:30,• Văn Phòng Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,19:30,• Văn phòng Hà Nội,,23:30,• Văn Phòng Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,21:30,• Văn phòng Hà Nội,(13/11),01:30,• Văn Phòng Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,23:30,• Văn phòng Hà Nội,(13/11),03:30,• Văn Phòng Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Minh Châu Limousine,3.8 (35),Limousine 9 chỗ,08:30,• Văn phòng Hà Nội,,12:30,• Văn Phòng Mộc Châu,4h,250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Vĩnh Anh (Mộc Châu),2.3 (3),Expander 7 chỗ,08:00,• Highland Coffee - Big C Thăng Long,,12:00,• Khách sạn Mường Thanh Mộc Châu,4h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,2.3,2.3,,3.0,1.7,2.3,
+Vĩnh Anh (Mộc Châu),2.3 (3),Expander 7 chỗ,14:00,• Highland Coffee - Big C Thăng Long,,18:00,• Khách sạn Mường Thanh Mộc Châu,4h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,2.3,2.3,,3.0,1.7,2.3,
+Minh Châu Limousine,3.8 (35),Limousine giường phòng 22 chỗ,07:20,• Văn phòng Hà Nội,,11:20,• Văn Phòng Mộc Châu,4h,Từ 250.000đ,,,"T4, 12/11/2025",Hà Nội,Sơn La,4.5,3.9,4.0,4.3,3.9,3.9,4.7
+Bắc Sơn,2.2 (23),Giường nằm 40 chỗ,23:00,• Bến xe Mỹ Đình,(13/11),04:30,• Bến xe Sơn La,5h30m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,2.0,2.6,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:29,• Bến xe Mỹ Đình,,16:29,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,16:30,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:30,• Bến xe Mỹ Đình,,18:10,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:28,• Bến xe Mỹ Đình,,16:28,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:28,• Bến xe Mỹ Đình,,18:08,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:27,• Bến xe Mỹ Đình,,14:47,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:29,• Bến xe Mỹ Đình,,13:49,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,13:50,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:27,• Bến xe Mỹ Đình,,15:27,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:28,• Bến xe Mỹ Đình,,13:48,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:28,• Bến xe Mỹ Đình,,17:08,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:26,• Bến xe Mỹ Đình,,14:46,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,15:30,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:30,• Bến xe Mỹ Đình,,17:10,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:25,• Bến xe Mỹ Đình,,14:45,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:25,• Bến xe Mỹ Đình,,14:45,• Bưu điện huyện Yên Châu,5h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:25,• Bến xe Mỹ Đình,,15:25,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:25,• Bến xe Mỹ Đình,,17:05,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:26,• Bến xe Mỹ Đình,,14:46,• Bưu điện huyện Yên Châu,5h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:26,• Bến xe Mỹ Đình,,15:26,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:27,• Bến xe Mỹ Đình,,13:47,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:25,• Bến xe Mỹ Đình,,13:45,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:27,• Bến xe Mỹ Đình,,16:27,• Thế giới di động Mai Sơn,6h,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:27,• Bến xe Mỹ Đình,,14:47,• Bưu điện huyện Yên Châu,5h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,09:27,• Bến xe Mỹ Đình,,17:07,• Bến xe Hồng Tiên,7h40m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+HTX 30/4 (Hải Quân-Trưởng Tuấn),4 (6),Giường nằm 40 chỗ,10:29,• Bến xe Mỹ Đình,,14:49,• Khách sạn Hương Sen,4h20m,,,,"T4, 12/11/2025",Hà Nội,Sơn La,,,,,4.0,4.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,12:00,• Văn phòng Đà Nẵng,,13:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,12:00,• VP Đà Nẵng,,13:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,14:00,• VP Đà Nẵng,,15:30,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Giường nằm 41 chỗ,15:30,• Vp Đà Nẵng,,18:00,• Vp Hội An,2h30m,100.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Tân Quang Dũng,3.8 (2381),Limousine 32 phòng (WC),19:00,• Văn Phòng Đà Nẵng,,22:15,• Bến xe Khâm Đức,3h15m,300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+Tân Quang Dũng Limousine,4.1 (202),Limousine 34 giường VIP new,00:20,• Bến xe Đức Long,,01:50,• Xăng dầu Hòa Mỹ 2,1h30m,290.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.4,4.2,4.3,4.3,4.3,4.2,4.7
+VietNam Explore,4.4 (89),Ghế ngồi 16 chỗ,11:25,• Bảo tàng Điêu khắc Chăm Đà Nẵng,,12:15,• Hoi An Ivy Hotel,0h50m,130.000đ,120.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+Cửa Ông Limousine,4.1 (524),Limousine 34 phòng,09:00,• Đà Nẵng,,09:45,• Văn phòng Hội An,0h45m,130.000đ,80.000đ,-38%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.4,4.1,4.3,4.3,4.2,4.1,4.3
+Barri Ann Travel,4.7 (83),Ghế ngồi 16 chỗ (mới),13:30,• Bảo tàng Chăm,,14:45,• Văn phòng Hội An,1h15m,130.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.8,4.8,4.8,4.6,4.8,5.0
+Hội An Food Tour,5 (6),Ghế ngồi 16 chỗ,13:00,• Rơm coffee,,14:00,• Highlands Coffee,1h,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,15:30,• Văn phòng Đà Nẵng,,16:50,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,13:00,• VP Đà Nẵng,,14:30,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,13:00,• VP Đà Nẵng,,14:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+VietNam Explore,4.4 (89),Ghế ngồi 16 chỗ,10:15,• Sân bay Đà Nẵng,,11:15,• Hoi An Ivy Hotel,1h,130.000đ,120.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+Barri Ann Travel,4.7 (83),Ghế ngồi 16 chỗ (mới),11:30,• Bảo tàng Chăm,,12:45,• Văn phòng Hội An,1h15m,130.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.8,4.8,4.8,4.6,4.8,5.0
+Hội An Food Tour,5 (6),Ghế ngồi 16 chỗ,08:00,• Rơm coffee,,09:00,• Highlands Coffee,1h,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Diên Hồng (Đà Nẵng),4.8 (630),Giường nằm 43 chỗ,20:00,• Bến xe Trung tâm Đà Nẵng,,22:30,• Cổng Bến Xe Quảng Ngãi,2h30m,240.000đ,210.000đ,-12%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Hải Vân Limousine (xehue.vn),3.8 (321),Limousine 9 chỗ,10:15,• 251 Chương Dương (Đà Nẵng),,12:15,• 128 Nguyễn Trường Tộ (Hội An),2h,120.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.2,3.8,3.8,3.8,4.0,3.7,3.2
+Hải Vân Limousine (xehue.vn),3.8 (321),Limousine 9 chỗ,12:15,• 251 Chương Dương (Đà Nẵng),,14:15,• 128 Nguyễn Trường Tộ (Hội An),2h,120.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.2,3.8,3.8,3.8,4.0,3.7,3.2
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,17:05,• Sân bay Đà Nẵng,,18:45,• Ga Tam Kỳ,1h40m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),19:30,• Bến xe Trung tâm Đà Nẵng,,20:30,• VP Hội An,1h,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,3.3,2.7,3.0,3.2,3.7,2.9,
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,17:05,• Sân bay Đà Nẵng,,18:45,• Ga Tam Kỳ,1h40m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+HM Happycar,4.6 (286),Limousine 24 phòng KL VIP,17:00,• 79 Nguyễn Tường Phổ (Đà Nẵng),,18:00,• 97 Nguyễn Tất Thành (Hội An),1h,Từ 450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,14:00,• Văn phòng Đà Nẵng,,16:10,• Chu Lai,2h10m,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,3.7,3.7,4.0,3.7,3.3,4.0,
+Cửa Ông Bus,5 (8),Limousine 34 phòng,05:30,• Đà Nẵng,,06:30,• VP Hội An,1h,150.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,11:00,• Văn phòng Đà Nẵng,,12:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,05:00,• Văn phòng Đà Nẵng,,06:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Ba Thanh Limousine,4.8 (81),Limousine 9 chỗ,06:00,• Văn phòng Đà Nẵng,,08:30,• Bến xe Tam Kỳ,2h30m,250.000đ,225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,08:30,• VP Đà Nẵng,,10:00,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,15:30,• VP Đà Nẵng,,17:00,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,16:00,• VP Đà Nẵng,,17:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,14:00,• VP Đà Nẵng,,15:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,07:00,• VP Đà Nẵng,,08:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,12:00,• VP Đà Nẵng,,13:30,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),20:30,• Bến xe Trung tâm Đà Nẵng,,21:30,• VP Hội An,1h,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,3.3,2.7,3.0,3.2,3.7,2.9,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,14:00,• Văn phòng Đà Nẵng,,15:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,19:00,• Văn phòng Đà Nẵng,,20:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,13:00,• Văn phòng Đà Nẵng,,14:20,• Bến xe Tam Kỳ,1h20m,250.000đ,Từ 225.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,06:00,• VP Đà Nẵng,,07:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,08:00,• VP Đà Nẵng,,09:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,14:30,• VP Đà Nẵng,,16:00,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,11:00,• VP Đà Nẵng,,12:30,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,15:00,• VP Đà Nẵng,,16:30,• Bến xe Tam Kỳ,1h30m,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,5.0,5.0,5.0,5.0,5.0,
+Phúc Lâm,4.9 (15),Ghế ngồi 7 chỗ,17:00,• VP Đà Nẵng,,18:30,• VP Tam Kỳ,1h30m,110.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.9,4.9,4.8,4.9,4.8,4.8,5.0
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),19:45,• Bến xe Trung tâm Đà Nẵng,,20:45,• VP Hội An,1h,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,3.3,2.7,3.0,3.2,3.7,2.9,
+VietNam Explore,4.4 (89),Ghế ngồi 16 chỗ,08:25,• Bảo tàng Điêu khắc Chăm Đà Nẵng,,09:15,• Hoi An Ivy Hotel,0h50m,130.000đ,120.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+VietNam Explore,4.4 (89),Ghế ngồi 16 chỗ,14:15,• Sân bay Đà Nẵng,,15:15,• Hoi An Ivy Hotel,1h,130.000đ,120.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+VietNam Explore,4.4 (89),Ghế ngồi 16 chỗ,16:25,• Bảo tàng Điêu khắc Chăm Đà Nẵng,,17:15,• Hoi An Ivy Hotel,0h50m,130.000đ,120.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.6,4.6,4.4,4.6,4.6,4.4,5.0
+Barri Ann Travel,4.7 (83),Ghế ngồi 16 chỗ (mới),19:30,• Bảo tàng Chăm,,20:45,• Văn phòng Hội An,1h15m,130.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.8,4.8,4.8,4.6,4.8,5.0
+Barri Ann Travel,4.7 (83),Ghế ngồi 16 chỗ (mới),14:30,• Bảo tàng Chăm,,15:45,• Văn phòng Hội An,1h15m,130.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,5.0,4.8,4.8,4.8,4.6,4.8,5.0
+Hải Vân Limousine (xehue.vn),3.8 (321),Limousine 9 chỗ,09:15,• 251 Chương Dương (Đà Nẵng),,11:15,• 128 Nguyễn Trường Tộ (Hội An),2h,120.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.2,3.8,3.8,3.8,4.0,3.7,3.2
+Hải Vân Limousine (xehue.vn),3.8 (321),Limousine 9 chỗ,21:15,• 251 Chương Dương (Đà Nẵng),,23:15,• 128 Nguyễn Trường Tộ (Hội An),2h,120.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Nam,4.2,3.8,3.8,3.8,4.0,3.7,3.2
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,08:35,• Sân bay Đà Nẵng,,12:00,• Trung tâm thành phố Quảng Ngãi,3h25m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Diên Hồng (Đà Nẵng),4.8 (630),Giường nằm 43 chỗ,20:00,• Bến xe Trung tâm Đà Nẵng,,22:30,• Cổng Bến Xe Quảng Ngãi,2h30m,240.000đ,210.000đ,-12%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,08:30,• Văn phòng Đà Nẵng,,11:30,• VP Quảng Ngãi,3h,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,13:00,• Mega Market Đà Nẵng,,16:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,04:30,• VP Đà Nẵng,,07:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Tân Quang Dũng Limousine,4.1 (202),Limousine 34 giường VIP new,00:20,• Bến xe Đức Long,,03:30,• Bến xe Quảng Ngãi,3h10m,290.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.4,4.2,4.3,4.3,4.3,4.2,4.7
+Minh Nguyên,4.4 (5),Ghế ngồi 7 chỗ,09:00,• VP Đà Nẵng,,12:00,• Cảng Sa Kỳ,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.4,4.9,4.4,4.9,4.4,4.4,
+HM Happycar,4.6 (286),Limousine 24 phòng KL VIP,17:00,• 79 Nguyễn Tường Phổ (Đà Nẵng),,20:15,• Trạm Xăng Dầu Vương Sáu (Quảng Ngãi),3h15m,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Tourist Măng Đen,4.4 (29),Limousine 9 chỗ,07:00,• Nội thành Đà Nẵng.,,11:00,• Thị Trấn Ba Tơ,4h,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.3,4.6,4.6,4.5,4.6,4.5,4.6
+Mộc Thảo,4.6 (1698),Limousine 34 giường,08:00,• Bến xe khách Đà Nẵng.,,11:00,• DĐ Quảng Ngãi,3h,280.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.7,4.6,4.6,4.6,4.5,4.6,4.8
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,12:00,• VP Đà Nẵng,,15:30,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,17:00,• Mega Market Đà Nẵng,,20:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,15:30,• VP Đà Nẵng,,18:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Ba Thanh Limousine,4.8 (81),Limousine 9 chỗ,12:00,• Văn phòng Đà Nẵng,,16:00,• VP Quảng Ngãi,4h,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Tân Quang Dũng Limousine,4.1 (202),Limousine 34 giường VIP new,23:05,• Bến xe Đức Long,(13/11),02:05,• PETROLIMEX (Trạm Dừng Chân Tú Sơn 1),3h,279.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.4,4.2,4.3,4.3,4.3,4.2,4.7
+Diên Hồng (Đà Nẵng),4.8 (630),Giường nằm 43 chỗ,20:00,• Bến xe Trung tâm Đà Nẵng,,23:15,• Đức Phổ (QL1A),3h15m,240.000đ,210.000đ,-12%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.8,4.8,4.8,4.7,4.7,4.7,4.9
+HM Happycar,4.6 (286),Limousine 24 phòng KL VIP,21:15,• 79 Nguyễn Tường Phổ (Đà Nẵng),(13/11),00:30,• Trạm Xăng Dầu Vương Sáu (Quảng Ngãi),3h15m,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Minh Nguyên,4.4 (5),Ghế ngồi 7 chỗ,05:30,• VP Đà Nẵng,,08:30,• Cảng Sa Kỳ,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.4,4.9,4.4,4.9,4.4,4.4,
+Măng Diang Limousine,4.7 (32),Limousine 9 chỗ,06:00,• Văn phòng Đà Nẵng,,08:05,• Vincom Plaza Quảng Ngãi,2h5m,Từ 350.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.7,4.8,4.8,4.8,4.8,4.7,5.0
+Mộc Thảo,4.6 (1698),Limousine 34 giường,18:00,• Bến xe khách Đà Nẵng.,,21:00,• DĐ Quảng Ngãi,3h,280.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.7,4.6,4.6,4.6,4.5,4.6,4.8
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,10:00,• Văn phòng Đà Nẵng,,13:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Vy Trần Car,2.8 (6),Ghế ngồi 7 chỗ,16:00,• VP Đà Nẵng,,18:20,• Bến Xe Quảng Ngãi,2h20m,250.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.2,4.1,3.9,3.7,3.7,4.1,3.0
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),20:30,• Bến xe Trung tâm Đà Nẵng,,23:40,• BX Quảng Ngãi,3h10m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.3,2.7,3.0,3.2,3.7,2.9,
+Hồng Sơn (Phú Yên),4.2 (1519),Limousine giường nằm 34 chỗ,19:30,• Bến xe trung tâm Đà Nẵng,,22:30,• Đối diện BX Quảng Ngãi,3h,280.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,4.5,4.3,4.4,4.2,4.4,4.2,4.4
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,08:05,• Sân bay Đà Nẵng,,11:30,• Trung tâm thành phố Quảng Ngãi,3h25m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,14:00,• Mega Market Đà Nẵng,,17:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,11:30,• VP Đà Nẵng,,15:00,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,04:00,• VP Đà Nẵng,,07:30,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,09:00,• Văn phòng Đà Nẵng,,12:00,• VP Quảng Ngãi,3h,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,08:30,• VP Đà Nẵng,,11:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Ba Thanh Limousine,4.8 (81),Limousine 9 chỗ,15:00,• Văn phòng Đà Nẵng,,19:00,• VP Quảng Ngãi,4h,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,19:00,• Văn phòng Đà Nẵng,,22:00,• VP Quảng Ngãi,3h,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,18:00,• VP Đà Nẵng,,21:00,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,04:00,• Văn phòng Đà Nẵng,,07:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,12:00,• Văn phòng Đà Nẵng,,15:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,17:30,• VP Đà Nẵng,,20:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,12:00,• Mega Market Đà Nẵng,,15:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,19:00,• Văn phòng Đà Nẵng,,21:55,• VP Quảng Ngãi,2h55m,Từ 330.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,18:00,• Mega Market Đà Nẵng,,21:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,13:00,• VP Đà Nẵng,,16:30,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,12:30,• VP Đà Nẵng,,16:00,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Hà Thảo,4.9 (169),Ghế ngồi 7 chỗ,09:30,• VP Đà Nẵng,,13:00,• Trung tâm thành phố Quảng Ngãi,3h30m,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,4.9,4.9,4.9,4.9,4.9,5.0
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,11:30,• Văn phòng Đà Nẵng,,14:30,• VP Quảng Ngãi,3h,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Ba Thanh Limousine,4.8 (81),Limousine 9 chỗ,06:00,• Văn phòng Đà Nẵng,,10:00,• VP Quảng Ngãi,4h,300.000đ,270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Trường Phát,4.8 (81),Ghế ngồi 7 chỗ,07:30,• Văn phòng Đà Nẵng,,10:30,• VP Quảng Ngãi,3h,300.000đ,Từ 270.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,15:00,• Văn phòng Đà Nẵng,,18:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,14:30,• VP Đà Nẵng,,17:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,15:00,• VP Đà Nẵng,,18:00,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Gia Phát Car,5 (11),Ghế ngồi 7 chỗ,16:30,• VP Đà Nẵng,,19:30,• VP Quảng Ngãi,3h,Từ 300.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,5.0,
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,13:00,• Văn phòng Đà Nẵng,,16:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Vy Trần Car,2.8 (6),Ghế ngồi 7 chỗ,12:00,• VP Đà Nẵng,,14:20,• Bến Xe Quảng Ngãi,2h20m,250.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.2,4.1,3.9,3.7,3.7,4.1,3.0
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,08:00,• Mega Market Đà Nẵng,,11:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Vy Trần Car,2.8 (6),Ghế ngồi 7 chỗ,06:00,• VP Đà Nẵng,,08:20,• Bến Xe Quảng Ngãi,2h20m,250.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.2,4.1,3.9,3.7,3.7,4.1,3.0
+Trâm Jet,3.6 (13),Ghế ngồi 7 chỗ,14:00,• Văn phòng Đà Nẵng,,17:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.7,3.7,4.0,3.7,3.3,4.0,
+Vy Trần Car,2.8 (6),Ghế ngồi 7 chỗ,13:00,• VP Đà Nẵng,,15:20,• Bến Xe Quảng Ngãi,2h20m,250.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,3.2,4.1,3.9,3.7,3.7,4.1,3.0
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,07:00,• Mega Market Đà Nẵng,,10:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Khánh Hà Tourist,5 (7),Ghế ngồi 7 chỗ,06:00,• Mega Market Đà Nẵng,,09:00,• VP Quảng Ngãi,3h,Từ 270.000đ,,,"T4, 12/11/2025",Đà Nẵng,Quảng Ngãi,5.0,5.0,5.0,5.0,5.0,4.4,5.0
+Cúc Tùng Limousine,4.5 (1753),Limousine giường nằm 21 chỗ,20:15,• Bến xe trung tâm Đà Nẵng,(13/11),07:05,• Văn Phòng Nha Trang,10h50m,503.000đ,Từ 350.000đ,-30%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.5,4.5,4.5,4.5,4.5,4.5,4.8
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),20:30,• Bến xe trung tâm Đà Nẵng,(13/11),07:45,• Văn Phòng Nha Trang,11h15m,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Liên Hưng,4 (13070),Limousine 34 giường (mới),19:00,• Bến xe trung tâm Đà Nẵng,(13/11),06:15,• Văn Phòng Diên Toàn,11h15m,360.000đ,300.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Hà Linh NT,4 (114),Limousine 22 Phòng Đơn,19:00,• Bến xe trung tâm Đà Nẵng,(13/11),04:15,• Văn phòng Nha Trang,9h15m,580.000đ,400.000đ,-31%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,4.0,4.1,4.1,3.8,3.9,4.6
+Hạnh Cafe - Hà Phương Limousine,4.4 (7450),Giường nằm 41 chỗ,15:30,• Vp Đà Nẵng,(13/11),07:00,• Văn phòng 106 Phong Châu,15h30m,330.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.6,4.4,4.5,4.4,4.4,4.3,4.8
+Tân Quang Dũng,3.8 (2381),Limousine 24 Phòng Đôi,19:30,• Văn Phòng Đà Nẵng,(13/11),04:00,• Bến Xe Phía Bắc Nha Trang,8h30m,Từ 700.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+Việt Lào (Đà Nẵng),4.5 (80),Limousine 24 Phòng,17:30,• Văn phòng Hải Châu,(13/11),04:00,• VP Nha Trang,10h30m,550.000đ,Từ 440.000đ,-20%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.7,4.5,4.6,4.6,4.7,4.6,4.7
+HM Happycar,4.6 (286),Limousine 24 phòng KL VIP,21:15,• 79 Nguyễn Tường Phổ (Đà Nẵng),(13/11),07:15,• Siêu thị Co.opmart Nha Trang (Khánh Hòa),10h,Từ 500.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Đình Nhân,4 (714),Limousine 32 Phòng (WC),08:30,• VP Đà Nẵng,,17:30,• Ngã 3 Thành,9h,550.000đ,450.000đ,-18%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.1,4.2,4.0,4.0,4.0,4.3
+Tân Kim Chi,4.4 (3754),Limousine giường phòng 22 chỗ (CABIN) (WC),19:00,"• 46 Nam Trân,Đà Nẵng",(13/11),05:15,• Quán nước Thanh Thư,10h15m,700.000đ,Từ 600.000đ,-14%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.5,4.4,4.5,4.4,4.5,4.4,4.6
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),19:00,• Bến xe trung tâm Đà Nẵng,(13/11),06:45,• Văn Phòng Nha Trang,11h45m,589.000đ,Từ 330.000đ,-44%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Cúc Tùng Limousine,4.5 (1753),Limousine giường nằm 21 chỗ,20:15,• Bến xe trung tâm Đà Nẵng,(13/11),06:00,• Bến Xe Phía Bắc Nha Trang,9h45m,503.000đ,Từ 350.000đ,-30%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.5,4.5,4.5,4.5,4.5,4.5,4.8
+Liên Hưng,4 (13070),Limousine 21 phòng đơn (WC),19:30,• Bến xe trung tâm Đà Nẵng,(13/11),06:00,• Văn Phòng Diên Toàn,10h30m,490.000đ,Từ 350.000đ,-29%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Hà Linh NT,4 (114),Limousine 32 Phòng Đơn (WC),17:00,• Bến xe trung tâm Đà Nẵng,(13/11),02:15,• Văn phòng Nha Trang,9h15m,370.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,4.0,4.1,4.1,3.8,3.9,4.6
+Việt Lào (Đà Nẵng),4.5 (80),Limousine 24 Phòng,17:15,• Văn phòng bãi xe Việt Lào,(13/11),04:00,• VP Nha Trang,10h45m,550.000đ,Từ 440.000đ,-20%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.7,4.5,4.6,4.6,4.7,4.6,4.7
+HM Happycar,4.6 (286),Limousine 24 phòng KL VIP,17:00,• 79 Nguyễn Tường Phổ (Đà Nẵng),(13/11),03:00,• Siêu thị Co.opmart Nha Trang (Khánh Hòa),10h,Từ 500.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.6,4.5,4.6,4.5,4.6,4.5,4.6
+Tân Quang Dũng,3.8 (2381),Limousine 32 phòng (WC),11:00,• Văn Phòng Đà Nẵng,,22:30,• Ngã 3 Thành,11h30m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+An Phú Travel (Đà Lạt),4.2 (1100),Limousine 36 Phòng,16:30,• Cửa hàng Xăng Dầu Hòa Khánh 16,(13/11),02:59,• Siêu thị Co.opmart Nha Trang,10h29m,Từ 400.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.3,4.4,4.3,4.2,4.2,4.9
+An Phú Travel (Đà Lạt),4.2 (1100),Limousine 24 Phòng Đôi,19:30,• 01 Tú Mỡ,(13/11),05:29,• Siêu thị Co.opmart Nha Trang,9h59m,600.000đ,Từ 550.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.3,4.4,4.3,4.2,4.2,4.9
+Tân Kim Chi,4.4 (3754),Limousine giường phòng 22 chỗ (CABIN) (WC),18:00,"• 46 Nam Trân,Đà Nẵng",(13/11),04:15,• Quán nước Thanh Thư,10h15m,700.000đ,Từ 600.000đ,-14%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.5,4.4,4.5,4.4,4.5,4.4,4.6
+Quang Dũng VIP Limousine,3.7 (911),Giường phòng 32 chỗ (Có WC),11:10,• Văn Phòng Đà Nẵng,,21:00,• Văn phòng Nha Trang,9h50m,500.000đ,450.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.0,3.7,3.8,3.8,3.8,3.6,4.4
+Quang Hạnh (NT),3.6 (366),Limousine 22 phòng đơn (WC),18:00,• Bến Xe Trung Tâm Đà Nẵng,(13/11),04:10,• Văn Phòng Nha Trang,10h10m,400.000đ,Từ 390.000đ,-2%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.7,3.9,3.9,3.8,3.6,3.6
+Quang Hạnh,3.4 (1241),Limousine 22 phòng đơn (WC),18:30,• Bến xe trung tâm Đà Nẵng,(13/11),05:30,• VP Nha Trang,11h,400.000đ,Từ 350.000đ,-12%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.8,3.5,3.7,3.5,3.4,3.3,4.2
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),20:30,• Bến xe Trung tâm Đà Nẵng,(13/11),07:20,• Bến xe Phía Nam Nha Trang,10h50m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.3,2.7,3.0,3.2,3.7,2.9,
+Cát Thiên Hải Limousine,2.8 (615),Limousine giường nằm 24 chỗ,11:59,• Bến xe Trung Tâm Đà Nẵng,,22:29,• Văn phòng Nha Trang,10h30m,799.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.5,2.7,2.8,3.2,3.0,2.6,2.9
+The Queen Tourist,3 (61),Limousine 22 Phòng,17:30,• VP Đà Nẵng,(13/11),03:45,• VP Nha Trang,10h15m,580.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.0,2.7,2.5,2.9,2.5,2.5,5.0
+Mai Quyên,3.7 (87),Limousine 34 Phòng,05:30,• Bến xe trung tâm Đà Nẵng,,15:30,• Ngã 3 Thành,10h,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.2,3.8,3.9,4.0,3.8,3.7,4.5
+Thuận Hưng Travel,3.2 (272),Limousine 24 cabin,08:15,• Đà Nẵng - Ngã  3 Túy Loan,,16:15,• Bến xe phía Bắc (Nha Trang),8h,600.000đ,500.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.7,3.2,3.3,3.4,3.4,3.2,3.9
+An Bình (Quảng Bình),2.8 (22),Giường nằm 40 chỗ,13:00,• Cây xăng 21 Đà Nẵng,,22:30,• Nha Trang,9h30m,600.000đ,550.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.7,2.8,2.9,3.2,2.6,2.7,1.0
+Phi Long (Mậu Hường),3.3 (43),Giường nằm 40 chỗ,11:50,• Ngã 3 Túy Loan (Cây xăng 21),,21:55,• Ngã 3 Thành,10h5m,550.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.2,3.6,3.8,3.7,3.2,3.4,
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),20:30,• Bến xe trung tâm Đà Nẵng,(13/11),06:30,• Bến xe Phía Bắc Nha Trang,10h,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),19:30,• Bến xe trung tâm Đà Nẵng,(13/11),06:45,• Văn Phòng Nha Trang,11h15m,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),19:30,• Bến xe trung tâm Đà Nẵng,(13/11),05:30,• Bến xe Phía Bắc Nha Trang,10h,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Liên Hưng,4 (13070),Limousine 34 giường (mới),18:30,• Bến xe trung tâm Đà Nẵng,(13/11),05:30,• Văn Phòng Diên Toàn,11h,360.000đ,300.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Quang Dũng VIP Limousine,3.7 (911),Limousine 22 phòng (Có WC),19:30,• Văn Phòng Đà Nẵng,(13/11),05:00,• 114 Thích Quảng Đức,9h30m,600.000đ,Từ 550.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.0,3.7,3.8,3.8,3.8,3.6,4.4
+Liên Hưng,4 (13070),Limousine 34 giường (mới),18:30,• Bến xe trung tâm Đà Nẵng,(13/11),04:50,• Bến xe Ninh Hòa,10h20m,360.000đ,300.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Quang Dũng VIP Limousine,3.7 (911),Limousine 22 phòng (Có WC),16:30,• Văn Phòng Đà Nẵng,,23:45,• Bến Xe Phía Nam Nha Trang,7h15m,900.000đ,810.000đ,-10%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.0,3.7,3.8,3.8,3.8,3.6,4.4
+Quang Hạnh,3.4 (1241),Limousine 32 giường (WC),17:00,• Bến xe trung tâm Đà Nẵng,(13/11),05:35,• VP Nha Trang,12h35m,350.000đ,330.000đ,-6%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.8,3.5,3.7,3.5,3.4,3.3,4.2
+Quang Hạnh,3.4 (1241),Limousine 32 giường (WC),17:00,• Bến xe trung tâm Đà Nẵng,(13/11),04:00,• VP Nha Trang,11h,350.000đ,340.000đ,-3%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.8,3.5,3.7,3.5,3.4,3.3,4.2
+Quang Dũng VIP Limousine,3.7 (911),Limousine 22 phòng (Có WC),18:00,• Văn Phòng Đà Nẵng,(13/11),03:30,• 114 Thích Quảng Đức,9h30m,600.000đ,Từ 550.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.0,3.7,3.8,3.8,3.8,3.6,4.4
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),19:45,• Bến xe trung tâm Đà Nẵng,(13/11),07:00,• Văn Phòng Nha Trang,11h15m,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),19:45,• Bến xe trung tâm Đà Nẵng,(13/11),05:45,• Bến xe Phía Bắc Nha Trang,10h,503.000đ,Từ 330.000đ,-34%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),17:30,• Bến Xe Trung Tâm Đà Nẵng,(13/11),04:00,• Bến xe Phía Bắc Nha Trang,10h30m,626.000đ,Từ 330.000đ,-47%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1
+Việt Lào (Đà Nẵng),4.5 (80),Limousine 24 Phòng,17:30,• Văn phòng Hải Châu,(13/11),03:45,• Bến xe Phía Bắc Nha Trang,10h15m,550.000đ,Từ 440.000đ,-20%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.7,4.5,4.6,4.6,4.7,4.6,4.7
+Việt Lào (Đà Nẵng),4.5 (80),Limousine 24 Phòng,17:15,• Văn phòng bãi xe Việt Lào,(13/11),03:45,• Bến xe Phía Bắc Nha Trang,10h30m,550.000đ,Từ 440.000đ,-20%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.7,4.5,4.6,4.6,4.7,4.6,4.7
+Liên Hưng,4 (13070),Limousine 21 phòng đơn (WC),19:32,• Bến xe trung tâm Đà Nẵng,(13/11),06:02,• Văn Phòng Diên Toàn,10h30m,490.000đ,Từ 350.000đ,-29%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),19:45,• Bến xe Trung tâm Đà Nẵng,(13/11),06:35,• Bến xe Phía Nam Nha Trang,10h50m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.3,2.7,3.0,3.2,3.7,2.9,
+Xe Limousine Vip,3.1 (170),Limousine giường phòng 21 chỗ (WC),19:30,• Bến xe Trung tâm Đà Nẵng,(13/11),06:20,• Bến xe Phía Nam Nha Trang,10h50m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.3,2.7,3.0,3.2,3.7,2.9,
+Cát Thiên Hải Limousine,2.8 (615),Limousine giường nằm 24 chỗ,16:59,• Bến xe Trung Tâm Đà Nẵng,(13/11),03:29,• Văn phòng Nha Trang,10h30m,799.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.5,2.7,2.8,3.2,3.0,2.6,2.9
+Liên Hưng,4 (13070),Limousine 32 giường (WC),16:00,• CH Xăng Dầu Hòa Khánh 16,(13/11),05:30,• Văn phòng Nha Trang,13h30m,360.000đ,300.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.2,4.3,4.1,4.0,3.9,4.3
+Việt Lào (Đà Nẵng),4.5 (80),Limousine 24 phòng VIP,18:15,• Văn phòng Hải Châu,(13/11),04:25,• Ngã 3 nhà máy sợi Nha Trang,10h10m,600.000đ,Từ 499.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.7,4.5,4.6,4.6,4.7,4.6,4.7
+Tân Quang Dũng,3.8 (2381),Limousine 22 Phòng Đôi (WC),19:00,• Văn Phòng Đà Nẵng,(13/11),05:30,• Ngã 3 Thành,10h30m,Từ 500.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+An Phú Travel (Đà Lạt),4.2 (1100),Limousine 24 Phòng Đôi,18:00,• Cửa hàng Xăng Dầu Hòa Khánh 16,(13/11),04:29,• Siêu thị Co.opmart Nha Trang,10h29m,600.000đ,Từ 550.000đ,-8%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.3,4.3,4.4,4.3,4.2,4.2,4.9
+Thuận Hưng Travel,3.2 (272),Limousine 24 cabin,23:15,• Đà Nẵng - Ngã  3 Túy Loan,(13/11),07:15,• Bến xe phía Bắc (Nha Trang),8h,600.000đ,500.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.7,3.2,3.3,3.4,3.4,3.2,3.9
+Thuận Hưng Travel,3.2 (272),Limousine 24 cabin,02:15,• Đà Nẵng - Ngã  3 Túy Loan,,10:15,• Bến xe phía Bắc (Nha Trang),8h,600.000đ,500.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.7,3.2,3.3,3.4,3.4,3.2,3.9
+Tân Quang Dũng,3.8 (2381),Limousine 32 phòng (WC),11:30,• Văn Phòng Đà Nẵng,,22:00,• Ngã 3 Thành,10h30m,450.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+Thuận Hưng Travel,3.2 (272),Limousine 24 cabin,01:45,• Đà Nẵng - Ngã  3 Túy Loan,,09:45,• Bến xe phía Bắc (Nha Trang),8h,600.000đ,500.000đ,-17%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,3.7,3.2,3.3,3.4,3.4,3.2,3.9
+Tân Quang Dũng,3.8 (2381),Limousine 22 Phòng Đôi (WC),18:46,• Văn Phòng Đà Nẵng,(13/11),02:51,• Bến Xe Phía Nam Nha Trang mới,8h5m,Từ 600.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.0,4.0,3.9,3.8,4.3
+Phi Long (Mậu Hường),3.3 (43),Limousine 32 phòng,15:50,• Ngã 3 Túy Loan (Cây xăng 21),(13/11),01:55,• Ngã 3 Thành,10h5m,600.000đ,,,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.2,3.6,3.8,3.7,3.2,3.4,
+Cúc Tùng,3.8 (2849),Limousine giường nằm đơn 21 chỗ (WC),17:30,• Bến Xe Trung Tâm Đà Nẵng,(13/11),05:15,• Văn Phòng Nha Trang,11h45m,626.000đ,Từ 330.000đ,-47%,"T4, 12/11/2025",Đà Nẵng,Nha Trang - Khánh Hòa,4.1,3.9,4.1,4.0,3.9,3.8,4.1

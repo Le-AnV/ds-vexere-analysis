@@ -1,0 +1,43 @@
+{
+  "routes": [
+    {
+      "from_city": "Sài Gòn",
+      "to_cities": [
+        "Gia Lai",
+        "Bình Thuận",
+        "Ninh Thuận",
+        "Đắk Lắk",
+        "Phú Yên",
+        "Nha Trang",
+        "Bà Rịa-Vũng Tàu",
+        "Đà Lạt"
+      ]
+    },
+    {
+      "from_city": "Hà Nội",
+      "to_cities": [
+        "Hà Giang",
+        "Quảng Ninh",
+        "Thanh Hóa",
+        "SaPa",
+        "Ninh Bình",
+        "Hải Phòng",
+        "Nghệ An",
+        "Sơn La"
+      ]
+    },
+    {
+      "from_city": "Đà Nẵng",
+      "to_cities": [
+        "Quảng Nam",
+        "Quảng Ngãi",
+        "Huế",
+        "Hà Nội",
+        "Sài Gòn",
+        "Quảng Ninh",
+        "Ninh Bình",
+        "Nha Trang"
+      ]
+    }
+  ]
+}

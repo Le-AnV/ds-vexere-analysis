@@ -9,6 +9,7 @@ from src.transform.cleaning.location_cleaner import normalize_location_type
 from src.transform.cleaning.rating_cleaner import (
     extract_overall_and_num_reviews,
     rename_rating_title,
+    fill_na_rating_cols,
 )
 from src.transform.cleaning.schedule_price_cleaner import (
     normalize_date_format,
@@ -17,6 +18,16 @@ from src.transform.cleaning.schedule_price_cleaner import (
     convert_duration_to_minutes,
 )
 
+rating_cols = [
+    "rating_safety",
+    "rating_info_accuracy",
+    "rating_info_completeness",
+    "rating_staff_attitude",
+    "rating_comfort",
+    "rating_service_quality",
+    "rating_punctuality",
+]
+
 
 def filter_logic(df: pd.DataFrame) -> pd.DataFrame:
     """Lọc dữ liệu theo quy tắc hợp lý."""
@@ -24,8 +35,8 @@ def filter_logic(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df[(df["reviewer_count"] > 0) | (df["price_original"] > 0)]
     df = df[df["price_original"] >= df["price_discounted"]]
-    df = df[df["duration_m"] > 0]
-    df = df[(df["number_of_seat"] >= 10) & (df["number_of_seat"] <= 60)]
+    df = df[df["duration_minutes"] > 0]
+    df = df[df["number_of_seat"] >= 1]
 
     log(f"Filtered {before - len(df)} rows based on logic rules")
     return df
@@ -42,7 +53,7 @@ def remove_useless_cols(df: pd.DataFrame) -> pd.DataFrame:
     return df.drop(columns=drop_cols, errors="ignore")
 
 
-def clean_vexere(df: pd.DataFrame) -> pd.DataFrame:
+def clean_vexere(df: pd.DataFrame, rating_cols=rating_cols) -> pd.DataFrame:
     """Làm sạch dữ liệu Vexere."""
 
     print("Start cleaning data...")
@@ -65,13 +76,14 @@ def clean_vexere(df: pd.DataFrame) -> pd.DataFrame:
 
     # 4. Lọc và xử lý logic
     df = filter_logic(df)
-
-    # 5. Loại bỏ thiếu và trùng
-    df.dropna(axis=0, how="all", inplace=True)
-    df.drop_duplicates(keep="first", inplace=True)
+    df = fill_na_rating_cols(df, rating_cols)
 
     # 6. Loại bỏ cột thừa
     df = remove_useless_cols(df)
+
+    # 5. Loại bỏ thiếu và trùng
+    df.dropna(axis=0, how="any", inplace=True)
+    df.drop_duplicates(keep="first", inplace=True)
 
     log("Clean data set complete")
     return df

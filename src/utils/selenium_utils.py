@@ -42,7 +42,7 @@ def wait_for_visible(driver, selector: str, timeout: int = 10):
     return wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, selector)))
 
 
-def wait_for_present(driver, selector: str, timeout: int = 10):
+def wait_for_present(driver, selector: str, timeout: int = 20):
     """Chờ phần tử có mặt trong DOM (chưa cần visible)."""
     wait = WebDriverWait(driver, timeout)
     return wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
@@ -53,4 +53,5 @@ def wait_for_present(driver, selector: str, timeout: int = 10):
 # ====================================
 def click_button(driver, element: WebElement):
     driver.execute_script("arguments[0].scrollIntoView({block:'center'});", element)
+    time.sleep(0.3)
     driver.execute_script("arguments[0].click();", element)
