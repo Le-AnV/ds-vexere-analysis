@@ -5,36 +5,38 @@ import pandas as pd
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
 from .trip_parser import parse_trip_from_container_and_rating_tab
 from src.utils.log_utils import log, log_exception
 from src.utils.selenium_utils import (
     wait_for_present,
     wait_for_clickable,
+    wait_for_invisible,
     click_button,
 )
 
 
 # ========= CORE ACTIONS =========
-def show_more_trips(driver, max_click=5):
-
+def show_more_trips(driver, max_click=6):
+    click_count = 0
     for i in range(max_click):
         try:
-            elem = driver.find_element(By.CSS_SELECTOR, ".load-more.ant-btn-primary")
-            if not elem:
-                log("Không tìm thấy button `Xem thêm chuyến`")
+            # tìm nút xem thêm
+            btn = wait_for_clickable(driver, ".load-more.ant-btn-primary", timeout=5)
+            if not btn:
+                log("Không còn nút 'Xem thêm chuyến'")
                 break
 
-            # Sử dụng wait để đợi btn hiển thị (có thể để click)
-            btn = wait_for_clickable(driver, ".load-more.ant-btn-primary")
-            click_button(driver, btn)
-            log(f"Đã click button 'Xem thêm chuyến': ({i+1}/{max_click})")
-            time.sleep(0.8)
+            click_button(driver, btn, time_range=2.5)
+            click_count += 1
+            log(f"Click 'Xem thêm chuyến' thành công ({click_count}/{max_click})")
+
         except Exception as e:
-            log_exception("show_more_trips", e)
+            log(f"Dừng tại click {i+1}: {type(e).__name__}")
             break
-    log("SHOW MORE TRIP COMPLETE")
+
+    log(f"SHOW MORE TRIP COMPLETE")
 
 
 def click_search_button(driver):
@@ -87,7 +89,7 @@ def set_search_filters(driver, start_city, dest_city, days_offset=0):
             if day.text.strip() == target_day:
                 click_button(driver, day)
                 log(
-                    f"SELECTED: {start_city} ⇾ {dest_city}  | {target_day}-{target_month} COMPLETE"
+                    f"SELECTED: {start_city} ⇨ {dest_city}  | {target_day}-{target_month} COMPLETE"
                 )
                 return True
 
@@ -101,7 +103,6 @@ def set_search_filters(driver, start_city, dest_city, days_offset=0):
 
 # ========= MAIN PARSE FLOW =========
 def crawl_and_parse_each_trip(driver):
-
     stars = driver.find_elements(By.CSS_SELECTOR, ".ant-btn.bus-rating-button")
     total_rating_btns = len(stars)
     log(f"Total ratings button: {total_rating_btns}")
@@ -110,8 +111,8 @@ def crawl_and_parse_each_trip(driver):
 
     for i in range(total_rating_btns):
         try:
+            # Re-fetch lại danh sách button mỗi vòng để tránh stale element
             stars = driver.find_elements(By.CSS_SELECTOR, ".ant-btn.bus-rating-button")
-
             if i >= len(stars):
                 break
 
@@ -119,13 +120,30 @@ def crawl_and_parse_each_trip(driver):
             click_button(driver, star)
             log(f"Opened rating tab: {i+1}/{total_rating_btns}")
 
-            # Khi mở tab rating ra sẽ xuất hiện class `overall-rating` => Đợi trang load
-            wait_for_present(driver, ".overall-rating")
+            # Chờ phần đánh giá hiện ra
+            try:
+                wait_for_present(driver, ".overall-rating")
+            except TimeoutException:
+                log(f"⚠️ Timeout waiting for .overall-rating (trip {i+1})")
+                continue
 
-            container_html = driver.execute_script(
-                "return arguments[0].closest('.bus-item, .container')?.outerHTML;", star
-            )
-            page_html = driver.page_source  # Lấy html về để parse dữ liệu
+            # Lấy HTML một cách an toàn (tránh serialize lỗi)
+            try:
+                container_html = driver.execute_script(
+                    """
+                    const el = arguments[0].closest('.bus-item, .container');
+                    if (!el) return '';
+                    const html = el.outerHTML;
+                    return html.length > 60000 ? html.substring(0, 60000) : html;
+                """,
+                    star,
+                )
+            except WebDriverException as e:
+                log(f"[WARN] Serialize DOM lỗi ở chuyến {i+1}: {str(e)[:80]}...")
+                container_html = ""
+
+            # Lấy snapshot toàn trang
+            page_html = driver.page_source
             df_trip = parse_trip_from_container_and_rating_tab(
                 container_html, page_html
             )
@@ -136,23 +154,25 @@ def crawl_and_parse_each_trip(driver):
             else:
                 log(f"Không tìm thấy dữ liệu cho chuyến {i+1}")
 
-            # Đóng tab rating sau khi đã parse
+            # Đóng tab rating
             try:
                 click_button(driver, star)
-                WebDriverWait(driver, 15).until_not(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, ".overall-rating"))
-                )
+                wait_for_invisible(driver, ".overall-rating", timeout=3)
             except Exception:
                 log(f"Không đóng được tab rating: {i+1}")
 
         except TimeoutException:
-            log("TimeoutException")
+            log(f"Timeout ở chuyến {i+1}")
+            continue
+        except WebDriverException as e:
+            log(f"[ERROR] WebDriverException ở chuyến {i+1}: {str(e)[:100]}")
+            continue
         except Exception as e:
             log_exception("crawl_and_parse_each_trip", e)
             continue
 
     if not all_dfs:
-        log("❌ Không thu được dữ liệu nào.")
+        log("Không thu được dữ liệu nào.")
         return pd.DataFrame()
 
     df_final = pd.concat(all_dfs, ignore_index=True)

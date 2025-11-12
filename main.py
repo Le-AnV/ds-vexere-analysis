@@ -1,8 +1,8 @@
 from src.extract.crawling import (
     crawl_vexere,
 )
-from src.transform.cleaning.cleaner_main import clean_vexere
-from src.load.trip_loader import insert_trips_from_dataframe
+from transform.cleaning.cleaning import clean_vexere
+from load.loading import insert_trips_from_dataframe
 
 from src.database.db_manager import DatabaseManager
 from src.utils.file_utils import read_csv, to_csv, load_routes
@@ -31,8 +31,8 @@ routes = load_routes("routes.json")
 all_trips_raw = []
 for from_city, to_city in routes:
     df = crawl_vexere(start_city=from_city, dest_city=to_city, days=DAYSOFF)
-    time.sleep(8)
     all_trips_raw.append(df)
+    time.sleep(8)
 
 if all_trips_raw:
     df = pd.concat(all_trips_raw, axis=0)

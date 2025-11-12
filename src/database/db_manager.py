@@ -14,15 +14,11 @@ class DatabaseManager:
         port: int = 5432,
     ):
         self.conn = psycopg2.connect(
-            database=database,
-            user=user,
-            password=password,
-            host=host,
-            port=port,
+            database=database, user=user, password=password, host=host, port=port
         )
         self.cur = self.conn.cursor()
 
-    # ==================== CÁC HÀM CƠ BẢN ====================
+    # ==================== CORE ====================
 
     def execute(self, query: str, params: tuple = None) -> bool:
         try:
@@ -88,53 +84,28 @@ class DatabaseManager:
         """
         return self.execute_returning_id(query_insert, (start_city_id, dest_city_id))
 
-    # ==================== BUS COMPANY ====================
+    # ==================== BUS COMPANIES ====================
 
-    def get_or_upsert_company(self, data: Dict[str, Any]) -> int:
-        name = data["company_name"]
-
+    def get_or_insert_company(self, company_name: str) -> int:
+        """Thêm mới công ty nếu chưa tồn tại (chỉ còn tên)."""
         query = "SELECT company_id FROM bus_companies WHERE company_name = %s LIMIT 1"
-        result = self.fetch_one(query, (name,))
-
-        params = (
-            data["reviewer_count"],
-            data["rating_overall"],
-            data["rating_safety"],
-            data["rating_info_accuracy"],
-            data["rating_info_completeness"],
-            data["rating_staff_attitude"],
-            data["rating_comfort"],
-            data["rating_service_quality"],
-            data["rating_punctuality"],
-        )
-
+        result = self.fetch_one(query, (company_name,))
         if result:
-            company_id = result[0]
-            update_q = """
-                UPDATE bus_companies
-                SET reviewer_count = %s, rating_overall = %s, rating_safety = %s,
-                    rating_info_accuracy = %s, rating_info_completeness = %s,
-                    rating_staff_attitude = %s, rating_comfort = %s,
-                    rating_service_quality = %s, rating_punctuality = %s
-                WHERE company_id = %s
-            """
-            self.execute(update_q, params + (company_id,))
-            return company_id
+            return result[0]
 
         insert_q = """
-            INSERT INTO bus_companies (
-                company_name, reviewer_count, rating_overall, rating_safety,
-                rating_info_accuracy, rating_info_completeness, rating_staff_attitude,
-                rating_comfort, rating_service_quality, rating_punctuality
-            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+            INSERT INTO bus_companies (company_name)
+            VALUES (%s)
             RETURNING company_id
         """
-        return self.execute_returning_id(insert_q, (name,) + params)
+        return self.execute_returning_id(insert_q, (company_name,))
+
+    # ==================== COMPANY ROUTE RATINGS ====================
 
     def insert_company_route_rating(
         self, company_id: int, route_id: int, data: Dict[str, Any], crawl_date: str
     ) -> bool:
-        """Lưu lịch sử rating của công ty theo tuyến và theo ngày"""
+        """Lưu rating theo tuyến và ngày."""
         query = """
             INSERT INTO company_route_ratings (
                 company_id, route_id, crawl_date, reviewer_count,
@@ -170,7 +141,8 @@ class DatabaseManager:
                 departure_date, departure_time, arrival_time,
                 duration_minutes, pickup_point, dropoff_point,
                 price_original, price_discounted
-            ) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+            )
+            VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
             RETURNING trip_id
         """
         params = (

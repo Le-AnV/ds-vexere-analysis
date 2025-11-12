@@ -5,15 +5,17 @@ from .trip_actions import (
     show_more_trips,
 )
 from src.utils.selenium_utils import create_driver
+import time
 
 
 def crawl_vexere(start_city, dest_city, days=0):
-    driver = create_driver(headless=True)
+    driver = create_driver(headless=False)
     driver.get("https://vexere.com/")
 
     set_search_filters(driver, start_city, dest_city, days)
     click_search_button(driver)
-    show_more_trips(driver, max_click=2)
+    time.sleep(2)
+    show_more_trips(driver, max_click=6)
 
     df = crawl_and_parse_each_trip(driver)
     driver.quit()
