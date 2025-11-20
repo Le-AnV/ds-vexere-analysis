@@ -1,8 +1,8 @@
 from src.extract.crawling import (
     crawl_vexere,
 )
-from transform.cleaning.cleaning import clean_vexere
-from load.loading import insert_trips_from_dataframe
+from src.transform.cleaning.cleaning import clean_vexere
+from src.load.loading import insert_trips_from_dataframe
 
 from src.database.db_manager import DatabaseManager
 from src.utils.file_utils import read_csv, to_csv, load_routes
@@ -24,7 +24,6 @@ with open("src/database/config.json", "r", encoding="utf-8") as f:
 
 # load routes
 routes = load_routes("routes.json")
-
 # ===============================================
 # STEP 1: CRAWLING
 # ===============================================
