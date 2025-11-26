@@ -5,7 +5,8 @@ from src.transform.cleaning.cleaning import clean_vexere
 from src.load.loading import insert_trips_from_dataframe
 
 from src.database.db_manager import DatabaseManager
-from src.utils.file_utils import read_csv, to_csv, load_routes
+from src.utils.file_utils import load_routes
+
 import pandas as pd
 import time
 from datetime import datetime, timedelta
