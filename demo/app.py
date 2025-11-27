@@ -28,22 +28,18 @@ def feature_engineering(df_raw: pd.DataFrame) -> pd.DataFrame:
     # 3. LOG PRICE
     df["log_price"] = np.log1p(df["real_price"])
 
-    # 4. TIME & GIÁ THEO PHÚT
-    df["duration_minutes_log"] = np.log1p(df["duration_minutes"])
-    df["price_per_minute"] = df["real_price"] / df["duration_minutes"]
-
-    # 5. DISCOUNT RATE
+    # 4. DISCOUNT RATE
     df["discount_rate"] = 1 - df["price_discounted"] / df["price_original"]
 
-    # 6. SERVICE SCORE
+    # 5. SERVICE SCORE
     service_cols = ["rating_staff_attitude", "rating_service_quality", "rating_comfort"]
     df["service_score"] = df[service_cols].mean(axis=1)
 
-    # 7. TRUST SCORE
+    # 6. TRUST SCORE
     trust_cols = ["rating_safety", "rating_punctuality", "rating_info_accuracy"]
     df["trust_score"] = df[trust_cols].mean(axis=1)
 
-    # 8. WILSON SCORE
+    # 7. WILSON SCORE
     def wilson_lower_bound(p, n, z=1.96):
         if n == 0:
             return 0.0
@@ -58,18 +54,11 @@ def feature_engineering(df_raw: pd.DataFrame) -> pd.DataFrame:
     )
     df.drop(columns=["p"], inplace=True)
 
-    # 9. PRICE PER SEAT
-    df["price_per_seat"] = df["real_price"] / df["number_of_seat"]
-
-    # 10. PRICE–RATING RATIO (ổn định)
+    # 8. PRICE–RATING RATIO (ổn định)
     df["price_rating_ratio_stable"] = df["wilson_score"] / df["log_price"]
 
-    # 11. FAIRNESS INDEX
+    # 9. FAIRNESS INDEX
     df["fairness_index"] = df["wilson_score"] / np.sqrt(df["real_price"])
-
-    # 12. LOG thêm
-    df["log_price_per_minute"] = np.log1p(df["price_per_minute"])
-    df["log_price_per_seat"] = np.log1p(df["price_per_seat"])
 
     return df
 
@@ -90,7 +79,7 @@ st.write(
 # =========================================================
 # 2. LOAD DỮ LIỆU TRAIN TỪ CSV
 # =========================================================
-st.header("1️⃣ Huấn luyện mô hình KMeans từ dữ liệu gốc")
+st.header("Huấn luyện mô hình KMeans từ dữ liệu gốc")
 
 folder_path = "data/processed"
 csv_files = glob.glob(os.path.join(folder_path, "*.csv"))
@@ -106,14 +95,13 @@ for f in csv_files:
 
 df_train_raw = pd.concat(dfs, ignore_index=True)
 
-st.write(f"✅ Đã load {len(csv_files)} file CSV, tổng số dòng: {df_train_raw.shape[0]}")
+st.write(f"Đã load {len(csv_files)} file CSV, tổng số dòng: {df_train_raw.shape[0]}")
 st.dataframe(df_train_raw.head())
 
-# Các cột số cần thiết
+# Các cột số cần thiết (đÃ BỎ duration_minutes, number_of_seat)
 numeric_cols = [
     "price_original",
     "price_discounted",
-    "duration_minutes",
     "rating_overall",
     "rating_safety",
     "rating_info_accuracy",
@@ -122,7 +110,6 @@ numeric_cols = [
     "rating_service_quality",
     "rating_punctuality",
     "reviewer_count",
-    "number_of_seat",
 ]
 
 df_train_raw[numeric_cols] = df_train_raw[numeric_cols].apply(
@@ -153,7 +140,7 @@ st.dataframe(
     ].head()
 )
 
-# Feature dùng để phân cụm (giống notebook)
+# Feature dùng để phân cụm
 features = [
     "wilson_score",
     "log_price",
@@ -206,139 +193,187 @@ if df_cluster_train.shape[0] >= 2:
 
     st.pyplot(fig)
 
+
 # =========================================================
-# 6. NHẬP DỮ LIỆU MỚI TRÊN WEB → DỰ ĐOÁN CỤM
+# 6. HÀM HỖ TRỢ FORMAT & PARSE GIÁ TIỀN
+# =========================================================
+def parse_price(text: str) -> int:
+    """
+    Nhận chuỗi giá tiền có thể có dấu . ngăn cách hàng nghìn,
+    trả về số nguyên (VND). Rỗng -> 0.
+    """
+    text = str(text).strip()
+    if text == "":
+        return 0
+    text = text.replace(".", "")
+    return int(text)
+
+
+def format_price(v: float | int) -> str:
+    """
+    Format số thành chuỗi có dấu . ngăn cách hàng nghìn.
+    """
+    return f"{int(v):,}".replace(",", ".")
+
+
+# =========================================================
+# 7. NHẬP DỮ LIỆU MỚI TRÊN WEB → DỰ ĐOÁN CỤM
 # =========================================================
 st.header("2️⃣ Nhập chuyến xe mới để xem thuộc cụm nào")
 
 st.write(
     """
-    Nhập các thông tin thô cho chuyến xe mới (giá, rating, thời gian, số ghế, số reviewer).  
+    Nhập các thông tin thô cho chuyến xe mới (giá, rating, số lượng người đánh giá).  
     App sẽ dùng **cùng pipeline feature + scaler + model KMeans** đã train để dự đoán cụm
     và giải thích ý nghĩa cụm.
     """
 )
 
-# Gợi ý một dòng mẫu để dễ nhập
-sample_new = {
-    "price_original": [400000],
-    "price_discounted": [350000],
-    "duration_minutes": [660],
-    "rating_overall": [4.6],
-    "rating_safety": [4.7],
-    "rating_info_accuracy": [4.6],
-    "rating_staff_attitude": [4.7],
-    "rating_comfort": [4.5],
-    "rating_service_quality": [4.5],
-    "rating_punctuality": [4.8],
-    "reviewer_count": [500],
-    "number_of_seat": [34],
-}
+st.subheader("🔧 Thông tin chuyến xe mới")
 
-df_new_input = st.data_editor(
-    pd.DataFrame(sample_new),
-    num_rows="dynamic",
-    key="manual_new_trips",
+col_price1, col_price2 = st.columns(2)
+with col_price1:
+    price_original_str = st.text_input("Giá gốc (VND)", "400.000")
+with col_price2:
+    price_discounted_str = st.text_input("Giá khuyến mãi (VND)", "350.000")
+
+col_rating1, col_rating2, col_rating3 = st.columns(3)
+with col_rating1:
+    rating_overall = st.slider("Điểm tổng thể", 0.0, 5.0, 4.6, 0.1)
+    rating_safety = st.slider("An toàn", 0.0, 5.0, 4.7, 0.1)
+with col_rating2:
+    rating_info_accuracy = st.slider("Độ chính xác thông tin", 0.0, 5.0, 4.6, 0.1)
+    rating_staff_attitude = st.slider("Thái độ nhân viên", 0.0, 5.0, 4.7, 0.1)
+with col_rating3:
+    rating_comfort = st.slider("Tiện nghi", 0.0, 5.0, 4.5, 0.1)
+    rating_service_quality = st.slider("Chất lượng dịch vụ", 0.0, 5.0, 4.5, 0.1)
+
+rating_punctuality = st.slider("Đúng giờ", 0.0, 5.0, 4.8, 0.1)
+
+reviewer_count = st.number_input(
+    "Số lượng người đánh giá", min_value=1, max_value=100000, value=500, step=10
 )
 
 # ====== GIẢI THÍCH Ý NGHĨA CỤM ======
 cluster_meanings = {
     0: {
-        "name": "Ngon – Bổ – Rẻ",
+        "name": "Giá hợp lý – Dịch vụ ổn định",
         "description": """
-📌 **Cụm 0 – “Ngon – Bổ – Rẻ”**  
-• Giá vé thấp nhất trong 3 nhóm  
-• Chất lượng dịch vụ tốt, ổn định  
-• Điểm Wilson cao → mức hài lòng bền vững  
-• Rất tối ưu về chi phí và giá trị  
+📌 **Cụm 0 – Giá hợp lý – Dịch vụ ổn định**  
+• Mức giá dễ tiếp cận, phù hợp đa số hành khách  
+• Chất lượng dịch vụ đồng đều, ít biến động  
+• Wilson Score khá tốt → phản ánh sự hài lòng ổn định theo thời gian  
 
-👉 Chuyến xe thuộc cụm 0 thường là *dịch vụ chất lượng tốt nhưng giá vẫn mềm, đáng đồng tiền bát gạo*.
+👉 Các chuyến xe ở cụm này thường mang lại **trải nghiệm tốt với chi phí vừa phải**, phù hợp hành khách ưu tiên tính kinh tế nhưng vẫn muốn dịch vụ đáng tin cậy.
 """,
     },
     1: {
-        "name": "Giá ảo – Chất lượng thấp",
+        "name": "Giá cao – Trải nghiệm chưa tương xứng",
         "description": """
-📌 **Cụm 1 – “Giá ảo – Chất lượng thấp”**  
-• Giá vé cao nhất thị trường  
-• Chất lượng dịch vụ thấp nhất  
-• Điểm Wilson thấp → đánh giá kém ổn định  
+📌 **Cụm 1 – Giá cao – Trải nghiệm chưa tương xứng**  
+• Giá vé nằm ở nhóm trên trung bình  
+• Mức độ hài lòng và điểm đánh giá thấp, thiếu sự ổn định  
+• Wilson Score thấp → chất lượng thực tế không đồng đều  
 
-👉 Chuyến xe thuộc cụm 1 thường là *giá cao nhưng chất lượng không tương xứng* 
-(ví dụ: độc quyền tuyến, tăng giá mùa cao điểm nhưng phục vụ kém).
+👉 Những chuyến xe rơi vào cụm này thường **có mức giá không phản ánh đúng giá trị dịch vụ**, có thể chịu ảnh hưởng bởi thời điểm cao nhu cầu, thương hiệu hoặc độc quyền tuyến.
 """,
     },
     2: {
-        "name": "Cao cấp – Đáng tiền",
+        "name": "Dịch vụ chất lượng cao – Trải nghiệm trọn vẹn",
         "description": """
-📌 **Cụm 2 – “Cao cấp – Đáng tiền”**  
-• Giá vé cao  
-• Chất lượng dịch vụ tốt nhất  
-• Điểm tin cậy (Wilson, Trust Score) cao  
+📌 **Cụm 2 – Dịch vụ chất lượng cao – Trải nghiệm trọn vẹn**  
+• Giá vé thuộc nhóm cao, đi kèm chất lượng phục vụ tốt  
+• Điểm hài lòng ổn định và mức độ tin cậy vượt trội  
+• Wilson Score cao → phản ánh sự đồng thuận lớn từ người dùng  
 
-👉 Chuyến xe thuộc cụm 2 là *dịch vụ cao cấp – “tiền nào của nấy”*, 
-phù hợp khách hàng ưu tiên trải nghiệm, an toàn và sự chuyên nghiệp.
+👉 Cụm này đại diện cho **dịch vụ cao cấp**, phù hợp hành khách chú trọng trải nghiệm, sự an toàn và tính chuyên nghiệp trong suốt hành trình.
 """,
     },
 }
 
+
 # ====== NÚT DỰ ĐOÁN ======
 if st.button("🚀 Dự đoán cụm cho dữ liệu mới"):
-    if df_new_input.shape[0] == 0:
-        st.warning("Chưa có dòng nào trong bảng dữ liệu mới.")
-    else:
-        df_new = df_new_input.copy()
-        df_new[numeric_cols] = df_new[numeric_cols].apply(
-            pd.to_numeric, errors="coerce"
+    try:
+        price_original = parse_price(price_original_str)
+        price_discounted = parse_price(price_discounted_str)
+    except ValueError:
+        st.error(
+            "Giá tiền không hợp lệ. Vui lòng chỉ nhập số và dấu chấm '.' ngăn cách hàng nghìn."
         )
-        df_new = df_new.dropna(subset=numeric_cols)
+        st.stop()
 
-        if df_new.shape[0] == 0:
-            st.warning("Tất cả dòng mới đều thiếu dữ liệu ở các cột quan trọng.")
+    data_new = {
+        "price_original": [price_original],
+        "price_discounted": [price_discounted],
+        "rating_overall": [rating_overall],
+        "rating_safety": [rating_safety],
+        "rating_info_accuracy": [rating_info_accuracy],
+        "rating_staff_attitude": [rating_staff_attitude],
+        "rating_comfort": [rating_comfort],
+        "rating_service_quality": [rating_service_quality],
+        "rating_punctuality": [rating_punctuality],
+        "reviewer_count": [reviewer_count],
+    }
+
+    df_new = pd.DataFrame(data_new)
+    df_new[numeric_cols] = df_new[numeric_cols].apply(pd.to_numeric, errors="coerce")
+    df_new = df_new.dropna(subset=numeric_cols)
+
+    if df_new.shape[0] == 0:
+        st.warning("Dữ liệu mới đang thiếu giá trị ở các cột quan trọng.")
+    else:
+        # Feature engineering cho dữ liệu mới
+        df_new_fe = feature_engineering(df_new)
+
+        # Lấy đúng các feature đã dùng khi train
+        df_new_cluster = df_new_fe[features].dropna().copy()
+
+        if df_new_cluster.shape[0] == 0:
+            st.warning("Không tạo được đủ feature cho dữ liệu mới (NaN hết).")
         else:
-            # Feature engineering cho dữ liệu mới
-            df_new_fe = feature_engineering(df_new)
+            # Scale bằng scaler đã FIT trên train
+            X_new_scaled = scaler.transform(df_new_cluster[features])
 
-            # Lấy đúng các feature đã dùng khi train
-            df_new_cluster = df_new_fe[features].dropna().copy()
+            # Dự đoán cụm bằng model đã FIT
+            new_labels = model.predict(X_new_scaled)
 
-            if df_new_cluster.shape[0] == 0:
-                st.warning("Không tạo được đủ feature cho dữ liệu mới (NaN hết).")
-            else:
-                # Scale bằng scaler đã FIT trên train
-                X_new_scaled = scaler.transform(df_new_cluster[features])
+            df_new_fe = df_new_fe.loc[df_new_cluster.index].copy()
+            df_new_fe["predicted_cluster"] = new_labels
 
-                # Dự đoán cụm bằng model đã FIT
-                new_labels = model.predict(X_new_scaled)
+            # Tạo bản hiển thị với giá đã format
+            df_display = df_new_fe[
+                [
+                    "price_original",
+                    "price_discounted",
+                    "rating_overall",
+                    "reviewer_count",
+                    "real_price",
+                    "log_price",
+                    "wilson_score",
+                    "fairness_index",
+                    "trust_score",
+                    "service_score",
+                    "predicted_cluster",
+                ]
+            ].copy()
 
-                df_new_fe = df_new_fe.loc[df_new_cluster.index].copy()
-                df_new_fe["predicted_cluster"] = new_labels
+            df_display["price_original"] = df_display["price_original"].apply(
+                format_price
+            )
+            df_display["price_discounted"] = df_display["price_discounted"].apply(
+                format_price
+            )
+            df_display["real_price"] = df_display["real_price"].apply(format_price)
 
-                st.subheader("🔮 Kết quả dự đoán cụm cho dữ liệu mới")
-                st.dataframe(
-                    df_new_fe[
-                        [
-                            "price_original",
-                            "price_discounted",
-                            "duration_minutes",
-                            "rating_overall",
-                            "reviewer_count",
-                            "number_of_seat",
-                            "real_price",
-                            "log_price",
-                            "wilson_score",
-                            "fairness_index",
-                            "trust_score",
-                            "service_score",
-                            "predicted_cluster",
-                        ]
-                    ]
-                )
+            st.subheader("🔮 Kết quả dự đoán cụm cho dữ liệu mới")
+            st.dataframe(df_display)
 
-                # ======= HIỆN GIẢI THÍCH CỤM CHO TỪNG NHÓM XUẤT HIỆN =======
-                st.subheader("📘 Giải thích ý nghĩa các cụm xuất hiện trong dự đoán")
+            # ======= HIỆN GIẢI THÍCH CỤM CHO TỪNG NHÓM XUẤT HIỆN =======
+            st.subheader("📘 Giải thích ý nghĩa các cụm xuất hiện trong dự đoán")
 
-                for c in sorted(df_new_fe["predicted_cluster"].unique()):
-                    st.markdown(f"### 🎯 Cluster {c} – {cluster_meanings[c]['name']}")
-                    st.markdown(cluster_meanings[c]["description"])
-                    idx_list = df_new_fe.index[df_new_fe["predicted_cluster"] == c]
-                    st.caption(f"Các dòng thuộc cụm {c}: {list(idx_list)}")
+            for c in sorted(df_new_fe["predicted_cluster"].unique()):
+                st.markdown(f"### 🎯 Cluster {c} – {cluster_meanings[c]['name']}")
+                st.markdown(cluster_meanings[c]["description"])
+                idx_list = df_new_fe.index[df_new_fe["predicted_cluster"] == c]
+                st.caption(f"Các dòng thuộc cụm {c}: {list(idx_list)}")
