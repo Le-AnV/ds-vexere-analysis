@@ -68,13 +68,6 @@ def feature_engineering(df_raw: pd.DataFrame) -> pd.DataFrame:
 # =========================================================
 st.title("🚍 Phân cụm chuyến xe khách theo giá & chất lượng dịch vụ")
 
-st.write(
-    """
-    Flow:
-    1) Dùng dữ liệu trong `data/processed` để huấn luyện KMeans (K = 3).  
-    2) Sau đó nhập tay chuyến xe mới trên web để xem nó rơi vào cụm nào và ý nghĩa của cụm đó.
-    """
-)
 
 # =========================================================
 # 2. LOAD DỮ LIỆU TRAIN TỪ CSV
@@ -172,10 +165,6 @@ df_cluster_train["cluster"] = train_labels
 # Join cluster về lại df_train_fe (theo index)
 df_train_result = df_train_fe.join(df_cluster_train["cluster"], how="left")
 
-st.success("✅ Đã huấn luyện KMeans với K = 3 trên dữ liệu CSV.")
-st.subheader("📄 Một phần dữ liệu train sau phân cụm")
-st.dataframe(df_train_result.head())
-
 # =========================================================
 # 5. PCA TRÊN DỮ LIỆU TRAIN (OPTIONAL)
 # =========================================================
@@ -219,7 +208,7 @@ def format_price(v: float | int) -> str:
 # =========================================================
 # 7. NHẬP DỮ LIỆU MỚI TRÊN WEB → DỰ ĐOÁN CỤM
 # =========================================================
-st.header("2️⃣ Nhập chuyến xe mới để xem thuộc cụm nào")
+st.header("Nhập chuyến xe mới để xem thuộc cụm nào")
 
 st.write(
     """
@@ -376,4 +365,3 @@ if st.button("🚀 Dự đoán cụm cho dữ liệu mới"):
                 st.markdown(f"### 🎯 Cluster {c} – {cluster_meanings[c]['name']}")
                 st.markdown(cluster_meanings[c]["description"])
                 idx_list = df_new_fe.index[df_new_fe["predicted_cluster"] == c]
-                st.caption(f"Các dòng thuộc cụm {c}: {list(idx_list)}")
