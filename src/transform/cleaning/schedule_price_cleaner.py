@@ -24,6 +24,9 @@ def normalize_fare_values(df: pd.DataFrame, cols: list[str]) -> pd.DataFrame:
     df["price_original"] = price.iloc[:, 0]
     df["price_discounted"] = price.iloc[:, 1]
 
+    # Nếu discounted = 0 thì lấy giá original
+    df.loc[df["price_discounted"] == 0, "price_discounted"] = df["price_original"]
+
     return df
 
 
